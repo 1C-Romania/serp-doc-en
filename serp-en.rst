@@ -811,11 +811,7 @@ arbitrary contact information. For the company, you can specify, for
 example, Director mobile phone number, Supply Department phone number,
 security phone number, and other.
 
-<<<<<<< HEAD
 |image1521153990835985|
-=======
-|1521139814407240|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 On the **Print settings** tab, you can select the company's logo and
 facsimile from the attached files to use them in the **Proforma
@@ -977,11 +973,7 @@ select the **Accounting by business areas** check box.
 To access information on the company's business areas, click **Business
 areas** catalog.
 
-<<<<<<< HEAD
 |image1521153990886820|
-=======
-|1521139815007577|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 You can use the catalog items as income and expense accounting
 dimensions, financial result.
@@ -1557,11 +1549,7 @@ list with data filter by prices, price groups, and specific products.
 Besides, you can use advanced filters. To set advanced filters, click
 **Setting** and specify the required conditions.
 
-<<<<<<< HEAD
 |image1521153990863844|
-=======
-|1521139814713789|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 You can also add, delete, and set products and services prices using the
 price list.
@@ -1750,11 +1738,7 @@ Specify a project for which the order is planned in the **Project**
 field (only if you enable accounting by projects in accounting parameter
 settings).
 
-<<<<<<< HEAD
 |image1521153990787434|
-=======
-|1521139813831970|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 To assign a discount for the selected product, on the document form,
 click the link highlighted in the picture.
@@ -2516,11 +2500,7 @@ activity. Click **Sales reports** to access all reports of the **Sales**
 section. Use the section report panel to open the section report
 variants divided by subsystems.
 
-<<<<<<< HEAD
 |image1521153990992417|
-=======
-|1521139816203457|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 To open a form of selection and report panel settings, click **All
 reports**. In the left side of the form, you can see a tree of sections
@@ -4501,11 +4481,7 @@ You can schedule product manufacturing on the **Planning schedule** or
 -  Specify planned start and end dates of works in the **Start** and
    **Finish** fields.
 
-<<<<<<< HEAD
 |image1521153991043879|
-=======
-|1521139821080274|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 Employee work planning
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -4530,11 +4506,7 @@ Employees working on a specific manufacturing task can be grouped into
 catalog. To access the catalog, in the **Catalogs** group, in the
 navigation panel, click **Teams**.
 
-<<<<<<< HEAD
 |image1521153991071634|
-=======
-|1521139821376955|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 On the catalog item form, specify a team name and its staff – employees
 selected from the **Employees** catalog.
@@ -4552,11 +4524,7 @@ To access the **Job sheets** document journal, in the **Manufacturing**
 section, in the navigation panel, in the **Jobs and job sheets** group,
 click **Job sheets**.
 
-<<<<<<< HEAD
 |image1521153990916516|
-=======
-|1521139815340252|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 The document contains information on contracted works and performers
 responsible for these works. A separate employee or a team may be a
@@ -4565,11 +4533,7 @@ on the document form. The table field of the tab is filled in with
 employees included in the team. To fill in the table field automatically
 with the **Teams** catalog data, click **Fill in team members**.
 
-<<<<<<< HEAD
 |image1521153990943777|
-=======
-|1521139815635011|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 If you select the **Closed** check box, salary will be accrued to
 performers on closing date.
@@ -5271,11 +5235,7 @@ document defines its attributes. For the **Receipt to account**
 document, the same operation kinds as for the **Credit slip** document
 are used excluding retail revenue.
 
-<<<<<<< HEAD
 |image1521153991019950|
-=======
-|1521139816507009|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 Expense from account
 ~~~~~~~~~~~~~~~~~~~~
@@ -6130,11 +6090,7 @@ operations or access the property document journal.
 To access information on parameters and state of the current asset,
 click the link in the navigation panel of the catalog item form.
 
-<<<<<<< HEAD
 |image1521153990967966|
-=======
-|1521139815909707|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 Specify the following information for property: a type (**Fixed asset**
 or **Intangible asset**), a depreciation method (**Proportionally to
@@ -6205,11 +6161,7 @@ Use the **Property output** document for showing information on asset
 output. Enter a list of assets in the tabular field of the document form
 and specify the output volume in the **Quantity** column.
 
-<<<<<<< HEAD
 |image1521153991123230|
-=======
-|1521139821986881|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 Property outflow
 ~~~~~~~~~~~~~~~~
@@ -6346,11 +6298,7 @@ beginning of the chapter). Use the accounting register to generate the
 You can access the reports in the report panel available by clicking the
 corresponding link in the navigation panel of the section.
 
-<<<<<<< HEAD
 |image1521153990810418|
-=======
-|1521139814125656|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 Non-allocated costs
 ~~~~~~~~~~~~~~~~~~~
@@ -6681,11 +6629,7 @@ Sales
 In the **Sales** report, you can see data on sold products and services
 items over the specified time period in quantitative and value terms.
 
-<<<<<<< HEAD
 |image1521153991148112|
-=======
-|1521139824501474|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 In the report, you can use grouping by orders.
 
@@ -6700,11 +6644,7 @@ Goods in products and services prices
 Use the report for analysis of potential inventory volume in warehouses
 in quantitative and value terms.
 
-<<<<<<< HEAD
 |image1521153991172040|
-=======
-|1521139824794133|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 Balance
 ~~~~~~~
@@ -6730,11 +6670,7 @@ In the report, you can see information on financial result forecast over
 the specified period for the selected company. The report is generated
 based on data of the **Budget** documents.
 
-<<<<<<< HEAD
 |image1521153991097938|
-=======
-|1521139821698417|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 The report can be generated in the **Main** and **Variance analysis**
 modes.
@@ -8142,11 +8078,7 @@ properties to an indicator list, set a filter by additional information
 generate the report (for example, **Customer order analysis**). You can
 set an hierarchy for additional information.
 
-<<<<<<< HEAD
 |image1521153991195902|
-=======
-|1521139826897244|
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
 
 After saving the settings, create a new customer order using products
 with the specified values of additional attribute and property. Then
@@ -9563,11 +9495,7 @@ the **Product release** report.
 .. |image1521153991920416| image:: media/image5.png
    :width: 4.63542in
    :height: 4.375in
-<<<<<<< HEAD
 .. |image1521153990835985| image:: media/image6.png
-=======
-.. |1521139814407240| image:: media/image6.png
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
    :width: 4.63542in
    :height: 2.52083in
 .. |image1521153997908714| image:: media/image7.png
@@ -9605,11 +9533,7 @@ the **Product release** report.
 .. |image1521153995444332| image:: media/image18.png
    :width: 4.63542in
    :height: 2.79167in
-<<<<<<< HEAD
 .. |image1521153990886820| image:: media/image19.png
-=======
-.. |1521139815007577| image:: media/image19.png
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
    :width: 4.44792in
    :height: 3.08333in
 .. |image1521153998143192| image:: media/image20.png
@@ -9726,11 +9650,7 @@ the **Product release** report.
 .. |image1521153992603037| image:: media/image56.png
    :width: 4.625in
    :height: 3.21875in
-<<<<<<< HEAD
 .. |image1521153990863844| image:: media/image57.png
-=======
-.. |1521139814713789| image:: media/image57.png
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
    :width: 4.11458in
    :height: 3.02083in
 .. |image1521153998506419| image:: media/image58.png
@@ -9760,11 +9680,7 @@ the **Product release** report.
 .. |image1521153992576630| image:: media/image66.png
    :width: 4.61458in
    :height: 3.02083in
-<<<<<<< HEAD
 .. |image1521153990787434| image:: media/image67.png
-=======
-.. |1521139813831970| image:: media/image67.png
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
    :width: 4.63542in
    :height: 3.17708in
 .. |image1521153994733975| image:: media/image68.png
@@ -9875,11 +9791,7 @@ the **Product release** report.
 .. |image1521153999120124| image:: media/image103.png
    :width: 3.59375in
    :height: 0.95833in
-<<<<<<< HEAD
 .. |image1521153990992417| image:: media/image104.png
-=======
-.. |1521139816203457| image:: media/image104.png
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
    :width: 4.63542in
    :height: 4.36458in
 .. |image1521153996884743| image:: media/image105.png
@@ -10185,7 +10097,6 @@ the **Product release** report.
 .. |image1521153995973930| image:: media/image205.png
    :width: 4.63542in
    :height: 2.625in
-<<<<<<< HEAD
 .. |image1521153991043879| image:: media/image206.png
    :width: 4.63542in
    :height: 2.8125in
@@ -10196,18 +10107,6 @@ the **Product release** report.
    :width: 4.59375in
    :height: 3.15625in
 .. |image1521153990943777| image:: media/image209.png
-=======
-.. |1521139821080274| image:: media/image206.png
-   :width: 4.63542in
-   :height: 2.8125in
-.. |1521139821376955| image:: media/image207.png
-   :width: 4.63542in
-   :height: 3.07292in
-.. |1521139815340252| image:: media/image208.png
-   :width: 4.59375in
-   :height: 3.15625in
-.. |1521139815635011| image:: media/image209.png
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
    :width: 4.63542in
    :height: 3.19792in
 .. |image1521153997855922| image:: media/image210.png
@@ -10315,11 +10214,7 @@ the **Product release** report.
 .. |image1521153993926902| image:: media/image244.png
    :width: 4.63542in
    :height: 2.28125in
-<<<<<<< HEAD
 .. |image1521153991019950| image:: media/image245.png
-=======
-.. |1521139816507009| image:: media/image245.png
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
    :width: 4.63542in
    :height: 3.02083in
 .. |image1521153993614566| image:: media/image246.png
@@ -10475,11 +10370,7 @@ the **Product release** report.
 .. |image1521153996574529| image:: media/image296.png
    :width: 4.63542in
    :height: 2.08333in
-<<<<<<< HEAD
 .. |image1521153990967966| image:: media/image297.png
-=======
-.. |1521139815909707| image:: media/image297.png
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
    :width: 4.20833in
    :height: 2.98958in
 .. |image1521154000947397| image:: media/image298.png
@@ -10494,11 +10385,7 @@ the **Product release** report.
 .. |image1521153996547666| image:: media/image301.png
    :width: 4.625in
    :height: 1.38542in
-<<<<<<< HEAD
 .. |image1521153991123230| image:: media/image302.png
-=======
-.. |1521139821986881| image:: media/image302.png
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
    :width: 4.67708in
    :height: 2.86458in
 .. |image1521153995080831| image:: media/image303.png
@@ -10522,11 +10409,7 @@ the **Product release** report.
 .. |image1521153992144107| image:: media/image309.png
    :width: 4.63542in
    :height: 3.40625in
-<<<<<<< HEAD
 .. |image1521153990810418| image:: media/image310.png
-=======
-.. |1521139814125656| image:: media/image310.png
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
    :width: 4.63542in
    :height: 3.01042in
 .. |image1521154000973273| image:: media/image311.png
@@ -10568,21 +10451,13 @@ the **Product release** report.
 .. |image1521154001127771| image:: media/image323.png
    :width: 3.9375in
    :height: 3.21875in
-<<<<<<< HEAD
 .. |image1521153991148112| image:: media/image324.png
-=======
-.. |1521139824501474| image:: media/image324.png
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
    :width: 4.63542in
    :height: 2.90625in
 .. |image1521153994220831| image:: media/image325.png
    :width: 4.63542in
    :height: 3.47917in
-<<<<<<< HEAD
 .. |image1521153991172040| image:: media/image326.png
-=======
-.. |1521139824794133| image:: media/image326.png
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
    :width: 4.625in
    :height: 3.15625in
 .. |image1521153994867896| image:: media/image327.png
@@ -10591,11 +10466,7 @@ the **Product release** report.
 .. |image1521154001156599| image:: media/image328.png
    :width: 4.33333in
    :height: 3.33333in
-<<<<<<< HEAD
 .. |image1521153991097938| image:: media/image329.png
-=======
-.. |1521139821698417| image:: media/image329.png
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
    :width: 4.63542in
    :height: 3.26042in
 .. |image1521154001183743| image:: media/image330.png
@@ -10757,11 +10628,7 @@ the **Product release** report.
 .. |image1521153994578733| image:: media/image381.png
    :width: 4.63542in
    :height: 3.33333in
-<<<<<<< HEAD
 .. |image1521153991195902| image:: media/image382.png
-=======
-.. |1521139826897244| image:: media/image382.png
->>>>>>> 94b11954954ac09109294a51b49ad005e1bbfbc8
    :width: 4.48958in
    :height: 3.5in
 .. |image1521154001414002| image:: media/image383.png
