@@ -629,7 +629,7 @@ With the solution, you can register the following financial plans
 
 -  Profit and loss budget
 
--  Сash flow budget
+-  Cash flow budget
 
 Performance indicators
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -1519,7 +1519,7 @@ right-click the schedule scale to open document form **Event** or **Job
 order**.
 
 You can also view events in the **Month** presentation. To view it,
-сlick **Month**.
+click **Month**.
 
 |image120.png|
 
@@ -4696,7 +4696,7 @@ on the **Products** tab, in the **Recipient** and **Bin (recipient)**
 fields, specify the warehouse and the bin of finished product receipt.
 
 You can auto populate the above listed fields. To specify default values
-seе in the **Manufacturing** document, in the **Company business units**
+see in the **Manufacturing** document, in the **Company business units**
 catalog, click **View and edit parameters of inventory auto transfer**.
 To access the catalog, in the **Company** section, in the **Reference
 information** panel, click **Departments**.
@@ -5570,7 +5570,7 @@ PAYROLL AND SALARY ACCOUNTING
 Below you can see an interaction scheme of documents used in payroll and
 salary accounting.
 
-|Картинка1|
+|kartinka1|
 
 Consider hours worked by employees for accrual kinds with time-based
 payment. Use the **Time recording sheet** document for this purpose.
@@ -7640,7 +7640,7 @@ On the first page of the wizard, you can perform the following:
    later** radio button. Click **Finish** to close the wizard.
 
 -  If you back up data using external tools, for example, DBMS tools in
-   the client/server mode, clear the **Run automatiс backup** check box.
+   the client/server mode, clear the **Run automatic backup** check box.
 
 If you select the **Run automatic backup** check box, specify a backup
 method – on schedule or on exiting the application.
@@ -10289,7 +10289,7 @@ the **Product release** report.
 .. |6001| image:: media/image269.png
    :width: 4.51042in
    :height: 3.21875in
-.. |Картинка1| image:: media/image270.png
+.. |kartinka1| image:: media/image270.png
    :width: 4.625in
    :height: 4.0625in
 .. |Timesheet| image:: media/image271.png
