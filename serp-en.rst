@@ -811,7 +811,7 @@ arbitrary contact information. For the company, you can specify, for
 example, Director mobile phone number, Supply Department phone number,
 security phone number, and other.
 
-|Image 1|
+|1521139814407240|
 
 On the **Print settings** tab, you can select the company's logo and
 facsimile from the attached files to use them in the **Proforma
@@ -973,7 +973,7 @@ select the **Accounting by business areas** check box.
 To access information on the company's business areas, click **Business
 areas** catalog.
 
-|Image 3|
+|1521139815007577|
 
 You can use the catalog items as income and expense accounting
 dimensions, financial result.
@@ -1549,7 +1549,7 @@ list with data filter by prices, price groups, and specific products.
 Besides, you can use advanced filters. To set advanced filters, click
 **Setting** and specify the required conditions.
 
-|Image 2|
+|1521139814713789|
 
 You can also add, delete, and set products and services prices using the
 price list.
@@ -1738,7 +1738,7 @@ Specify a project for which the order is planned in the **Project**
 field (only if you enable accounting by projects in accounting parameter
 settings).
 
-|CO10|
+|1521139813831970|
 
 To assign a discount for the selected product, on the document form,
 click the link highlighted in the picture.
@@ -2500,7 +2500,7 @@ activity. Click **Sales reports** to access all reports of the **Sales**
 section. Use the section report panel to open the section report
 variants divided by subsystems.
 
-|MandS|
+|1521139816203457|
 
 To open a form of selection and report panel settings, click **All
 reports**. In the left side of the form, you can see a tree of sections
@@ -4481,7 +4481,7 @@ You can schedule product manufacturing on the **Planning schedule** or
 -  Specify planned start and end dates of works in the **Start** and
    **Finish** fields.
 
-|Image 1|
+|1521139821080274|
 
 Employee work planning
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -4506,7 +4506,7 @@ Employees working on a specific manufacturing task can be grouped into
 catalog. To access the catalog, in the **Catalogs** group, in the
 navigation panel, click **Teams**.
 
-|Image 2|
+|1521139821376955|
 
 On the catalog item form, specify a team name and its staff – employees
 selected from the **Employees** catalog.
@@ -4524,7 +4524,7 @@ To access the **Job sheets** document journal, in the **Manufacturing**
 section, in the navigation panel, in the **Jobs and job sheets** group,
 click **Job sheets**.
 
-|Image 4|
+|1521139815340252|
 
 The document contains information on contracted works and performers
 responsible for these works. A separate employee or a team may be a
@@ -4533,7 +4533,7 @@ on the document form. The table field of the tab is filled in with
 employees included in the team. To fill in the table field automatically
 with the **Teams** catalog data, click **Fill in team members**.
 
-|Image 5|
+|1521139815635011|
 
 If you select the **Closed** check box, salary will be accrued to
 performers on closing date.
@@ -5235,7 +5235,7 @@ document defines its attributes. For the **Receipt to account**
 document, the same operation kinds as for the **Credit slip** document
 are used excluding retail revenue.
 
-|REceiptToAccount|
+|1521139816507009|
 
 Expense from account
 ~~~~~~~~~~~~~~~~~~~~
@@ -6090,7 +6090,7 @@ operations or access the property document journal.
 To access information on parameters and state of the current asset,
 click the link in the navigation panel of the catalog item form.
 
-|Image 7|
+|1521139815909707|
 
 Specify the following information for property: a type (**Fixed asset**
 or **Intangible asset**), a depreciation method (**Proportionally to
@@ -6161,7 +6161,7 @@ Use the **Property output** document for showing information on asset
 output. Enter a list of assets in the tabular field of the document form
 and specify the output volume in the **Quantity** column.
 
-|Image 7|
+|1521139821986881|
 
 Property outflow
 ~~~~~~~~~~~~~~~~
@@ -6298,7 +6298,7 @@ beginning of the chapter). Use the accounting register to generate the
 You can access the reports in the report panel available by clicking the
 corresponding link in the navigation panel of the section.
 
-|Image 10|
+|1521139814125656|
 
 Non-allocated costs
 ~~~~~~~~~~~~~~~~~~~
@@ -6629,7 +6629,7 @@ Sales
 In the **Sales** report, you can see data on sold products and services
 items over the specified time period in quantitative and value terms.
 
-|Image 1|
+|1521139824501474|
 
 In the report, you can use grouping by orders.
 
@@ -6644,7 +6644,7 @@ Goods in products and services prices
 Use the report for analysis of potential inventory volume in warehouses
 in quantitative and value terms.
 
-|Image 2|
+|1521139824794133|
 
 Balance
 ~~~~~~~
@@ -6670,7 +6670,7 @@ In the report, you can see information on financial result forecast over
 the specified period for the selected company. The report is generated
 based on data of the **Budget** documents.
 
-|Image 5|
+|1521139821698417|
 
 The report can be generated in the **Main** and **Variance analysis**
 modes.
@@ -8078,7 +8078,7 @@ properties to an indicator list, set a filter by additional information
 generate the report (for example, **Customer order analysis**). You can
 set an hierarchy for additional information.
 
-|Image 1|
+|1521139826897244|
 
 After saving the settings, create a new customer order using products
 with the specified values of additional attribute and property. Then
@@ -9495,7 +9495,7 @@ the **Product release** report.
 .. |Addresses| image:: media/image5.png
    :width: 4.63542in
    :height: 4.375in
-.. |Image 1| image:: media/image6.png
+.. |1521139814407240| image:: media/image6.png
    :width: 4.63542in
    :height: 2.52083in
 .. |image013.png| image:: media/image7.png
@@ -9533,7 +9533,7 @@ the **Product release** report.
 .. |Inv| image:: media/image18.png
    :width: 4.63542in
    :height: 2.79167in
-.. |Image 3| image:: media/image19.png
+.. |1521139815007577| image:: media/image19.png
    :width: 4.44792in
    :height: 3.08333in
 .. |image044| image:: media/image20.png
@@ -9650,7 +9650,7 @@ the **Product release** report.
 .. |CPLFilter| image:: media/image56.png
    :width: 4.625in
    :height: 3.21875in
-.. |Image 2| image:: media/image57.png
+.. |1521139814713789| image:: media/image57.png
    :width: 4.11458in
    :height: 3.02083in
 .. |image128.png| image:: media/image58.png
@@ -9680,7 +9680,7 @@ the **Product release** report.
 .. |CO| image:: media/image66.png
    :width: 4.61458in
    :height: 3.02083in
-.. |CO10| image:: media/image67.png
+.. |1521139813831970| image:: media/image67.png
    :width: 4.63542in
    :height: 3.17708in
 .. |Image 24| image:: media/image68.png
@@ -9791,7 +9791,7 @@ the **Product release** report.
 .. |image229.png| image:: media/image103.png
    :width: 3.59375in
    :height: 0.95833in
-.. |MandS| image:: media/image104.png
+.. |1521139816203457| image:: media/image104.png
    :width: 4.63542in
    :height: 4.36458in
 .. |Reports| image:: media/image105.png
@@ -10097,16 +10097,16 @@ the **Product release** report.
 .. |POLoading| image:: media/image205.png
    :width: 4.63542in
    :height: 2.625in
-.. |Image 1| image:: media/image206.png
+.. |1521139821080274| image:: media/image206.png
    :width: 4.63542in
    :height: 2.8125in
-.. |Image 2| image:: media/image207.png
+.. |1521139821376955| image:: media/image207.png
    :width: 4.63542in
    :height: 3.07292in
-.. |Image 4| image:: media/image208.png
+.. |1521139815340252| image:: media/image208.png
    :width: 4.59375in
    :height: 3.15625in
-.. |Image 5| image:: media/image209.png
+.. |1521139815635011| image:: media/image209.png
    :width: 4.63542in
    :height: 3.19792in
 .. |WorkOrder| image:: media/image210.png
@@ -10214,7 +10214,7 @@ the **Product release** report.
 .. |FundsMov| image:: media/image244.png
    :width: 4.63542in
    :height: 2.28125in
-.. |REceiptToAccount| image:: media/image245.png
+.. |1521139816507009| image:: media/image245.png
    :width: 4.63542in
    :height: 3.02083in
 .. |ExpFrAc| image:: media/image246.png
@@ -10370,7 +10370,7 @@ the **Product release** report.
 .. |PropertyMenu| image:: media/image296.png
    :width: 4.63542in
    :height: 2.08333in
-.. |Image 7| image:: media/image297.png
+.. |1521139815909707| image:: media/image297.png
    :width: 4.20833in
    :height: 2.98958in
 .. |image633.png| image:: media/image298.png
@@ -10385,7 +10385,7 @@ the **Product release** report.
 .. |PropDeprec| image:: media/image301.png
    :width: 4.625in
    :height: 1.38542in
-.. |Image 7| image:: media/image302.png
+.. |1521139821986881| image:: media/image302.png
    :width: 4.67708in
    :height: 2.86458in
 .. |Image8| image:: media/image303.png
@@ -10409,7 +10409,7 @@ the **Product release** report.
 .. |Budget4| image:: media/image309.png
    :width: 4.63542in
    :height: 3.40625in
-.. |Image 10| image:: media/image310.png
+.. |1521139814125656| image:: media/image310.png
    :width: 4.63542in
    :height: 3.01042in
 .. |image661| image:: media/image311.png
@@ -10451,13 +10451,13 @@ the **Product release** report.
 .. |image685.png| image:: media/image323.png
    :width: 3.9375in
    :height: 3.21875in
-.. |Image 1| image:: media/image324.png
+.. |1521139824501474| image:: media/image324.png
    :width: 4.63542in
    :height: 2.90625in
 .. |GrossProfit| image:: media/image325.png
    :width: 4.63542in
    :height: 3.47917in
-.. |Image 2| image:: media/image326.png
+.. |1521139824794133| image:: media/image326.png
    :width: 4.625in
    :height: 3.15625in
 .. |Image 4| image:: media/image327.png
@@ -10466,7 +10466,7 @@ the **Product release** report.
 .. |image695.png| image:: media/image328.png
    :width: 4.33333in
    :height: 3.33333in
-.. |Image 5| image:: media/image329.png
+.. |1521139821698417| image:: media/image329.png
    :width: 4.63542in
    :height: 3.26042in
 .. |image699.png| image:: media/image330.png
@@ -10628,7 +10628,7 @@ the **Product release** report.
 .. |Image 16| image:: media/image381.png
    :width: 4.63542in
    :height: 3.33333in
-.. |Image 1| image:: media/image382.png
+.. |1521139826897244| image:: media/image382.png
    :width: 4.48958in
    :height: 3.5in
 .. |image753.png| image:: media/image383.png
