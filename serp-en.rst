@@ -676,7 +676,7 @@ and enter opening balance. Use the **Company information filling**
 set up all the necessary parameters to start working immediately. You
 can access the wizards from the **Quick menu** section.
 
-|image001|
+|image1521153997883264|
 
 To populate the company information, open the **Company information
 filling** **wizard**, specify required data and create the company.
@@ -740,7 +740,7 @@ section:
 
 -  Other settings
 
-|Companies|
+|image1521153993051115|
 
 Companies
 ~~~~~~~~~
@@ -777,11 +777,11 @@ of company management accounting.
 You can use the **Companies** catalog to keep an unlimited list of
 companies.
 
-|Catalog|
+|image1521153992855473|
 
 Enter company information in a dialog box.
 
-|BaseChoice|
+|image1521153992043999|
 
 Enter an abbreviated company name in the **Short name** field. Use the
 radio button to specify whether the company is a legal entity or an
@@ -804,14 +804,14 @@ keep several business calendars.
 On the basis of the business calendar, you can make calculations,
 establish schedules for departments and employees.
 
-|Addresses|
+|image1521153991920416|
 
 On the **Addresses** tab, you can see legal and actual addresses and
 arbitrary contact information. For the company, you can specify, for
 example, Director mobile phone number, Supply Department phone number,
 security phone number, and other.
 
-|1521139814407240|
+|image1521153990835985|
 
 On the **Print settings** tab, you can select the company's logo and
 facsimile from the attached files to use them in the **Proforma
@@ -826,12 +826,12 @@ catalog subordinate to the **Companies** catalog. You can access the
 catalog by clicking the corresponding link in the navigation panel of
 the catalog. In the **Bank account** field of the **Attributes** tab,
 specify a bank account that will be used by default for the company. To
-do it, click the |image013.png|
+do it, click the |image1521153997908714|
 button and select **Show all**. A dialog box appears showing a list of
 available bank accounts. You can add a bank account to it by clicking
 **Create**.
 
-|image015|
+|image1521153997932054|
 
 In the bank account card, specify its number, kind (current, loan,
 deposit, or other), and currency. Select an account kind according to
@@ -858,7 +858,7 @@ You can specify a list of company's responsible persons for automatic
 insertion into document print forms. Use the **Responsible persons**
 information register subordinate to the **Companies** catalog.
 
-|image017|
+|image1521153997958530|
 
 The register contains a list of employees assigned as company
 responsible persons. For each employee, in the **Period** field, specify
@@ -881,7 +881,7 @@ Value of the **Position** attribute of the **Responsible persons**
 information register is an item of the **Positions** catalog. You can
 use the **Positions** catalog to store a list of employee positions.
 
-|image080|
+|image1521153998283790|
 
 Employees
 ~~~~~~~~~
@@ -890,12 +890,12 @@ The **Employee** attribute value of the **Responsible persons**
 information register is an item of the **Employees** catalog. Use the
 **Employees** catalog to store information on company employees.
 
-|image021 (2)|
+|image1521153997987965|
 
 Information related to individual's labor activity is specified in the
 catalog.
 
-|image023.png|
+|image1521153998014657|
 
 The list of individuals is stored in the **Individuals** catalog. Every
 employee corresponds to an individual. You can specify an employment
@@ -915,20 +915,20 @@ example, last name, name, date of birth and other. To access the
 catalog, in the **Payroll** section, in the navigation panel, click the
 corresponding link.
 
-|image025.png|
+|image1521153998039265|
 
 The catalog items can be divided into arbitrary groups and subgroups
 with unlimited nesting levels. You can also divide individuals by
 additional characteristics. On the **Addresses** tab, you can specify
 contact information of an individual.
 
-|Individual|
+|image1521153995193513|
 
 Information on identity documents can be populated on a separate form.
 
 You can also use a separate form to fill in an individual's full name.
 
-|image030.png|
+|image1521153998065539|
 
 If additional attributes or additional information are specified for an
 individual, the corresponding tab or button for opening additional
@@ -947,12 +947,12 @@ Departments
 To access the department list, click **Business units** catalog. Enter
 this data for each company.
 
-|image036|
+|image1521153998091969|
 
 On the **Main** tab, specify a name and department type for each
 business unit.
 
-|image038|
+|image1521153998117928|
 
 In the **Addresses** section, specify an actual address and phone of the
 department.
@@ -962,7 +962,7 @@ business unit form to access the dialog box for entering and changing
 parameters of inventory movement for default insertion into inventory
 accounting documents.
 
-|Inv|
+|image1521153995444332|
 
 Business areas
 ~~~~~~~~~~~~~~
@@ -973,7 +973,7 @@ select the **Accounting by business areas** check box.
 To access information on the company's business areas, click **Business
 areas** catalog.
 
-|1521139815007577|
+|image1521153990886820|
 
 You can use the catalog items as income and expense accounting
 dimensions, financial result.
@@ -987,7 +987,7 @@ Chart of accounts
 Use **Chart of accounts** when entering business areas to specify GL
 accounts of income and expenses.
 
-|image044|
+|image1521153998143192|
 
 To access chart of accounts, click **Chart of accounts** in the
 navigation panel of the **Company** section. The link is available in
@@ -1001,7 +1001,7 @@ company resources used to perform job orders and production orders. To
 access the catalog, in the **Settings** section, in the **Company**
 accounting parameter settings, click **Company resources catalog**.
 
-|CompanyResources|
+|image1521153993075966|
 
 Other
 ~~~~~
@@ -1037,7 +1037,7 @@ Select check boxes to use discounts and markups, receive and transfer
 goods for commission, store information about projects and group
 customer orders into projects.
 
-|Sales|
+|image1521153996985613|
 
 Retail
 ~~~~~~
@@ -1054,7 +1054,7 @@ company cash registers. To access the catalog, in accounting parameter
 settings, click **Cash registers catalog**. The catalog is available if
 the **Retail sales accounting** check box is selected.
 
-|image050|
+|image1521153998168296|
 
 POS terminals
 ~~~~~~~~~~~~~
@@ -1084,7 +1084,7 @@ open the catalog and fill in information on production order states that
 will be used in the company by clicking **Customer order states
 catalog**.
 
-|COstates|
+|image1521153992551014|
 
 Purchases settings section
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1119,7 +1119,7 @@ In this section, you can set up a default due date of payment to
 supplier used for insertion into the corresponding attribute of a
 contract with supplier.
 
-|Purchases|
+|image1521153996726666|
 
 Warehouses
 ~~~~~~~~~~
@@ -1127,12 +1127,12 @@ Warehouses
 To access the catalog with business units of the company, in the form of
 accounting parameter settings, click **Business units catalog**.
 
-|Warehouses|
+|image1521153997804620|
 
 On the **Main** tab, specify a type, a retail price kind, an inventory
 custodian for every business unit.
 
-|MainWarehouse|
+|image1521153995624780|
 
 In the **Addresses** section, specify a warehouse address and phone
 number.
@@ -1142,13 +1142,13 @@ business unit form to access the dialog box for entering and changing
 parameters of inventory movement for default insertion into inventory
 accounting documents.
 
-|Inv|
+|image1521153995444332|
 
 For every business unit, you can assign an arbitrary number of storage
 bins. To assign bins, navigate to the **Warehouse bins** catalog form.
 Specify a name for every bin, unlimited nesting levels are allowed.
 
-|WarehouseBins|
+|image1521153997754466|
 
 Purchase order states
 ~~~~~~~~~~~~~~~~~~~~~
@@ -1170,14 +1170,14 @@ If the **Several purchase order states** check box is selected, you can
 open the **Purchase order states catalog** and fill in information on
 purchase order states that will be used in the company.
 
-|POStates|
+|image1521153996024849|
 
 Service settings section
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 In the section, you can specify accounting settings of job order states.
 
-|ServiceSettings|
+|image1521153997141759|
 
 In the application, you can keep records of job order states using main
 or simplified scheme (recommended option). If you use simplified scheme,
@@ -1210,7 +1210,7 @@ options:
 
 -  Processing of supplier's raw materials
 
-|Manuf|
+|image1521153995751392|
 
 Production order states
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -1232,7 +1232,7 @@ If the **Several production order states** check box is selected, you
 can open the **Production order states catalog** and fill in information
 on production order states that will be used in the company.
 
-|PrOStates|
+|image1521153996315875|
 
 Funds settings section
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -1242,7 +1242,7 @@ corresponding check boxes, you can enable the following options: keeping
 multi-currency accounting, keeping a payment calendar, automatic advance
 and debts set-off when posting documents.
 
-|Funds|
+|image1521153994034030|
 
 If you keep records in foreign currency different from the national one
 in the application, select the **Keep records in foreign currency**
@@ -1270,7 +1270,7 @@ the company.
 Use the **Cash funds** catalog to record actual cash storage locations
 and cash flow (cash offices, department manager safe-deposit boxes).
 
-|image074|
+|image1521153998192592|
 
 The same cash fund can be used by different companies. Funds in
 different currencies can be kept in the same cash fund.
@@ -1286,7 +1286,7 @@ specify the following information on each cash fund: name (for example,
 the cash fund, and GL account of funds. You can select currency from the
 drop-down list whose options depend on the **Currencies** catalog.
 
-|image076|
+|image1521153998220490|
 
 When registering documents accompanying receipt and issue of cash
 (credit and debit slips), in the catalog, select a cash fund that
@@ -1299,7 +1299,7 @@ In this section, you can configure HR recordkeeping and payroll
 settings. Select the corresponding check boxes to enable accounting of
 internal secondary job employees, staff list, income tax recording.
 
-|Payroll|
+|image1521153996185544|
 
 .. _positions-1:
 
@@ -1310,7 +1310,7 @@ You can use the **Positions** catalog to store a list of employee
 positions. To access the catalog, in the **Payroll** section, in the
 **See also** group, click **Positions**.
 
-|image080.png|
+|image1521153998256992|
 
 Working time kinds
 ~~~~~~~~~~~~~~~~~~
@@ -1319,7 +1319,7 @@ You can use the **Working time kinds** catalog to designate used working
 time kind in a timesheet. To access the catalog, in the **Payroll**
 section, in the **See also** group, click **Working time kinds**.
 
-|WTK|
+|image1521153997727675|
 
 Document kinds of individuals
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1329,7 +1329,7 @@ list of identity document kinds. To access the catalog, in the
 **Payroll** section, in the **Catalogs** group, click **Document kinds**
 **of individuals**.
 
-|IndDK|
+|image1521153995163977|
 
  
 
@@ -1357,7 +1357,7 @@ To access the **Counterparties** catalog, in the **Sales** section, in
 the navigation panel, click **Counterparties**. Enter counterparty data
 on the counterparty card form.
 
-|Helix|
+|image1521153994269502|
 
 Specify a company type (legal entity or individual) for each
 counterparty using the **Counterparty kind** radio button. Depending on
@@ -1374,14 +1374,14 @@ a counterparty. Depending on your selection, there is different number
 of dimensions in documents to be filled in to generate a report on
 mutual settlements with counterparties by corresponding sections.
 
-|Helix2|
+|image1521153994246824|
 
 To quickly enter addresses, use the address classifier. Enter addresses
 and phones using a special dialog box.
 
-|image094.png|
+|image1521153998320793|
 
-|image096.png|
+|image1521153998343897|
 
 Counterparty contact persons
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1392,7 +1392,7 @@ representatives or vice versa addressed to them) in the infobase. A list
 of such representatives is stored in the infobase, in the **Counterparty
 contact persons** catalog subordinate to the **Counterparties** catalog.
 
-|image098.png|
+|image1521153998373116|
 
 Specify a full name and a role for each counterparty. You can edit
 information on contact persons of a counterparty in a separate window.
@@ -1412,7 +1412,7 @@ interaction with the contact person.
 On the **Roles** tab, specify a role of each contact person. Role values
 are selected from the corresponding catalog.
 
-|image100|
+|image1521153998404609|
 
 On the contact person form, the **Additionally** (for entering an
 arbitrary employee comment) and **Addresses** (for specifying contact
@@ -1421,7 +1421,7 @@ available.
 
 In the application, you can print contact information of counterparties.
 
-|CountList|
+|image1521153993175676|
 
 To print contact information, in a counterparty list, perform the
 following steps:
@@ -1439,7 +1439,7 @@ separate area.
 
 Events such as a phone call, sending email to a contact person of a
 counterparty or personal meeting with them are registered and planned
-with the **Event** document. |ContPerson4|
+with the **Event** document. |image1521153993102397|
 
 Each event has one of the following states: **Planned**, **Completed**,
 **Canceled**. Specify start and end dates (planned and actual) for an
@@ -1464,13 +1464,13 @@ the following documents:
 A user can view history of interaction with the selected counterparty
 any time from their card. To display history, click **Events**.
 
-|Events|
+|image1521153993582692|
 
 From a counterparty card you can display a list of all documents related
 to a specific counterparty. In the navigation panel, click
 **Counterparty documents**.
 
-|Documents|
+|image1521153993434994|
 
 Sending emails
 ~~~~~~~~~~~~~~
@@ -1478,17 +1478,17 @@ Sending emails
 To send an email to a counterparty, in the counterparty card, click
 **More**, and then click **Send email**.
 
-|SendEmail0|
+|image1521153997063387|
 
 To email a generated print document to a counterparty from the document
 form, click **Send**.
 
-|image112.png|
+|image1521153998432516|
 
 The sent email is recorded automatically by the application by
 generating the **Event** document.
 
-|SendEmail3|
+|image1521153997088535|
 
 You can receive information on sent emails:
 
@@ -1507,12 +1507,12 @@ job orders planned for the current period (day, week, month), and
 schedule the new ones. On the **My agenda** tab, you can analyze planned
 events and jobs.
 
-|image116|
+|image1521153998458675|
 
 To plan events and jobs (both for you and other employees), use
 **Employee schedule**.
 
-|EmplCal|
+|image1521153993458581|
 
 To plan a new event, on the **Day** schedule form, double-click or
 right-click the schedule scale to open document form **Event** or **Job
@@ -1521,7 +1521,7 @@ order**.
 You can also view events in the **Month** presentation. To view it,
 click **Month**.
 
-|image120.png|
+|image1521153998482105|
 
 PRICING
 ~~~~~~~
@@ -1535,7 +1535,7 @@ on conditions. You can generate a price list for every price.
 To generate, view, and configure a price list, in the **Prices** group,
 click **Counterparty price lists**.
 
-|CPL|
+|image1521153992636490|
 
 The price list structure depends on price kinds and price groups. Price
 kinds form columns of the price list. Price groups divide the price list
@@ -1544,12 +1544,12 @@ into hierarchical groups.
 Using the attributes above the command bar, you can generate the price
 list with data filter by prices, price groups, and specific products.
 
-|CPLFilter|
+|image1521153992603037|
 
 Besides, you can use advanced filters. To set advanced filters, click
 **Setting** and specify the required conditions.
 
-|1521139814713789|
+|image1521153990863844|
 
 You can also add, delete, and set products and services prices using the
 price list.
@@ -1563,7 +1563,7 @@ in the **Prices** group. There are the following predefined items in the
 catalog: **Wholesale price** and **Accounting price**. Users can edit
 them and add other price kinds to the catalog.
 
-|image128.png|
+|image1521153998506419|
 
 In the document, specify the following for every price kind: a name, a
 currency, and set whether this price kind will be rounded off.
@@ -1583,12 +1583,12 @@ If you select the **Calculated** or **Calculated dynamically** price
 calculation method, required attribute **Basic price kind** appears on
 the form. To calculate the price, you can specify a markup percent.
 
-|image130.png|
+|image1521153998533209|
 
 On the **Price format** tab, specify a format for the selected price
 kind using a special dialog box available by clicking **Change**.
 
-|Image 22|
+|image1521153994708720|
 
 The format is used to display a price in the price list.
 
@@ -1601,7 +1601,7 @@ type on the **Main parameters** tab. You can access a price group list
 in the **Price groups** catalog by clicking **Price groups** on the
 price list form.
 
-|image134.png|
+|image1521153998559080|
 
 Discounts and markups
 ~~~~~~~~~~~~~~~~~~~~~
@@ -1611,7 +1611,7 @@ and terms are stored in the **Markup and discount kinds** catalog. You
 can access the catalog by clicking the corresponding link of the
 **Prices** group.
 
-|image136.png|
+|image1521153998583846|
 
 Specify a discount name and its percent (specify a markup percent with
 minus sign) for every item of the catalog. You can add an arbitrary
@@ -1626,14 +1626,14 @@ information specified in the table field of the document form. To access
 a list of goods issues, in the **Sales** group in the navigation panel,
 click **Goods issues**.
 
-|GI10|
+|image1521153994058378|
 
 To set a discount for the specified product, on the document form, click
 the corresponding hyperlink shown in the picture. Select a price kind.
 Select a discount kind from the **Discounts and markups** catalog, then
 select the **Refill prices** check box and click **OK**.
 
-|image140.png|
+|image1521153998605820|
 
 .. _pricing-1:
 
@@ -1673,7 +1673,7 @@ In this example, you set relevant wholesale prices for the selected
 products and services using the **Pricing** data processor. The prices
 are changed according to the selected document, a goods receipt.
 
-|Pricing|
+|image1521153996418013|
 
 Click **Set** in **Step 4** attribute group to set prices for the goods
 specified in the table field of the data processor and selected with
@@ -1709,7 +1709,7 @@ intention to purchase goods, works or services. You can find a customer
 order list in the order book. To access the order book, in the **Sales**
 navigation panel, click **Customer orders**.
 
-|CO|
+|image1521153992576630|
 
 In the order list, you can see information about order fulfillment,
 state, and order payment percent.
@@ -1738,12 +1738,12 @@ Specify a project for which the order is planned in the **Project**
 field (only if you enable accounting by projects in accounting parameter
 settings).
 
-|1521139813831970|
+|image1521153990787434|
 
 To assign a discount for the selected product, on the document form,
 click the link highlighted in the picture.
 
-|Image 24|
+|image1521153994733975|
 
 An additional form appears. On this form, specify a price kind, select a
 discount kind from the **Markup and discount kinds** catalog, select the
@@ -1759,7 +1759,7 @@ Possible values depend on the **Customer order states** catalog. To
 access the catalog, in the **Settings** section, in the **Sales**
 accounting settings, click **Customer order states** catalog.
 
-|image150.png|
+|image1521153998633033|
 
 Users can create any required state values. Assign a status for every
 state: **Open**, **In progress**, or **Completed**. The document
@@ -1786,12 +1786,12 @@ planned dates, payment method, and percent to be paid not later than the
 specified date. Payment (percent) amount and VAT will be auto
 calculated.
 
-|1521148459740613|
+|image1521153991220792|
 
 Payment data can be represented as a list so that you can schedule
 payment in a few steps. To view and edit it, click **As a list**.
 
-|3|
+|image1521153991356267|
 
 You can configure the customer order. To do it, click the button of the
 command bar on the **Setup** form. A dialog box appears. Here you can
@@ -1799,7 +1799,7 @@ specify location of a shipping date of the customer order: in the header
 (the order is for the same date) or in the tabular section, for every
 row of the document.
 
-|DocSetup|
+|image1521153993409422|
 
 If you want the application to remember these settings for the current
 user, click **Remember my choice**. After that, the settings will be
@@ -1818,12 +1818,12 @@ specify a contract when entering the **Customer order** document. You
 can store data on contracts in the **Counterparty contracts** catalog
 subordinate to the **Counterparties** catalog.
 
-|image158.png|
+|image1521153998658620|
 
 You can enter a new contract both from counterparty card and when
 populating the **Customer order** document.
 
-|image160.png|
+|image1521153998685652|
 
 Specify a counterparty, a contract number, a date, and a settlements
 currency in the catalog item form. The **Name** field is auto populated
@@ -1866,7 +1866,7 @@ attach files, in the navigation panel of the contract card, click
 **Files**. The **Attached files** form will open. In this form, click
 **Create** and select a file.
 
-|CC3|
+|image1521153992351230|
 
 Before saving the file, you can rename it, add a note, and specify the
 author.
@@ -1882,13 +1882,13 @@ to pay for the ordered goods. You can find a list of proforma invoices
 in a journal. To access the journal, in the **Sales** navigation panel,
 click **Proforma invoices**.
 
-|image164.png|
+|image1521153998711361|
 
 You can register the document based on an order, a goods issue, or an
 acceptance certificate. In the proforma invoice, you can see information
 on ordered goods and services, their quantity, and prices.
 
-|PI|
+|image1521153995944377|
 
 In the **Proforma invoice** document, you can schedule payment. To
 schedule payment, on the document form, select the **Schedule payment**
@@ -1918,7 +1918,7 @@ You can access the document only if you select the **Use inventory
 reservation** check box in the **Purchases** accounting settings of the
 **Settings** section.
 
-|Inventory|
+|image1521153995394295|
 
 In columns **Original location** and **New location**, specify business
 units to which the reserved product is placed before and after
@@ -1942,7 +1942,7 @@ Goods issue
 To record sales of goods to an external counterparty in accounting, you
 can use the **Goods issue** document.
 
-|GI10|
+|image1521153994058378|
 
 You can create the document based on the **Customer order** document.
 The documents are mainly identical in content. In contrast to the order,
@@ -1983,7 +1983,7 @@ document:
 The document list allows you to record whether goods are shipped and
 services are rendered, including customer orders which are in progress.
 
-|GI2|
+|image1521153994105817|
 
 You can register documents based on one or several selected customer
 orders.
@@ -1999,7 +1999,7 @@ documents: a job order or a goods issue when selling goods, or
 **Acceptance certificate** when selling works and services, and
 receiving an advance (prepayment) from a customer.
 
-|Invoice|
+|image1521153995419410|
 
 Information from the corresponding goods issue is transferred to the
 document. When saving the document, its number and date are assigned
@@ -2017,7 +2017,7 @@ Use the **Goods receipt** document with the **Return from customer**
 kind to register return of products and services items that were shipped
 to the customer earlier.
 
-|GoodsReceipt|
+|image1521153994198685|
 
 You can enter the document based on the goods issue. In this case, the
 table field will be filled in with the basis document data.
@@ -2030,7 +2030,7 @@ Acceptance certificate
 Use the **Acceptance certificate** document to record sales of services
 (works) in accounting.
 
-|AcceptCert2|
+|image1521153991675061|
 
 The document is mostly similar to a goods issue. However, in the table
 field, you can specify products and services with either **Work** or
@@ -2039,7 +2039,7 @@ field, you can specify products and services with either **Work** or
 The document list allows you to record services rendered to customers,
 including for the customer orders in progress.
 
-|AcceptCert|
+|image1521153991698297|
 
 You can create the documents using either one or several selected
 customer orders.
@@ -2065,7 +2065,7 @@ section, select the **Use goods transfer for commission** check box.
 Goods transfer for commission is registered using the **Goods issue**
 document with the **Transfer for commission** operation kind.
 
-|GI|
+|image1521153994128972|
 
 When posting the document, our goods transfer to the counterparty is
 registered. In the table field, specify a list of transferred goods and
@@ -2078,7 +2078,7 @@ Use the **Agent report** document to register goods sold by the agent.
 To access the document, in the **Sales** group, in the navigation panel,
 click **Agent reports**.
 
-|AR|
+|image1521153991599692|
 
 The **Agent report** document contains two tabular sections.
 
@@ -2100,7 +2100,7 @@ received for commission are sold. In the **Commission amount** column,
 specify an amount that the agent keeps, it is calculated on the
 **Additionally** tab.
 
-|AgentReport2|
+|image1521153991943311|
 
 On the **Additionally** tab, specify a commission calculation method:
 
@@ -2128,7 +2128,7 @@ To record goods accepted for commission in accounting, use the **Goods
 receipt** document with the **Acceptance for commission** operation
 kind. You can access the document in the **Purchases** section.
 
-|AcceptanceForC|
+|image1521153991724322|
 
 In the table field, you can specify an order document under which
 acceptance is carried out for each product. You can return goods
@@ -2150,7 +2150,7 @@ Sales report to principal
 Use the **Report to principal** document to report to principal on sold
 goods and calculate the commission.
 
-|ReportToPrincipal|
+|image1521153996855649|
 
 In the table field of the **Inventory** tab, you can see all information
 from the table field of the goods receipt using which you can register
@@ -2194,7 +2194,7 @@ price kind by selecting from the **Price kinds** catalog. To access the
 catalog, in reference information of the **Company** section, click
 **Warehouses**.
 
-|4|
+|image1521153991377197|
 
 Inventory movement to retail outlet
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2203,7 +2203,7 @@ Inventory used for further movement to a retail outlet is received to
 the main company warehouse. You can register this procedure with the
 **Goods receipt** document.
 
-|IM|
+|image1521153994425361|
 
 To move the received inventory from the main warehouse to a retail
 outlet, use the **Inventory movement** document. If a retail price is
@@ -2224,7 +2224,7 @@ Goods can be received to a sales outlet directly from a supplier. In
 this case, register receipt using goods receipt with a sales outlet
 specified as a receiving warehouse.
 
-|GRRetail|
+|image1521153994152388|
 
 If you do not set retail prices for the received goods, the document
 will not be posted.
@@ -2266,7 +2266,7 @@ access it, in the **Settings** section in accounting parameter setting,
 click **Cash registers**. To add a cash fund with the **Fiscal data
 recorder** type, click **Create**.
 
-|image205.png|
+|image1521153999000250|
 
 Also specify business unit, company department, and GL account for the
 cash register. If the **Without connection** check box is not selected,
@@ -2290,12 +2290,12 @@ To open the shift:
 
 -  Click the **Open shift** button.
 
-|1521148460040858|
+|image1521153991247757|
 
 Then it registers the **Cash receipt** documents in the accounting
 system during the shift.
 
-|image209.png|
+|image1521153999024342|
 
 The products are sold from the sales outlet area (the products are on
 shelves) at retail prices with quantity discounts if appropriate.
@@ -2312,7 +2312,7 @@ Payment card is accepted if a POS terminal is connected to the user work
 place. Before you start, enter the POS terminal information into the
 **POS terminal** catalog.
 
-|image211|
+|image1521153999048725|
 
 In the table field of the terminal form, specify the list of payment
 cards accepted by the device.
@@ -2330,7 +2330,7 @@ To register a return on the same day basis, register refund receipt
 using the **Refund receipt** document. To create the receipt, in the
 command bar of the **Cash receipts** document log, click **Return**.
 
-|1521148460328715|
+|image1521153991274908|
 
 To register product return on another day basis, use the **Goods
 receipt** document with the **Return from customer** operation kind.
@@ -2341,7 +2341,7 @@ A customer must be registered in the **Counterparties** and
 To receive a Z report which registers shift closing, in the command bar,
 click **Close shift.**
 
-|RetailSales|
+|image1521153996934493|
 
 Then a cashier passes revenue to the operating cash, and a cashier of
 the operating cash receives it and makes entries in the cashier log. To
@@ -2383,7 +2383,7 @@ Accounting in a "copybook"
 During the shift, a cashier registers sales in a "copybook". To register
 revenue in the accounting system, use the **Credit slip** document.
 
-|CreditSlipAcc|
+|image1521153993225753|
 
 To register sales based on entries in the "copybook", use the **Retail
 sales report** document.
@@ -2396,7 +2396,7 @@ As previously, to register revenue in the accounting system, use the
 report** document based on data of physical inventory made in the sales
 outlet (product number decrease due to the sales).
 
-|image219.png|
+|image1521153999071666|
 
 Sales outlets with value accounting
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2431,13 +2431,13 @@ select the **Retail (value accounting)** value and retail price kind
 from the **Price kinds** catalog. On the **GL accounts** tab, specify
 the retail GL account and markup GL account.
 
-|7|
+|image1521153991497810|
 
 As the operation starts, move products from wholesale warehouse to the
 sales outlet with value accounting. To do that, register the **Inventory
 movement** document in the accounting system.
 
-|IM|
+|image1521153994425361|
 
 As a result, products are written off from the wholesale warehouse, and
 balance of the sales outlet increases in sales (retail) and cost prices.
@@ -2450,7 +2450,7 @@ revaluation in retail (value accounting)** document. With that, in the
 **Inventory** table field, register actual product quantity in the sales
 outlet, new and old retail prices.
 
-|RetailRevaluation|
+|image1521153996908472|
 
 In this case, use the **Physical inventory** document only to prepare a
 form with prices (goods are recounted in the store, their cost is
@@ -2479,7 +2479,7 @@ dashboards, use the command bar of cash receipt register.
 On the **POS terminal management** dashboard, there are the following
 button groups: **Main operations** and **Additional operations**.
 
-|image227.png|
+|image1521153999097424|
 
 Using the buttons, a cashier can perform different operations related to
 payment for products with payment card. In the right part of the
@@ -2490,7 +2490,7 @@ On the fiscal data recorder dashboard, there are only two buttons. They
 are intended to print fiscal data recorder reports with or without
 clearance.
 
-|image229.png|
+|image1521153999120124|
 
 Sales reports
 ~~~~~~~~~~~~~
@@ -2500,7 +2500,7 @@ activity. Click **Sales reports** to access all reports of the **Sales**
 section. Use the section report panel to open the section report
 variants divided by subsystems.
 
-|1521139816203457|
+|image1521153990992417|
 
 To open a form of selection and report panel settings, click **All
 reports**. In the left side of the form, you can see a tree of sections
@@ -2532,7 +2532,7 @@ words. The search is carried out in:
 In the **Author** field, you can select a report variant author from the
 list.
 
-|Reports|
+|image1521153996884743|
 
 In the setting form, you can generate any report from the tree and
 determine which reports will be available for quick selection, i.e.
@@ -2544,7 +2544,7 @@ Customer order fulfillment
 Use the **Customer order** **fulfillment** report to analyze content and
 progress of customer orders.
 
-|image235.png|
+|image1521153999144093|
 
 The report is grouped by orders. Missing (not provided with sources)
 quantity of products and services items is calculated for each order.
@@ -2572,14 +2572,14 @@ unrestricted stock of products by warehouses. In the report, you can
 also see summary data on balance, reserves, and unrestricted stock for
 the company as a whole.
 
-|image237.png|
+|image1521153999171179|
 
 Customer order payment
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Using the report, you can analyze customer order payment.
 
-|image239.png|
+|image1521153999195658|
 
 The report data is grouped by counterparties, companies, and contracts.
 
@@ -2589,7 +2589,7 @@ Invoice payment
 In the report, you can see information on invoices paid by
 counterparties.
 
-|image241.png|
+|image1521153999219773|
 
 The report data is grouped by customers and contracts.
 
@@ -2606,7 +2606,7 @@ overdue days are calculated considering a customer payment due date
 specified in the counterparty contract or parameter settings if the
 payment due date is not set in the contract.
 
-|1|
+|image1521153991304568|
 
 The report is generated for a specific date or the current one if the
 date is not set.
@@ -2625,7 +2625,7 @@ As for shipment against the order, you can see quantity of goods for
 shipment, shipped and reserved goods, and remaining goods to be shipped
 against the order.
 
-|2|
+|image1521153991327653|
 
 Mutual settlements
 ~~~~~~~~~~~~~~~~~~
@@ -2634,7 +2634,7 @@ With the **Mutual settlements** report, you can see state and dynamics
 of mutual settlements with counterparties (customers, suppliers, etc.)
 over the specified period.
 
-|MutualSettlements|
+|image1521153995797996|
 
 Data is displayed with grouping by counterparties, contracts and orders.
 There are the following available modes in this report: **Mutual
@@ -2643,7 +2643,7 @@ settlements list**, **Mutual settlements list in foreign currency
 settlements balance** mode, you can see only information about mutual
 settlements balance on the specified date.
 
-|image249.png|
+|image1521153999247570|
 
 Cash in cash registers
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -2651,7 +2651,7 @@ Cash in cash registers
 In the report, you can see information on cash in cash registers:
 inflow, outflow, and balance.
 
-|CashInCashRegisters|
+|image1521153992716220|
 
 You can generate the report in the following modes: **Statement**,
 **Statement in currency**, **Balance**, **Balance in currency**. The
@@ -2667,7 +2667,7 @@ and management accounting currency, and data on product cost in a retail
 outlet. The report displays data on opening and closing balance,
 receipt, and expense.
 
-|ValAccInRetail|
+|image1521153997650336|
 
 You can generate the report in the following modes: **Statement**,
 **Statement in currency**, **Balance**, **Balance in currency**.
@@ -2713,13 +2713,13 @@ access the catalog, click the corresponding link in the navigation panel
 in the **Sales**, **Purchases**, **Service**, and **Manufacturing**
 sections.
 
-|PandS|
+|image1521153996160768|
 
 All items in the **Products and services** catalog are classified by
 groups. You can find the list of groups in the **Products and services
 groups** catalog.
 
-|image259.png|
+|image1521153999271902|
 
 Entering information on products and services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2727,7 +2727,7 @@ Entering information on products and services
 You can edit and enter information on a catalog item (a products and
 services item) on a separate form (product card).
 
-|PandSCard|
+|image1521153996135234|
 
 Specify a short and full name (for print document forms) of the product,
 and its type. The following types of products and services are available
@@ -2809,7 +2809,7 @@ navigation panel **files**, then open the corresponding form and click
 change a name and an author of the attached file. Click **Save** or
 **Save and close** to see an image in the products and services card.
 
-|Warehouses4|
+|image1521153997779131|
 
 Click **More...** in the navigation panel of the form to specify
 additional information:
@@ -2824,7 +2824,7 @@ additional information:
 -  Click **Inventory management** to set maximum or minimum inventory
    level for the selected goods.
 
-|InvMan|
+|image1521153995306393|
 
 .. _service-1:
 
@@ -2836,7 +2836,7 @@ on services that the company renders to counterparties. The attributes
 of the card are similar to Inventory, but some attribute groups are
 missing as they cannot be used for services.
 
-|Service|
+|image1521153997192403|
 
 You can fill in attributes on the **Main parameters** tab in the same
 way as for Inventory, only the **Write-off method** attribute is
@@ -2849,7 +2849,7 @@ Use a card with the **Work** products and services type to enter data on
 works performed by the company. Cards of the **Service** and **Work**
 types have almost identical attributes.
 
-|Inst|
+|image1521153995219167|
 
 To determine how work cost is calculated in job orders – by hourly cost
 according to the price list or by standard hour cost specified for this
@@ -2868,7 +2868,7 @@ Use a card with the **Operation** products and services type to enter
 data on technological operations of product manufacturing and work
 performance.
 
-|Operation|
+|image1521153995865740|
 
 VAT rate, deadline, and business area are not specified for
 technological operations, but GL account of costs is specified. The
@@ -2884,7 +2884,7 @@ data on activity kinds performed by company employees. Unlike for
 operations, you do not need to specify a GL account of costs, or storage
 and purchasing parameters for the activity kind.
 
-|ActivityKind|
+|image1521153991779407|
 
 UOM classifier
 ~~~~~~~~~~~~~~
@@ -2896,7 +2896,7 @@ catalog has one-level structure. You can edit and enter new items
 directly in the catalog list form. You can use All-Russian Classifier of
 Measurement Units (OKEI) for filling in.
 
-|image275.png|
+|image1521153999296681|
 
 The catalog contains two predefined values of unit of measure: **Piece**
 and **Hour**.
@@ -2919,7 +2919,7 @@ the catalog.
 
 Each catalog item contains data on a warehouse bin.
 
-|image277.png|
+|image1521153999320901|
 
 If accounting by companies is set in the accounting policy settings,
 warehouse inventory of a small or middle company is managed in terms of
@@ -2944,7 +2944,7 @@ Use the **Purchase order** document to record prearrangements of
 products and services item purchase. The order can be a basis document
 for payment and product receipt.
 
-|PO|
+|image1521153996079112|
 
 In the order list, you can see information about order fulfillment,
 state, and order payment percent.
@@ -2957,7 +2957,7 @@ shows that the order is in progress, **Green** shows completed orders.
 
 Level of shipment and payment are shown using pie charts.
 
-|POcard|
+|image1521153996050015|
 
 When you register the **Purchase order** document, specify the order
 fulfillment date, a counterparty – the product supplier, and a contract
@@ -2976,12 +2976,12 @@ planned dates, a payment method, and a percent that must be paid not
 later than the specified date. Payment (percent) amount and VAT will be
 auto calculated.
 
-|5|
+|image1521153991401826|
 
 Payment data can be represented as a list so that you can schedule
 payment in a few steps. To view and edit it, click **As a** **list**.
 
-|6|
+|image1521153991473933|
 
 Supplier invoice
 ~~~~~~~~~~~~~~~~
@@ -2994,7 +2994,7 @@ navigation panel, click **Supplier invoices for payment**.
 In the document, you can see information about purchased products and
 services, their quantity and price.
 
-|SupplierInvoice|
+|image1521153997365381|
 
 As in the order, to plan payment in the supplier invoice, select the
 corresponding check box and populate the **Payment calendar** tab. In
@@ -3008,7 +3008,7 @@ To record goods receipts from suppliers, use the **Goods receipt**
 document. You can register the document based on the **Purchase order**
 document. You can register supplier prices using the goods receipt.
 
-|GRRetail|
+|image1521153994152388|
 
 In the goods receipt, specify the **Receipt from supplier** operation
 type, enter information about the supplier and contract, a goods receipt
@@ -3026,12 +3026,12 @@ On the **Additionally** tab, you can specify a number and a date of the
 incoming document, a performer department, and an employee responsible
 for entering the document.
 
-|Additionally|
+|image1521153991891976|
 
 With the document list, you can record receipt of goods and services
 (expenses) from suppliers including against open purchase orders.
 
-|GR|
+|image1521153994174842|
 
 You can register documents both against one and several selected
 purchase orders.
@@ -3047,7 +3047,7 @@ register return, use the **Goods issue** document generated based on the
 goods receipt. In the document, specify the **Return to supplier**
 operation type.
 
-|GI11|
+|image1521153994080099|
 
 Attributes of the goods issue for return to supplier are the same as
 goods receipt attributes. In the document, you can see information about
@@ -3059,7 +3059,7 @@ Received invoice
 You can create the **Received invoice** document based on the goods
 receipt.
 
-|ReceivedInvoice|
+|image1521153996830180|
 
 Use the document to register invoices received from suppliers and keep
 records of numbers of customs cargo declarations.
@@ -3084,7 +3084,7 @@ box is selected in accounting parameters.
 To access the document list, in the **Purchases** section, in the
 **Warehouse** subsection, click **Movement among bins**.
 
-|Movement|
+|image1521153995774855|
 
 In the document, specify a starting and final destination for the goods
 being moved with precision to a warehouse bin. You can use the following
@@ -3107,7 +3107,7 @@ write off inventory for internal consumption.
 You can access a list of documents by clicking **Inventory movements**
 in the **Warehouse** subsection in the **Purchases** section.
 
-|IM|
+|image1521153994425361|
 
 As a shipping warehouse, specify a warehouse from which goods are
 shipped and if required its bin (attributes **Sender** and **Storage
@@ -3180,7 +3180,7 @@ additional expenses that increase the cost of inventory received from
 counterparties. To access the document, in the **Purchases** section, in
 the navigation panel, click **Additional expenses**.
 
-|AddExpenses|
+|image1521153991865782|
 
 In the document table field, specify goods receipts for registering
 goods receipt with additional expenses and goods to which cost these
@@ -3196,7 +3196,7 @@ You can use the **Power of attorney** document to register powers of
 attorney for receipt of goods. To access the document, in the **See
 also** group, in the navigation panel, click **Powers of attorney**.
 
-|image305.png|
+|image1521153999343250|
 
 In the document, specify a goods supplier and an individual to whom
 their receipt is trusted. You can specify a document for receiving goods
@@ -3211,7 +3211,7 @@ inventory capitalization and write-off by clicking **Warehouse acts** in
 the navigation panel in the **Surplus and shortage** subsection of the
 **Purchases** section.
 
-|image307|
+|image1521153999366967|
 
 Physical inventory
 ~~~~~~~~~~~~~~~~~~
@@ -3224,7 +3224,7 @@ You can access the document by clicking **Physical inventory** in the
 navigation panel in the **Surplus and shortage** group of the
 **Purchases** section.
 
-|PhysicalInventory|
+|image1521153996211389|
 
 In the document, it is required to specify a warehouse or a production
 department in which physical inventory is carried out. You can
@@ -3278,7 +3278,7 @@ the **Inventory capitalization** link from the left side (objects which
 you can add to the navigation panel) to the right side (objects which
 you see in the navigation panel) by clicking **Add**.
 
-|InvCap|
+|image1521153995277895|
 
 In the document, fill in the **Correspondence** attribute to specify an
 offsetting GL account, as well as main attributes (information about
@@ -3316,7 +3316,7 @@ navigation panel. The **Navigation panel setup** form opens. Move the
 add to the navigation panel) to the right side (objects which you can
 see in the navigation panel) by clicking **Add**.
 
-|InvWriteOff|
+|image1521153995368688|
 
 Fill in the document form in the same manner as for the **Inventory
 capitalization** document. The only difference is that the product is
@@ -3342,7 +3342,7 @@ To record goods receipt for commission in accounting, use the **Goods
 receipt** document with the **Acceptance for commission** operation
 kind.
 
-|AcceptanceForC|
+|image1521153991724322|
 
 In the table field, you can specify an order document under which
 acceptance is carried out for each product. You can return goods
@@ -3366,7 +3366,7 @@ Sales report to principal
 Use the **Report to principal** document to report to principal on sold
 goods and calculate the commission.
 
-|ReportToPrincipal|
+|image1521153996855649|
 
 In the table field of the **Inventory** tab, you can see all information
 from the table field of the goods receipt using which you can register
@@ -3409,7 +3409,7 @@ materials and materials transferred to the processor in accounting. To
 access the document, in the **Purchases** section, in the **Processing**
 group, click **Processor reports**. The document form looks like:
 
-|ProcessorReport|
+|image1521153996470975|
 
 The document contains information about the processor and concluded
 contact. Enter data about products received due to processing into the
@@ -3423,12 +3423,12 @@ The **Waste** tab contains the list of side products, i.e., products and
 services manufactured due to processing. Waste is capitalized at zero
 cost.
 
-|Waste|
+|image1521153997831582|
 
 Information about processor services is specified on the **Services**
 tab: service name, its cost and VAT amount.
 
-|Services|
+|image1521153997166775|
 
 Selling goods from two-phase warehouse
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -3454,7 +3454,7 @@ In this case, the scheme will be similar to sale of goods.
 You can enter the document based on a customer order, a proforma invoice
 or a goods receipt.
 
-|Retail|
+|image1521153996957699|
 
 In the document table field, specify information about products and
 services for sale, including previously entered **Customer order** if
@@ -3469,12 +3469,12 @@ supplier if a return operation is recorded with the document. Click
 **Select** to open a dialog box for editing the **Prepayment setoff**
 tabular section.
 
-|Prepayment|
+|image1521153996394318|
 
 In the dialog box, you can enter information about setoff of advances
 received earlier from a customer.
 
-|PrepaymentSetoff|
+|image1521153996369693|
 
 The field in the upper side of the dialog box (the **Advances** group)
 is automatically filled in with a list of this customer advances that
@@ -3497,7 +3497,7 @@ from the left side (items which you can add to the navigation panel) to
 the right side (items which you can see in the navigation panel) by
 clicking **Add**.
 
-|image331.png|
+|image1521153999395768|
 
 In the form table field, enter a list of products and services items
 shipped from a two-phase warehouse. For each item, specify a name, a
@@ -3519,7 +3519,7 @@ document. Inventories earlier written off from a warehouse can also be
 returned to the warehouse. In this case, financial sale documents are
 registered. Document flow scheme will be similar to receipt.
 
-|GRRetail|
+|image1521153994152388|
 
 In the document on the **Goods** tab, specify standard information about
 received inventory – a name, a characteristic, quantity, a price, and an
@@ -3543,7 +3543,7 @@ Move the **Receipt slips** link from the left side (items which you can
 add to the navigation panel) to the right side (items which you can see
 in the navigation panel) by clicking **Add**.
 
-|image335.png|
+|image1521153999424586|
 
 In the document table field, enter a list of products and services items
 received to a two-phase warehouse. For each item, specify a name, a
@@ -3560,7 +3560,7 @@ The application includes a specific data processor calculating company
 inventory demand (shortage). To open the data processor, in the
 **Purchases** section, click **Demand calculation**.
 
-|IDC|
+|image1521153994376777|
 
 The data processor form contains a tree of products and services items
 and information about them.
@@ -3582,7 +3582,7 @@ services items with shortage and inventory replenishment methods.
 Replenishment method main for products and services is represented as
 "…(main)".
 
-|IDC2|
+|image1521153994318091|
 
 For each products and services item, in the **Characteristic/Source**
 column, specify products and services characteristic with suppliers. The
@@ -3606,7 +3606,7 @@ On the **Orders** tab, click **Generate orders**. Orders including
 products and services items with selected check boxes will be generated
 automatically.
 
-|IDC3|
+|image1521153994345522|
 
 Orders are generated according to the following rules:
 
@@ -3626,7 +3626,7 @@ Orders are generated according to the following rules:
    button is set in the accounting parameter settings) are grouped into
    a single order.
 
-Use buttons of the command bar |image343.png|
+Use buttons of the command bar |image1521153999451719|
 to post the order selected in the list or cancel the order posting. You
 can mark for deletion orders generated by mistake.
 
@@ -3636,7 +3636,7 @@ Counterparty price lists
 With the application, you can generate and print a counterparty price
 list using the **Counterparty price lists** data processor.
 
-|CPL|
+|image1521153992636490|
 
 Prices are registered in the application by posting the **Goods
 receipt** document with the counterparty price kind and the selected
@@ -3644,7 +3644,7 @@ receipt** document with the counterparty price kind and the selected
 **Counterparty price lists** data processor. You can change the data
 using the **Counterparty products and services price** dialog box.
 
-|image347.png|
+|image1521153999482254|
 
 The application saves information about all users who changed the price
 of products and services or counterparty products and services.
@@ -3676,7 +3676,7 @@ Purchasing reports
 You can access **Purchasing** reports by clicking **Inventory and
 purchasing reports** in the panel.
 
-|image349|
+|image1521153999508105|
 
 Inventory demand
 ~~~~~~~~~~~~~~~~
@@ -3685,7 +3685,7 @@ With the **Inventory demand** report, you can identify demands for raw
 materials and materials required for production (both from own and
 supplier's raw materials) and for transferring for processing.
 
-|image351.png|
+|image1521153999537960|
 
 The report shows demand for products and services and how to satisfy the
 demand by displaying unsatisfied demand.
@@ -3709,7 +3709,7 @@ In the **Inventory movement schedule** report, you can see planned
 receipts and shipments of products and services in quantitative terms
 over the selected time period.
 
-|IMS|
+|image1521153994401706|
 
 You can display the schedule with details by dates.
 
@@ -3723,7 +3723,7 @@ receipts under other orders. The report is generated with details up to
 products and services. It can be generated in the following modes:
 **Statement** and **Balance**.
 
-|OrderPlacement|
+|image1521153995918406|
 
 Inventory turnover
 ~~~~~~~~~~~~~~~~~~
@@ -3737,7 +3737,7 @@ period. The **Average inventory storage time (days)** indicator is
 calculated as ratio between a number of period days and inventory
 turnover.
 
-|InvTurnover|
+|image1521153995336788|
 
 You can manage the indicator calculation precision by setting the
 calculation frequency. It is not recommended to generate the report if
@@ -3771,13 +3771,13 @@ registered over the specified period. Orders are grouped by suppliers
 in it and products and services turnover: **Opening balance** and
 **Closing balance**, **Ordered** and **Received**.
 
-|POReport|
+|image1521153995999190|
 
 In the **Balance** mode, the report contains information about
 allocation of order balance for purchase on the specified date. Data is
 grouped by suppliers.
 
-|image363.png|
+|image1521153999568736|
 
 Order payment
 ~~~~~~~~~~~~~
@@ -3786,7 +3786,7 @@ With the report, you can analyze purchase order payment. To access the
 report, in the **Mutual settlements** report group, click **Order
 payment**.
 
-|image365.png|
+|image1521153999619982|
 
 The report data is grouped by suppliers, companies and contracts.
 
@@ -3799,7 +3799,7 @@ In the report, you can see data on supplier invoice payment. To access
 the report, in the **Mutual settlements** report group, click **Invoice
 payment**.
 
-|image367.png|
+|image1521153999650401|
 
 The report data is grouped by suppliers and contracts.
 
@@ -3814,7 +3814,7 @@ report by clicking **Purchases** in the **All reports** group. In the
 report, you can see information about quantity and amount of purchase.
 Data is grouped by orders and products and services.
 
-|Purchases1|
+|image1521153996700052|
 
 Settlements with suppliers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -3829,7 +3829,7 @@ In the **Statement** mode, you can see information about settlements
 with suppliers, including orders and contracts under which there were
 transactions between the company and counterparties.
 
-|SettlSup|
+|image1521153997240449|
 
 The report is generated over the specified period. The report data is
 grouped by counterparties, contracts and orders.
@@ -3866,13 +3866,13 @@ and products and services. The report contains information about opening
 and closing balance in the company and counterparty warehouses. The
 report data is presented in quantitative and value terms.
 
-|image373|
+|image1521153999687314|
 
 You can generate the report in the following modes: **Statement** and
 **Balance**. In the **Balance** mode, the report does not display
 information on receipt and consumption and shows only closing balance.
 
-|8|
+|image1521153991521726|
 
 Inventory by CCD
 ~~~~~~~~~~~~~~~~
@@ -3884,12 +3884,12 @@ receive full information about receipt, shipment and current quantity of
 any imported product having the CCD number, in the selected storage
 location. The report data is presented in quantitative terms.
 
-|InvByCCD|
+|image1521153995247214|
 
 In the **Balance** mode, the report does not display information on
 receipt and consumption. It shows only closing balance.
 
-|9|
+|image1521153991548254|
 
 Received inventory
 ~~~~~~~~~~~~~~~~~~
@@ -3898,7 +3898,7 @@ The report allows you to receive full information about inventory
 received for commission, processing or safe custody. You can access the
 report from the **See also** report group.
 
-|ReceivedInventory|
+|image1521153996802677|
 
 The report contains information about opening and closing balance of
 counterparty inventory in the company warehouses. The report data is
@@ -3908,7 +3908,7 @@ You can generate the report in the following modes: **Statement** and
 **Balance**. In the **Balance** mode, the report does not display
 information on receipt and consumption and shows only closing balance.
 
-|10| 
+|image1521153990642854| 
 
 Transferred inventory
 ~~~~~~~~~~~~~~~~~~~~~
@@ -3918,7 +3918,7 @@ transferred for commission, processing or safe custody by a third party
 counterparty. You can access the report from the **See also** report
 group.
 
-|TranferredInv|
+|image1521153997624896|
 
 The report contains information about opening and closing balance of
 counterparty inventory. The report data is presented in quantitative and
@@ -3937,7 +3937,7 @@ then click **All reports**.
 The report does not display information about receipt and consumption.
 It shows only closing balance in storage locations.
 
-|image387.png|
+|image1521153999721803|
 
 Receipt and payment under orders
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -3946,7 +3946,7 @@ Use the report to analyze state of purchase order payments and receipt.
 To access the report, in the **Purchases** section, in the **More**
 menu, click **All reports**.
 
-|11|
+|image1521153990711559|
 
 The data is grouped by products and services and purchase orders.
 
@@ -3971,7 +3971,7 @@ and products and services. In the report, you can see information about
 opening and closing balance in warehouses and counterparty-processors.
 The report data is presented in quantitative and value terms.
 
-|image391.png|
+|image1521153999746388|
 
 If a two-phase scheme is used for corresponding warehouses, you can see
 information about inventory quantity to be written off with issue slips
@@ -4003,7 +4003,7 @@ To make serial numbers and guarantee period available, in the
 **Settings** section, click **Purchases**, and then select the **Use
 serial numbers** check box.
 
-|C:DesktopImage 1.png|
+|image1521153992248347|
 
 You can specify serial numbers for reference and also control balance
 considering these numbers.
@@ -4021,13 +4021,13 @@ specific products and services item for each products and services item.
 If serial numbers are required for the product, select the **Use serial
 numbers** check box in the products and services card.
 
-|image178|
+|image1521153998736716|
 
 If you need to control product guarantee period, fill in the following
 parameters on the **Production and procurement** tab of the products and
 services card:
 
-|image179|
+|image1521153998763782|
 
 Select the **Write out guarantee card** check box to print a guarantee
 card on sale.
@@ -4042,31 +4042,31 @@ invoice, entry of opening balance, receipt slip, production).
 If balance control by numbers is used, the column is required. Users can
 use a selection form to facilitate serial number input:
 
-|image180|
+|image1521153998789657|
 
 In this form, you can:
 
-|https://its.1c.ru/db/content/updinfo/src/smallbusiness/1.6.6/40.png?_=1496991668|
+|image1521153990761449|
 – Read a serial number with a barcode scanner.
 
 When registering serial numbers using a scanner, a number and a barcode
 of this serial number will be recorded in the application.
 
-|image182| – Select a serial number from those created earlier.
+|image1521153998814440| – Select a serial number from those created earlier.
 
-|image183| – Enter manually using a keyboard. If number template is
+|image1521153998843359| – Enter manually using a keyboard. If number template is
 specified, unchanged part will be inserted automatically.
 
-|image184| – Create a serial number.
+|image1521153998868936| – Create a serial number.
 
-|image185| – Create a required quantity of serial numbers. Available
+|image1521153998898333| – Create a required quantity of serial numbers. Available
 actions are **Generate numbers in order** and **Fill with numbers from
 the range**.
 
 Serial number shall include not more than 25 characters. The number can
 be created from template or in free format.
 
-|image186|
+|image1521153998920003|
 
 If balance control is enabled, serial numbers are required in all goods
 movement documents.
@@ -4074,7 +4074,7 @@ movement documents.
 Serial numbers in shipment and movement documents are selected according
 to the current availability status.
 
-|image187|
+|image1521153998947179|
 
 While scanning a barcode, all data about the scanned product as well as
 a serial number are filled out in documents.
@@ -4097,7 +4097,7 @@ numbers:
 These reports can be found in the report list using the Serial numbers
 tag.
 
-|image188| 
+|image1521153998973849| 
 
 CHAPTER 5
 =========
@@ -4126,7 +4126,7 @@ of works and services, such as hairdressing services, shoe repairing,
 clothes tailoring, car washing, and other works and services with short
 production cycle.
 
-|JOList|
+|image1521153995469389|
 
 In the job order list, you can see information on job order performance,
 state and payment percent.
@@ -4150,7 +4150,7 @@ order. You can specify used resources on the corresponding tab. Resource
 planning is optional. You can set it up in the **Company** accounting
 settings of the **Settings** section.
 
-|JobOrder|
+|image1521153995548272|
 
 Material and labor costs can be recorded only for products and services
 items with the **Work** type. You cannot record manufacturing costs for
@@ -4186,12 +4186,12 @@ check box is selected in the **Company** settings of the **Settings**
 section. To access the catalog, in the **Service** or **Manufacturing**
 section, in the dashboard, click **Company resources**.
 
-|CompanyResources|
+|image1521153993075966|
 
 A resource can belong to one or several resource kinds. Each resource
 always belongs to a special resource kind – **All resources**.
 
-|Team1|
+|image1521153997442337|
 
 A resource can be associated with an employee, a team or has no
 connections.
@@ -4212,7 +4212,7 @@ You can generate a **scheduled plan** against job orders to analyze a
 schedule of works performed and services rendered over a specified
 period (day, week or month).
 
-|Scheduler|
+|image1521153997010401|
 
 To set up display parameters on the scheduler setting form, click **Set
 up** in the right side of the command bar.
@@ -4225,7 +4225,7 @@ particular resource loading. To track the resource loading, double-click
 a calendar line with required time in the selected resource field. The
 **Job order** document form appears.
 
-|JOScheduler|
+|image1521153995520119|
 
 Work planning using orders
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4237,14 +4237,14 @@ Set the **In progress** order status. Specify planned dates of work
 start and end in the **Start** and **Finish** fields on the **Main**
 tab.
 
-|JobOrder|
+|image1521153995548272|
 
 If you select the **Schedule payment** check box, the **Payment
 calendar** tab appears on the document form where you can schedule
 payment for the order (specify planned dates of payment, percent that
 must be paid by the specified date, and so on).
 
-|JOPaymCal|
+|image1521153995496055|
 
 Once the work is performed, set the **Completed** order status, set off
 prepayment, and enter cash receipt to cash fund based on the job order.
@@ -4255,7 +4255,7 @@ Service section reports
 You can access the **Service** section reports by clicking **Service
 reports** in a separate panel.
 
-|ServiceReports|
+|image1521153997112419|
 
 Work orders
 ~~~~~~~~~~~
@@ -4274,7 +4274,7 @@ Customer order fulfillment
 You can use the report to analyze customer order content and
 fulfillment.
 
-|12|
+|image1521153990736930|
 
 .. _order-payment-1:
 
@@ -4284,7 +4284,7 @@ Order payment
 You can use the report to analyze customer order fulfillment concerning
 payment.
 
-|image417.png|
+|image1521153999850499|
 
 Report to customer
 ~~~~~~~~~~~~~~~~~~
@@ -4292,7 +4292,7 @@ Report to customer
 In the report, you can see information on works performed under a job
 order or a customer order.
 
-|image419.png|
+|image1521153999906156|
 
 CHAPTER 6
 =========
@@ -4314,7 +4314,7 @@ settings**. The **Navigation panel setup** form opens. Move the
 which you can add to the navigation panel) to the right side (items
 shown in the navigation panel) using the **Add >** button.
 
-|ProductionDocuments|
+|image1521153996495607|
 
 Product content and release technology
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4326,7 +4326,7 @@ materials are stored in the **Bills of materials** catalog subordinate
 to the **Products and services** catalog. To access the catalog, use a
 product card of the **Inventory** or **Work** type.
 
-|image423.png|
+|image1521153999935030|
 
 The **Bills of materials** catalog item form includes the following tabs
 – **Content** (to enter the list of materials and semi-finished products
@@ -4338,12 +4338,12 @@ services of the **Inventory** or **Expense** type. In the **Cost share**
 column, specify the cost share of initial products and services for
 products received due to assembly, breaking.
 
-|image425.png|
+|image1521153999964821|
 
 Fill in the **Operations** tab with products and services of the
 **Operation** type.
 
-|BOM|
+|image1521153992018636|
 
 In the **Product quantity** column, specify products and services
 quantity for which expense limits are specified in the operations of
@@ -4380,7 +4380,7 @@ them, click **Production orders** (**Manufacturing** group) in the
 navigation panel. You can enter production orders based on the
 **Customer order** document or another production order.
 
-|PrO|
+|image1521153996342099|
 
 When registering the **Production order** document, specify the
 following:
@@ -4405,7 +4405,7 @@ it in the **Manufacturing** settings of the **Settings** section.
 If a production order is created based on a customer order or another
 production order, you can specify a basis document in the **Customer
 order** field or the **Basis** field and automatically populate the
-document fields by |image431.png|
+document fields by |image1521153999990228|
 clicking the button to the right from the attribute.
 
 To auto populate by the released product BOM, on the **Materials** tab,
@@ -4424,12 +4424,12 @@ section, in the dashboard, click **Company resources**.
 In the **Company resources** catalog, you can store information about
 company resources used to perform job orders and production orders.
 
-|CompanyResources|
+|image1521153993075966|
 
 A resource can belong to one or several resource kinds. Each resource
 always belongs to a special resource kind – **All resources**.
 
-|Team1|
+|image1521153997442337|
 
 A resource can be associated with an employee, a team or has no
 connections.
@@ -4450,7 +4450,7 @@ The scheduled plan is generated against production orders. With the
 scheduled plan, you can analyze schedule of release of products and
 semi-finished products over the specified period (day, week, month).
 
-|Scheduler|
+|image1521153997010401|
 
 Display parameters are set in the scheduler setup form. To access the
 scheduler, in the right side of the command bar, click **Set up**.
@@ -4466,7 +4466,7 @@ example, a special form of the **Production order** document by
 double-clicking a line in the calendar with the required time in the
 field of the selected resource.
 
-|POLoading|
+|image1521153995973930|
 
 Production planning using orders
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4481,7 +4481,7 @@ You can schedule product manufacturing on the **Planning schedule** or
 -  Specify planned start and end dates of works in the **Start** and
    **Finish** fields.
 
-|1521139821080274|
+|image1521153991043879|
 
 Employee work planning
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -4506,7 +4506,7 @@ Employees working on a specific manufacturing task can be grouped into
 catalog. To access the catalog, in the **Catalogs** group, in the
 navigation panel, click **Teams**.
 
-|1521139821376955|
+|image1521153991071634|
 
 On the catalog item form, specify a team name and its staff – employees
 selected from the **Employees** catalog.
@@ -4524,7 +4524,7 @@ To access the **Job sheets** document journal, in the **Manufacturing**
 section, in the navigation panel, in the **Jobs and job sheets** group,
 click **Job sheets**.
 
-|1521139815340252|
+|image1521153990916516|
 
 The document contains information on contracted works and performers
 responsible for these works. A separate employee or a team may be a
@@ -4533,7 +4533,7 @@ on the document form. The table field of the tab is filled in with
 employees included in the team. To fill in the table field automatically
 with the **Teams** catalog data, click **Fill in team members**.
 
-|1521139815635011|
+|image1521153990943777|
 
 If you select the **Closed** check box, salary will be accrued to
 performers on closing date.
@@ -4568,7 +4568,7 @@ kind** type), **Customer, Work, service** to specify data on the order
 related to the job execution and on work (service) to execute (deliver)
 under this order.
 
-|WorkOrder|
+|image1521153997855922|
 
 In the **Planning** attribute group, you can define the work order
 parameters including execution time period. Some parameters such as
@@ -4583,7 +4583,7 @@ The **Work order** document form with the **Internal** operation kind
 does not contain attribute groups **Customer, work (service)**.
 Otherwise, fill in the document in the same manner as for external job.
 
-|WOInternal|
+|image1521153997674069|
 
 .. _employee-calendar-1:
 
@@ -4599,7 +4599,7 @@ Time-keeping
 You can use the **Time-keeping** document to register performed works
 under the **Work order** document or record output.
 
-|TK|
+|image1521153997393917|
 
 The document contains information on the time spent by an employee to
 perform assigned jobs during the working week. For external jobs,
@@ -4620,7 +4620,7 @@ The production order is fulfilled if all finished products
 register product release against the order with the **Manufacturing**
 document which is entered based on the **Production order** document.
 
-|ManDoc|
+|image1521153995679561|
 
 You can specify data on manufactured (dismantled) products and
 components used for product release in the **Manufacturing** document.
@@ -4628,7 +4628,7 @@ It is optional to specify this data for each release (but not
 dismantling). You can allocate materials to release later using the
 **Cost allocation** document, for example, over the day or shift. If you
 create a document based on the production order, you can auto populate
-it by clicking the button |image431.png| to
+it by clicking the button |image1521153999990228| to
 the right from the **Basis** field.
 
 Released (dismantled) product BOM can also be used for auto population
@@ -4643,7 +4643,7 @@ operation.
 List of documents allows you to record product release including against
 open production orders.
 
-|PrOMan|
+|image1521153996289076|
 
 You can register documents against one or several selected production
 orders.
@@ -4683,7 +4683,7 @@ For example, a customer order is registered and all components required
 to fulfill it are delivered to the main company warehouse to the
 corresponding bin.
 
-|Man2|
+|image1521153995650657|
 
 Product assembly operation (for example, of an air-conditioner) is
 recorded with the **Manufacturing** document with the **Assembly**
@@ -4701,7 +4701,7 @@ catalog, click **View and edit parameters of inventory auto transfer**.
 To access the catalog, in the **Company** section, in the **Reference
 information** panel, click **Departments**.
 
-|Inv|
+|image1521153995444332|
 
 Specify receiving warehouses and target bins for the inventory receipt.
 
@@ -4722,7 +4722,7 @@ In the table field of the **Goods** tab, specify data on released
 products and performed works. To enter the data automatically, click
 **Fill in according to release**.
 
-|CA|
+|image1521153992323650|
 
 Inventory tab
 ~~~~~~~~~~~~~
@@ -4732,7 +4732,7 @@ materials spent for product release and work performance. To auto
 populate the field, use the **Fill in** menu commands – **According to
 standards** or **According to balance**.
 
-|CA2|
+|image1521153992273042|
 
 To auto populate the **Inventory allocation** field which contains
 information about material costs allocation to release of the products
@@ -4746,7 +4746,7 @@ On the **Costs** tab, in the **Costs** table field, specify information
 about costs for products release and work performance. To auto populate
 it, click **Fill in by balance**.
 
-|CA3|
+|image1521153992298578|
 
 In the **Cost allocation** table field, you can see information about
 cost allocation to release of products (works). The information depends
@@ -4814,14 +4814,14 @@ semi-finished products received during processing. Set a price, a
 discount, and a manufacturing bill of materials for each product or
 semi-finished product.
 
-|ProsReport|
+|image1521153996675394|
 
 On the **Materials** tab, specify information about consumed materials
 and raw materials accepted for processing. As supplier's raw materials
 are not our own, specify batches of materials with the **Supplier's raw
 materials status**.
 
-|ProsReport2|
+|image1521153996626922|
 
 On the **Waste** tab, enter the processing waste list. Data specified
 for waste is the same as for materials except for prices. Recyclable
@@ -4829,7 +4829,7 @@ waste is not our inventory. Specify a batch of inventory with the
 **Supplier's raw material** status if waste from supplier's raw
 materials is generated or returned. The generated waste cost is zero.
 
-|ProsReport3|
+|image1521153996650222|
 
 MANUFACTURING REPORTS
 ~~~~~~~~~~~~~~~~~~~~~
@@ -4837,7 +4837,7 @@ MANUFACTURING REPORTS
 With **Manufacturing** reports, you can analyze data of the section. You
 can access the reports in the report panel of the section.
 
-|ManReports|
+|image1521153995703773|
 
 Work performance, product release
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4851,7 +4851,7 @@ basis that record product release, as well as **Acceptance
 certificates** and **Job orders** recording works performed for a
 customer.
 
-|image477|
+|image1521154000017274|
 
 .. _production-orders-1:
 
@@ -4863,7 +4863,7 @@ received over the specified period. Orders are grouped by departments.
 Specify products and services and their turnovers, such as opening and
 closing balance, receipt and outflow for every order.
 
-|image479.png|
+|image1521154000053397|
 
 Standard bill of materials
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4871,7 +4871,7 @@ Standard bill of materials
 With the report, you can access data on content and manufacturing
 technology of products according to bill of materials.
 
-|StBOM|
+|image1521153997287572|
 
 The report displays a list of components required for the selected
 product manufacture with specified quantity. Components to be produced
@@ -4891,7 +4891,7 @@ Production variance analysis
 The report contains data on planned and actual product release, work
 performance, provision of services over the specified period.
 
-|image483.png|
+|image1521154000089602|
 
 Production cost variance analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4907,7 +4907,7 @@ Use this report for variance analysis of manufacturing operations
 performed by employees under job sheets. The data is grouped by
 performers.
 
-|JobSheets|
+|image1521153995573505|
 
  
 
@@ -4923,7 +4923,7 @@ In the **Funds** section, you can keep records of funds and manage them.
 You can access general document journals of the section by clicking
 **Cash fund documents** or **Bank documents** in the navigation panel.
 
-|image487.png|
+|image1521154000126316|
 
 .. _currencies-1:
 
@@ -4937,9 +4937,9 @@ in the **Catalogs** group, click the corresponding link. Previously
 select the **Keep records in foreign currency** check box in the
 **Funds** settings of the **Settings** section.
 
-|image489|
+|image1521154000152773|
 
-|image491.png|
+|image1521154000180893|
 
 Exchange rates
 ~~~~~~~~~~~~~~
@@ -4961,7 +4961,7 @@ To import currencies, in the currency list form, specify currencies and
 the period for which you need to fill in new exchange rates, and then
 click **Import**.
 
-|image495.png|
+|image1521154000206587|
 
 BANKS
 ~~~~~
@@ -4971,7 +4971,7 @@ itself and of counterparties is stored in the Banks catalog. To access
 it, in the **Company** section, in the navigation panel, click
 **Banks**.
 
-|image497|
+|image1521154000232633|
 
 To specify new bank details, use a form of the catalog item. It contains
 the following information: bank name, bank code, correspondent account,
@@ -4989,7 +4989,7 @@ following predefined items – **Negative exchange rate difference**,
 **Positive exchange rate difference**, **Customer payment**, **Payment
 to suppliers**, and **Other**.
 
-|image499.png|
+|image1521154000257960|
 
 You can add your cash items of receipt and expense of funds, for
 example, **Loan receipt**, **Credit receipt**, **Stationery purchase**,
@@ -5050,7 +5050,7 @@ The **Select** button is located above the table field of the document
 with the **From customer** operation kind. Click the button to open the
 customer debt selection form.
 
-|CustDebtSelectForm|
+|image1521153993323792|
 
 Note
 
@@ -5066,7 +5066,7 @@ form, specify an advance holder, an employee to whom the funds were
 issued, and an issue document. Table field to enter several payments is
 not available on this form.
 
-|CreditSlip|
+|image1521153993299686|
 
 .. _other-1:
 
@@ -5083,7 +5083,7 @@ attributes on the document form:
    selected from a list of documents **Funds movement (plan)** and
    **Funds receipt (plan)**.
 
-|CreditSlipOther|
+|image1521153993274960|
 
 CASH PAYMENT
 ~~~~~~~~~~~~
@@ -5122,7 +5122,7 @@ specify a contract with the supplier or paid order. If the document is
 created based on the other document, its link will be displayed in the
 **Basis** field (**Goods receipt** can be a basis).
 
-|CashPaymentSupplier|
+|image1521153992796528|
 
 The table field is similar to the table field of the **Cash fund
 receipt** document with the **From customer** operation kind.
@@ -5135,7 +5135,7 @@ Above the table field of the document with the **To supplier** operation
 kind, there is the **Select** button. Click it to open a selection form
 of debts to suppliers.
 
-|SupDebtSelForm|
+|image1521153997338483|
 
 To customer
 ~~~~~~~~~~~
@@ -5154,7 +5154,7 @@ amount is overspent by the employee according to the expense report,
 specify the expense report. Table field to enter several payments is not
 available on this form.
 
-|image511.png|
+|image1521154000289065|
 
 Salary against pay sheet
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -5163,7 +5163,7 @@ If you select the **Salary against pay sheet** operation kind, the table
 field to specify data on pay sheets and a payment amount against every
 pay sheet is shown on the document form.
 
-|CashPaymentSalary|
+|image1521153992769880|
 
 Employee salary
 ~~~~~~~~~~~~~~~
@@ -5188,7 +5188,7 @@ shown on the document form: **Correspondence (payment account)**,
 **Planning document** (it is selected from the document list), **Funds
 movement (plan)** or **Funds receipt (plan)**.
 
-|CashPaymentOther|
+|image1521153992740679|
 
 Taxes
 ~~~~~
@@ -5197,7 +5197,7 @@ If you select the **Taxes** operation kind, fill in **Tax kind** on the
 document form. You can select the attribute value from the **Taxes**
 catalog.
 
-|CashPaymentTaxes|
+|image1521153992821991|
 
 Cash fund documents
 ~~~~~~~~~~~~~~~~~~~
@@ -5205,7 +5205,7 @@ Cash fund documents
 You can find cash accounting documents in the **Cash fund documents**
 journal.
 
-|image519.png|
+|image1521154000314759|
 
 FUNDS MOVEMENT
 ~~~~~~~~~~~~~~
@@ -5215,7 +5215,7 @@ To move funds, use the **Funds movement** document.
 Its main purpose is to move funds between cash funds. You can also use
 it to move funds between bank accounts, and funds and bank accounts.
 
-|FundsMov|
+|image1521153993926902|
 
 NON-CASH
 ~~~~~~~~
@@ -5235,7 +5235,7 @@ document defines its attributes. For the **Receipt to account**
 document, the same operation kinds as for the **Credit slip** document
 are used excluding retail revenue.
 
-|1521139816507009|
+|image1521153991019950|
 
 Expense from account
 ~~~~~~~~~~~~~~~~~~~~
@@ -5245,7 +5245,7 @@ document. Operation kind specified in the document defines its
 attributes. For the **Expense from account** document, the same
 operation kinds as for the **Cash payment** document are used.
 
-|ExpFrAc|
+|image1521153993614566|
 
 Expense report
 ~~~~~~~~~~~~~~
@@ -5253,7 +5253,7 @@ Expense report
 Use the **Expense report** document to record advance holder expenditure
 of issued cash or non-cash.
 
-|ExpReport|
+|image1521153993700596|
 
 The document form has tabs for entering information on issued advances,
 inventory, services, and payments.
@@ -5267,12 +5267,12 @@ purchased by an advance holder using issued funds and capitalized by the
 company. Quantity and cost are specified for each products and services
 item.
 
-|ExpReport2|
+|image1521153993642213|
 
 On the **Services** tab, specify additional advance holder expenses. For
 example, payment for courier delivery by third party counterparty.
 
-|ExpReport3|
+|image1521153993670627|
 
 On the **Payments** tab, specify information on advance holder payments
 to suppliers.
@@ -5283,7 +5283,7 @@ Bank documents
 You can find non-cash accounting documents in the **Bank documents**
 journal.
 
-|image537.png|
+|image1521154000337741|
 
 PAYMENT CALENDAR
 ~~~~~~~~~~~~~~~~
@@ -5306,7 +5306,7 @@ Expenditure request
 You can use the **Expenditure request** document to plan funds
 expenditure.
 
-|ExpReq|
+|image1521153993733291|
 
 In the document, specify an amount and cash flow items to plan
 expenditure. You can use the radio button to specify a payment method.
@@ -5327,7 +5327,7 @@ Funds receipt (plan)
 
 You can use the **Funds receipt (plan)** document to plan funds receipt.
 
-|FundsReceipt|
+|image1521153993951590|
 
 Fill in the document in the same manner as the **Funds expense (plan)**
 document. Actual payment under document **Receipt to account** or
@@ -5339,7 +5339,7 @@ Funds movement (plan)
 
 Use the **Funds movement (plan)** document to plan funds movement.
 
-|FundsMov-t|
+|image1521153993904054|
 
 Fill in the document in the same manner as documents **Funds expense
 (plan)** and **Funds receipt (plan)**, but instead of a payment method
@@ -5353,7 +5353,7 @@ Funds planning documents
 The **Funds planning documents** journal contains documents of real-time
 planning of funds.
 
-|image545.png|
+|image1521154000363421|
 
 FUNDS SECTION REPORTS
 ~~~~~~~~~~~~~~~~~~~~~
@@ -5361,7 +5361,7 @@ FUNDS SECTION REPORTS
 You can analyze data of the **Funds** section using reports. You can
 access them in the report panel of the section.
 
-|image547.png|
+|image1521154000387521|
 
 .. _funds-2:
 
@@ -5371,7 +5371,7 @@ Funds
 The **Funds** report displays cash and non-cash flow. To access the
 report, in the actions panel, click the corresponding link.
 
-|image549.png|
+|image1521154000411889|
 
 You can generate the report in the following modes: **Statement** and
 **Balance**. In the **Statement** mode, the report allows you to display
@@ -5387,7 +5387,7 @@ The report displays information on planned cash flow over the specified
 period for the selected company. The report is generated based on data
 of the **Budget** documents.
 
-|image551.png|
+|image1521154000439791|
 
 It can be generated in the following modes: **Main**, **In currency**,
 **Variance analysis**, and **Variance analysis (cur.)**. **In Main** and
@@ -5397,7 +5397,7 @@ Variance analysis allows you to display data on planned and actual
 movements, an absolute value and variance percent in the management
 accounting currency and in currency.
 
-|image553.png|
+|image1521154000465687|
 
 CHAPTER 8
 =========
@@ -5436,7 +5436,7 @@ The report displays debt state and changes over the specified period on
 settlements with advance holders. The debt is changed by the **Expense
 report** document and cash settlements documents.
 
-|SettlWithAdvHolder|
+|image1521153997264050|
 
 The report allows you to group debts by employees and currencies. There
 are the following modes of report generation: **Statement** and
@@ -5452,15 +5452,15 @@ accrual and deduction kinds used in the company. You can access the
 catalog by clicking **Accrual and deduction kinds** in the navigation
 panel in the **See also** group.
 
-|image557|
+|image1521154000493399|
 
 By selecting a radio button, you can set a type for each catalog item:
 **Accrual**, **Deduction** or **Tax**. Specify a cost account for
-accruals and deductions. Click icon |image559.png|
+accruals and deductions. Click icon |image1521154000529175|
 to open a dialog box for editing a calculation formula of accruals and
 deductions.
 
-|image561|
+|image1521154000554072|
 
 In the formula, there can be items of the **Calculation parameters**
 catalog, numbers, functions.
@@ -5478,7 +5478,7 @@ corresponding link in the navigation panel. Using staff list is
 optional. You can enable it by selecting the **Keep staff list** check
 box in the **Payroll settings** of the **Settings** section.
 
-|StaffList|
+|image1521153997311029|
 
 The form consists of two parts. On the left side, you can see a
 department tree of the company specified in the list above the field. On
@@ -5496,7 +5496,7 @@ Summary information on the staff list and vacancies is shown in the
 **Staff list** report. You can open the report by clicking the
 corresponding link in the section report panel.
 
-|image565|
+|image1521154000577047|
 
 Employee occupation change accounting
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -5511,7 +5511,7 @@ Using the **Hiring** document, you can register employee hiring and
 whether it is required to calculate accruals and deductions for these
 employees.
 
-|image567.png|
+|image1521154000602258|
 
 In the document title, specify an employer. On the **Employees** tab,
 specify a list of employees from the **Employees** catalog. Unique
@@ -5523,7 +5523,7 @@ to specify employment type: primary or secondary employment. You can
 select secondary employment if the **Use secondary employment** option
 is enabled in the **Payroll** settings of the **Settings** section.
 
-|600|
+|image1521153991448385|
 
 On the **Accruals and deductions** tab, you can see accruals and
 deductions of the employee selected on the previous tab and specify
@@ -5542,12 +5542,12 @@ Before filling in a new document, specify the operation kind: **Change
 of payment conditions** or **Change of occupation** **and payment
 conditions** respectively.
 
-|EmplOccupChange|
+|image1521153993533522|
 
 On the **Employees** tab, specify a list of employees and their new
 working conditions.
 
-|EmplOccupChange2|
+|image1521153993508177|
 
 On the **Accruals and deductions** tab, you can see a list of accruals
 and deductions for the employee selected on the previous tab.
@@ -5557,7 +5557,7 @@ Dismissal
 
 Register employee dismissal with the **Dismissal** documents.
 
-|6001|
+|image1521153991425114|
 
 Enter a list of dismissed employees to the table field of the document
 form and specify a date and a cause of dismissal for each of them.
@@ -5570,7 +5570,7 @@ PAYROLL AND SALARY ACCOUNTING
 Below you can see an interaction scheme of documents used in payroll and
 salary accounting.
 
-|kartinka1|
+|image1521154002103400|
 
 Consider hours worked by employees for accrual kinds with time-based
 payment. Use the **Time recording sheet** document for this purpose.
@@ -5591,7 +5591,7 @@ Use the **Timesheet** documents to enter information on working hours.
 To access the document list, in the navigation panel, click
 **Timesheets**.
 
-|Timesheet|
+|image1521153997600524|
 
 In the document, specify a department and a registration period (date in
 a month for which you enter the timesheet). Specify how to enter data,
@@ -5618,7 +5618,7 @@ Employee salary accounting
 Use the **Salary accounting** document to accrue labor compensation (at
 the month end) and allocate it to costs.
 
-|image581.png|
+|image1521154000623452|
 
 In the document, specify a registration period (a month date for which
 the labor compensation is accrued), a company, and a department. Fill in
@@ -5651,7 +5651,7 @@ Calculation parameters
 Use the **Calculation parameters** catalog to store data selection rules
 used for payroll.
 
-|CalculationParameter|
+|image1521153992661603|
 
 Every catalog item contains a query template to receive a value from the
 infobase. You can generate the query using the following methods. If you
@@ -5669,12 +5669,12 @@ indicator.
 
 On the **Filter** tab, set the data selection filter.
 
-|image585|
+|image1521154000647991|
 
 On the **Query** tab, you can view results of the calculation parameter
 setup and edit it if necessary. To edit the query, click **Edit query**.
 
-|image587|
+|image1521154000670043|
 
 In thick client, you can use the query designer by clicking **Query
 designer**:
@@ -5694,7 +5694,7 @@ designer**:
 You can specify the query parameters on the additional **Parameters**
 tab.
 
-|image589|
+|image1521154000693930|
 
 You can fill in the parameter values using the following methods:
 
@@ -5757,7 +5757,7 @@ schedules assigned to employees. Work schedules are created based on a
 business calendar. You can use them for the whole company and for its
 departments (for example, a warehouse work schedule).
 
-|WS|
+|image1521153997700116|
 
 Specify a name, a period, a population method, and a population template
 for a work schedule.
@@ -5768,7 +5768,7 @@ Pay sheet
 Use the document to generate a print form of the pay sheet for salary
 (advance) payment to company employees.
 
-|image593.png|
+|image1521154000718028|
 
 You can fill in the document automatically by clicking **Fill in by
 balance** in the command bar.
@@ -5779,7 +5779,7 @@ Payroll reports
 You can analyze the **Payroll** section information using reports. You
 can access the reports in the report panel of the section.
 
-|PR|
+|image1521153996106484|
 
 Employee list
 ~~~~~~~~~~~~~
@@ -5789,7 +5789,7 @@ accruals, passport data and individuals' contact information. There are
 the following modes in the report: **Employee list**, **Scheduled
 accruals**, **Passport data** and **Contact information**.
 
-|EmplList|
+|image1521153993485805|
 
 Accruals and deductions
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -5798,7 +5798,7 @@ With the report, you can see data on accruals and deductions of
 employees with details up to an accrual/deduction kind. Data is grouped
 by departments.
 
-|image599|
+|image1521154000742856|
 
 Settlements with employees
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -5806,7 +5806,7 @@ Settlements with employees
 The report displays salary debt to employees over a specified period of
 time.
 
-|image601|
+|image1521154000766125|
 
 Hours worked
 ~~~~~~~~~~~~
@@ -5818,13 +5818,13 @@ modes: **By days** and **Total**.
 In the **By days** mode, you can see information about daily hours
 worked over the specified period. Data is grouped by departments.
 
-|HoursWorkedByDays|
+|image1521153994294939|
 
 In the **Total** mode, you can see information about total hours worked
 detailed up to working time kind on a specific date. Data is grouped by
 employees and departments.
 
-|image605|
+|image1521154000792858|
 
 CHAPTER 9
 =========
@@ -5862,7 +5862,7 @@ When posting a document, the following actions are performed:
 -  Based on posting generation rules of accumulation register records,
    postings are generated in the **Management** accounting register.
 
-|image607|
+|image1521154000817466|
 
 Accumulation register and accounting register data is used to
 automatically populate reports.
@@ -5877,7 +5877,7 @@ business transactions not automated with other documents. Otherwise, it
 is not recommended to use the document. Select accounts from
 **Management accounting chart of accounts**.
 
-|Oper|
+|image1521153995892210|
 
 In the document header, specify a company from the corresponding
 catalog. In the table field, enter posting entries.
@@ -5890,7 +5890,7 @@ CHART OF ACCOUNTS
 Management «Chart of Accounts» is accessible in the «Company» group from
 navigation panel, by clicking the corresponding link.
 
-|Chart|
+|image1521153992881187|
 
 The chart of accounts is filled in automatically with accounts and
 subaccounts on the first launch of a new infobase. The chart of accounts
@@ -5915,7 +5915,7 @@ in several stages. In the document, the following statuses of
 reconciliation document are registered for each stage: created, on
 reconciliation, reconciled.
 
-|MSR|
+|image1521153995600044|
 
 **Created** – mutual settlements reconciliation is created. You can
 create the document manually or using the reconciliation creation wizard
@@ -5946,7 +5946,7 @@ DEBT ADJUSTMENT
 You can use the document to setoff and assign a debt with
 counterparties.
 
-|DA|
+|image1521153993352736|
 
 Depending on the set operation kind, use this document to record the
 following:
@@ -5982,7 +5982,7 @@ Use the **Other costs (expenses)** document to record intangible
 expenses of the company business activities in accounting. Using the
 document, you can capitalize intangible costs for further allocation.
 
-|image617.png|
+|image1521154000840023|
 
 In the document, specify own company, a department, and an offsetting
 account with the **Other income**, **Other current assets**, **Credits
@@ -6000,7 +6000,7 @@ use the **Tax accrual** document. To access the document, in the
 navigation panel of the **Financial transactions** group, click **Tax
 accrual**.
 
-|image619.png|
+|image1521154000864335|
 
 In the document, specify operation type **Accrual** or **Compensation**.
 Enter a tax list from the **Tax kinds** catalog into the table field.
@@ -6012,7 +6012,7 @@ operation kind records tax payment to budget.
 
 Tax accruals and payments are shown in the **Tax settlements** report.
 
-|image621.png|
+|image1521154000892579|
 
 MONTH-END CLOSING
 ~~~~~~~~~~~~~~~~~
@@ -6022,7 +6022,7 @@ operations of period-end closing in management accounting. To access it,
 in the **Financial transactions** group, in the navigation panel, click
 **Month-end closing**.
 
-|image623.png|
+|image1521154000922465|
 
 The data processor automatically performs the following regulatory
 operations:
@@ -6056,7 +6056,7 @@ documents, cash flow items.
 To access the wizard, on the month-end closing form, click **Preliminary
 analysis**.
 
-|AccAn|
+|image1521153991651839|
 
 .. _property-1:
 
@@ -6073,7 +6073,7 @@ Property information
 
 Information on company property is stored in the **Property** catalog.
 
-|Property|
+|image1521153996599653|
 
 The following property information is shown in the catalog: an inventory
 number, initial cost, accrued depreciation, residual value, and state.
@@ -6085,12 +6085,12 @@ accrual, and calculate property depreciation if necessary.
 On the list form, you can also register all available property
 operations or access the property document journal.
 
-|PropertyMenu|
+|image1521153996574529|
 
 To access information on parameters and state of the current asset,
 click the link in the navigation panel of the catalog item form.
 
-|1521139815909707|
+|image1521153990967966|
 
 Specify the following information for property: a type (**Fixed asset**
 or **Intangible asset**), a depreciation method (**Proportionally to
@@ -6101,7 +6101,7 @@ Actions with property starting from new asset registration are
 registered with documents grouped into the **Property documents**
 journal.
 
-|image633.png|
+|image1521154000947397|
 
 Registering a new asset
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -6115,12 +6115,12 @@ To register a new property item:
 Receipt of new products and services is registered with the **Goods
 receipt** document.
 
-|GRRetail|
+|image1521153994152388|
 
 To register products and services as property, enter the **Property
 recognition** document.
 
-|Image 8|
+|image1521153994971019|
 
 On the **Attachment object data** document tab, specify the following
 information on products and services: a name, quantity, characteristics,
@@ -6140,7 +6140,7 @@ Changing parameters
 You can change property parameters specified on registration. To
 register such changes, use the **Change of parameters** document.
 
-|Image 6|
+|image1521153994922717|
 
 In the table field of the document form, specify a list of assets and
 new values of changed parameters.
@@ -6153,7 +6153,7 @@ information specified in documents **Property recognition** and **Change
 of parameters**. It is required to enter the **Property depreciation**
 document at the end of the month.
 
-|PropDeprec|
+|image1521153996547666|
 
 Specify output volume manually before automatic accrual for the asset
 with depreciation accrual method **Proportionally to product volume**.
@@ -6161,7 +6161,7 @@ Use the **Property output** document for showing information on asset
 output. Enter a list of assets in the tabular field of the document form
 and specify the output volume in the **Quantity** column.
 
-|1521139821986881|
+|image1521153991123230|
 
 Property outflow
 ~~~~~~~~~~~~~~~~
@@ -6180,7 +6180,7 @@ Property sale
 Use the **Property sale** document to register property sale to a third
 party counterparty.
 
-|Image8|
+|image1521153995080831|
 
 The document automatically accrues depreciation additionally for the
 month of the sale. In the **Total depreciation** column, specify
@@ -6196,7 +6196,7 @@ Use the **Property write-off** document to register write-off of fixed
 assets and intangible assets. The document automatically accrues
 depreciation for the current month before writing-off.
 
-|Image9|
+|image1521153995108744|
 
 In the document header, in the **Correspondence** field, specify GL
 account to which the property residual value will be allocated.
@@ -6249,7 +6249,7 @@ Opening balance
 On the **Opening balance** tab, you can specify cash balance amount on
 company accounts on the planned period start date.
 
-|Budget1|
+|image1521153992069303|
 
 Costs
 ~~~~~
@@ -6257,7 +6257,7 @@ Costs
 You can use the **Costs** tab to store information on direct and
 indirect company costs over the specified period.
 
-|Budget2|
+|image1521153992092577|
 
 .. _funds-3:
 
@@ -6267,7 +6267,7 @@ Funds
 On the **Funds** tab, you can store data on cash flow budgets over the
 specified period.
 
-|Budget5|
+|image1521153992171503|
 
 Income and expenses
 ~~~~~~~~~~~~~~~~~~~
@@ -6277,14 +6277,14 @@ budget over the specified period for a specific department of own
 company. Specify the following information in table fields: GL account,
 a business area, and a customer order to allocate income or expense to.
 
-|Budget3|
+|image1521153992118269|
 
 Operations
 ~~~~~~~~~~
 
 You can use the tab to store data on other budget operations.
 
-|Budget4|
+|image1521153992144107|
 
 Company section reports
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -6298,7 +6298,7 @@ beginning of the chapter). Use the accounting register to generate the
 You can access the reports in the report panel available by clicking the
 corresponding link in the navigation panel of the section.
 
-|1521139814125656|
+|image1521153990810418|
 
 Non-allocated costs
 ~~~~~~~~~~~~~~~~~~~
@@ -6307,13 +6307,13 @@ The report provides data on direct and indirect company production
 costs. The data is provided by departments with details by customer
 orders.
 
-|image661|
+|image1521154000973273|
 
 You can generate the report in two modes – **Statement** and
 **Balance**. Data on funds receipts and expenses is not shown in the
 **Balance** mode.
 
-|image663.png|
+|image1521154000999923|
 
 Trial balance
 ~~~~~~~~~~~~~
@@ -6321,7 +6321,7 @@ Trial balance
 With the **Trial balance** report, you can see summary data on
 management accounting.
 
-|image665|
+|image1521154001025963|
 
 The report is generated as a table. Every row of the table contains
 information on a specific management accounting account. Accounts are
@@ -6340,7 +6340,7 @@ Property output
 Summary information on property output over the specified period is
 shown in **Property output** report.
 
-|Image11|
+|image1521153994999015|
 
 Sales plans
 ~~~~~~~~~~~
@@ -6350,7 +6350,7 @@ products and services grouped by departments. For all products and
 services planned for sale, the report shows quantity, amount, and total
 for each department and for all departments.
 
-|image669.png|
+|image1521154001052561|
 
 CHAPTER 10
 ==========
@@ -6430,7 +6430,7 @@ represented in a separate list. Issued prepayment not allocated to order
 documents is specified in the **Advance** column. To access the
 **Settlements with suppliers** report, click **More**.
 
-|Image12|
+|image1521153995025849|
 
 As a manager, you can display such lists for any date and company using
 selection fields in the command bar. You can also change location of the
@@ -6453,7 +6453,7 @@ change the widget position and prevent some indicators from being
 displayed, click **All actions**, click **Change form**, and then enable
 the required options.
 
-|image673.png|
+|image1521154001076874|
 
 .. _funds-5:
 
@@ -6497,7 +6497,7 @@ intervals and for any company. To change the widget position and prevent
 some indicators from being displayed, click **All actions**, click
 **Change form**, and then enable the required options.
 
-|FundsWidget|
+|image1521153994010887|
 
 SETTLEMENTS WITH CUSTOMERS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -6541,7 +6541,7 @@ change the widget position and prevent some indicators from being
 displayed, click **All actions**, click **Change form**, and then enable
 the required options.
 
-|Receivable|
+|image1521153996778032|
 
 .. _settlements-with-suppliers-1:
 
@@ -6587,7 +6587,7 @@ change the window position and prevent some indicators from being
 displayed, click **All actions**, click **Change form**, and then enable
 the required options.
 
-|CompDebt|
+|image1521153993027966|
 
 ANALYSIS SECTION REPORTS
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -6599,7 +6599,7 @@ register to generate the following reports: **Balance**, **Profits and
 losses**, **Balance budget**, **Profit and loss budget**, and **Trial
 balance**.
 
-|image681.png|
+|image1521154001101628|
 
 Sales variance analysis
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -6607,7 +6607,7 @@ Sales variance analysis
 You can analyze ratio of planned and actual sales using the **Sales
 variance analysis** report.
 
-|Image13|
+|image1521153995055905|
 
 The report displays difference between quantity and amount of goods
 planned for sale and sold. Variance percent value of the difference in
@@ -6619,7 +6619,7 @@ Cost
 In the report, you can see data on cost of released products, works and
 services with explanation of the expenses.
 
-|image685.png|
+|image1521154001127771|
 
 .. _sales-3:
 
@@ -6629,14 +6629,14 @@ Sales
 In the **Sales** report, you can see data on sold products and services
 items over the specified time period in quantitative and value terms.
 
-|1521139824501474|
+|image1521153991148112|
 
 In the report, you can use grouping by orders.
 
 Use the **Gross profit** report variant for analysis of gross profit
 from sales over the period.
 
-|GrossProfit|
+|image1521153994220831|
 
 Goods in products and services prices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -6644,7 +6644,7 @@ Goods in products and services prices
 Use the report for analysis of potential inventory volume in warehouses
 in quantitative and value terms.
 
-|1521139824794133|
+|image1521153991172040|
 
 Balance
 ~~~~~~~
@@ -6652,7 +6652,7 @@ Balance
 The report shows balance sheet statement over the specified period for
 the selected company.
 
-|Image 4|
+|image1521153994867896|
 
 Financial result
 ~~~~~~~~~~~~~~~~
@@ -6661,7 +6661,7 @@ The report contains data on financial result of company activities
 calculated during month-end closing. The report data is grouped by
 business areas.
 
-|image695.png|
+|image1521154001156599|
 
 Financial result (forecast)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -6670,12 +6670,12 @@ In the report, you can see information on financial result forecast over
 the specified period for the selected company. The report is generated
 based on data of the **Budget** documents.
 
-|1521139821698417|
+|image1521153991097938|
 
 The report can be generated in the **Main** and **Variance analysis**
 modes.
 
-|image699.png|
+|image1521154001183743|
 
 Profits and losses
 ~~~~~~~~~~~~~~~~~~
@@ -6683,7 +6683,7 @@ Profits and losses
 In the report, you can see information about company profits and losses
 over the specified period.
 
-|image701.png|
+|image1521154001205276|
 
 The report data is grouped by common and other activity kinds. At the
 bottom of the report, you can see information about income and expenses
@@ -6696,7 +6696,7 @@ The report displays summary information about company cash flow over the
 specified period: cash as of the period start and end, inflow and
 outflow grouped by cash flow items, and total inflow (outflow) of funds.
 
-|image703.png|
+|image1521154001231412|
 
 Income and expenses (cash method)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -6706,7 +6706,7 @@ cash method (acc. to payment). You can access it if you select the **Use
 cash method of income and expenses accounting** check box in accounting
 settings.
 
-|image705.png|
+|image1521154001256202|
 
 The report data is grouped by business areas.
 
@@ -6718,7 +6718,7 @@ Income and expenses
 The report contains data on company income and expenses calculated using
 accrual method (according to shipment).
 
-|1111111111111|
+|image1521153990663902|
 
 The report data is grouped by business areas.
 
@@ -6729,7 +6729,7 @@ The report displays information about cash flow budget over the
 specified period for the selected company. The report is generated based
 on data of the **Cash flow budget** documents.
 
-|CashFlowBudget|
+|image1521153992692369|
 
 You can generate the report in the following modes: **Main** and
 **Variance analysis**. If you select the **Main** option, the report
@@ -6744,7 +6744,7 @@ The report displays information about budget of profit and loss over the
 specified period for the selected company. The report is generated based
 on data of the **Budget** documents.
 
-|Image 7|
+|image1521153994945394|
 
 You can generate the report in the following modes: **Main** and
 **Variance analysis**. If you select the **Main** option, the report
@@ -6760,14 +6760,14 @@ Budgeted balance sheet
 In the report, you can see budgeted balance sheet data over the
 specified period for the selected company.
 
-|Image 10|
+|image1521153994450947|
 
 You can generate the report in the following modes: **Main** and
 **Variance analysis**. If you select the **Variance analysis** mode, the
 report shows data on planned and actual budgeted balance sheet, an
 absolute value, and variance percent.
 
-|image719.png|
+|image1521154001283908|
 
 CHAPTER 11
 ==========
@@ -6800,7 +6800,7 @@ following:
 
 1. Click the **Settings** section, and then click **Finance**:
 
-   |EnableSection.png|
+   |image1521153993558513|
 
 2. Select the **Enable section use** check box to active the
    functionality.
@@ -6833,19 +6833,19 @@ To upload chart of accounts:
 1. Click the **Settings** section, and then click **Print forms, reports
    and data processors**:
 
-   |PrForms.png|
+   |image1521153996263204|
 
 2. In the **Print forms, reports and data processors** window, click
    **Additional reports and data processors**.
 
-   |ADR2.png|
+   |image1521153991572091|
 
 3. In the **Additional reports and data processors** window, click
    **Create**, and then select a local file with the data processor for
    uploading charts of accounts. The file is supplied with the
    application. The **Additional data processor** window appears:
 
-   |AdDataPr.png|
+   |image1521153991804484|
 
 4. In this window, click **Undefined** next to **Placement**, select
    **Section "Finances"**, and then click **OK**.
@@ -6856,13 +6856,13 @@ To upload chart of accounts:
 6. Click the **Funds** section, and then click **Additional data
    processors**:
 
-   |CHA.png|
+   |image1521153992388089|
 
 7. In the **Additional data processors** window, click **Charts of
    accounts import**, and then click **Execute**. The **Chart of
    accounts import** window appears:
 
-   |CHA2.png|
+   |image1521153992422971|
 
 8. In this window:
 
@@ -6876,7 +6876,7 @@ To upload chart of accounts:
    accounts template** area. You can start using them in the application
    for postings.
 
-   |ImpFromFiel.png|
+   |image1521153995137380|
 
 To access a list of your company’s GL accounts, click the **Bookkeeping
 portable** section, and then click **Chart of accounts "Bookkeeping"**.
@@ -6887,17 +6887,17 @@ the application:
 1. Click the **Bookkeeping portable** section, and then click **Chart of
    accounts "Bookkeeping"**:
 
-   |CHA3.png|
+   |image1521153992456882|
 
 2. In this window, click **Create**:
 
-   |NewAccount.png|
+   |image1521153995825318|
 
 3. In the **Choose new account parent** window, select whether your GL
    account is a root one or subordinate to another one, and then click
    **OK**.
 
-   |AccountNew.png|
+   |image1521153991750264|
 
 4. Specify the account code, validity period, balance side, and extra
    dimensions if any.
@@ -6922,18 +6922,18 @@ To assign financial groups to counterparties:
 
 2. In the **Counterparties** catalog, select the required counterparty:
 
-   |Count.png|
+   |image1521153993151998|
 
 3. Click the **Additional information** tab, and then in the **Financial
    group** field select a financial group for the counterparty or create
    a new one.
 
-   |FCG.png|
+   |image1521153993762232|
 
-4. Click |Button.png|. The **BookkeepingSettingsCommonForm** window
+4. Click |image1521153992196054|. The **BookkeepingSettingsCommonForm** window
    appears:
 
-   |Acc.png|
+   |image1521153991625847|
 
 5. In this window, set a start date for the financial group in the
    **Period** field.
@@ -6961,18 +6961,18 @@ To assign financial groups to products and services:
 1. In the **Products and services** catalog, selected the required
    product or service:
 
-   |PrAndServ.png|
+   |image1521153996237857|
 
 2. Click the **Main parameters** tab, and then in the **Financial
    group** field select a financial group for the product or service or
    create a new one.
 
-   |FPS.png|
+   |image1521153993786759|
 
-3. Click |Button.png|. The **BookkeepingSettingsCommonForm** window
+3. Click |image1521153992196054|. The **BookkeepingSettingsCommonForm** window
    appears:
 
-   |BK.png|
+   |image1521153991967271|
 
 4. In this window, set a start date for the financial group in the
    **Period** field.
@@ -6998,7 +6998,7 @@ To create bookkeeping templates:
 1.  In the **Bookkeeping portable** section, click **Bookkeeping
     operations templates**, and then click **Create**.
 
-    |Template1.png|
+    |image1521153997467310|
 
 2.  In the template card, specify its description, and select a document
     base, e.g. a customer invoice.
@@ -7013,7 +7013,7 @@ To create bookkeeping templates:
     attributes appears. Select an attribute you want to filter by from
     the list, e.g. a company or a customer.
 
-    |Filter.png|
+    |image1521153993879648|
 
 5.  Select the check box next to the attribute, and then click **Save
     filter settings**. The bookkeeping template will be filtered by this
@@ -7048,12 +7048,12 @@ To create bookkeeping templates:
 
 11. Click the **Bookkeeping records** tab:
 
-    |Template2.png|
+    |image1521153997494832|
 
-12. In the opened window, click |Add.png| to select a posting base. The
+12. In the opened window, click |image1521153991835086| to select a posting base. The
     **Table choosing** window appears:
 
-    |TableChoosing.png|
+    |image1521153997416090|
 
 13. Select a posting base: document data, document tabular section data
     or document register, e.g. **Sales**, and then click **OK**. The
@@ -7070,16 +7070,16 @@ To create bookkeeping templates:
 16. Double-click the **Account** column. The **Bookkeeping operations
     templates** window appears:
 
-    |Template3.png|
+    |image1521153997518461|
 
-17. In this window, click |Button1.png| in the field. The following
+17. In this window, click |image1521153992220983| in the field. The following
     window appears:
 
-    |Template4.png|
+    |image1521153997544077|
 
 18. Click **New parameter**. The following window appears:
 
-    |Template5.png|
+    |image1521153997571061|
 
 19. Select the required GL account, e.g. for Sales register, click
     **Product or service**, and then select the required account, for
@@ -7121,7 +7121,7 @@ for every document kind:
 1. In the **Bookkeeping portable** section, click **Bookkeeping posting
    settings**, and then click **Create**:
 
-   |Settings.png|
+   |image1521153997216706|
 
 2. Select a document kind and bookkeeping posting type:
 
@@ -7146,10 +7146,10 @@ To create postings:
 
 1. Open the required document.
 
-2. In the document card, click |DK.png| to create a bookkeeping
+2. In the document card, click |image1521153993378510| to create a bookkeeping
    operation. The following window appears:
 
-   |BKOperation.png|
+   |image1521153991994133|
 
 3. The postings are generated automatically based on the configured
    templates. Check the postings, and then click **Post close**.
@@ -7235,7 +7235,7 @@ shows not only users operating in the infobase via **Thin client**,
 **Thick client**, **Web client** or **Designer**, but also users
 operating via **COM connection**, **WS connection**, etc.
 
-|Image 11|
+|image1521153994477096|
 
 To analyze actions of a specific user, go to the active user list by
 clicking the corresponding link in the **Support and service** panel of
@@ -7259,7 +7259,7 @@ no users are connected.
 The data processor allows you to lock/unlock connections to the infobase
 in the « **1C:Enterprise»** mode for the specified period.
 
-|Image 12|
+|image1521153994503634|
 
 On the lock start time, sessions of users connected to the infobase will
 be closed, and a new session will be attempted to start.
@@ -7324,7 +7324,7 @@ wizard, you can update from the following sources:
 
 -  An arbitrary file from a local or network directory
 
-|SearchAndInstall|
+|image1521153997037542|
 
 Note
 
@@ -7461,7 +7461,7 @@ of marked objects** in the **Support and service** panel. In the opened
 window, set the radio button to the required position: automatic or
 selective deletion of objects.
 
-|Image 14|
+|image1521153994530742|
 
 Then, click **Delete** in automatic mode and **Next >** in manual
 deletion mode. In the first case, you can automatically delete marked
@@ -7487,7 +7487,7 @@ closing date of data change and customize its settings, in the
 **Settings** section, in the **Support and service** panel, click the
 corresponding command.
 
-|ClDate|
+|image1521153993004798|
 
 You can set a closing date of data change both for all application
 users, and for a specific user or a user group. You can also set a
@@ -7506,7 +7506,7 @@ select **All users** in the **Set up closing date** field. Fields
 **Closing** **date indication method** and **Closing date** become
 available on the form (for more information, see further chapters).
 
-|ClDateAll|
+|image1521153992903020|
 
 If a closing date is not set, restrictions are not applied. When setting
 the closing date, you can specify not only a custom date but also a
@@ -7536,7 +7536,7 @@ according to the specified relative date. For example, if you select
 **Previous day**, run the command every day. If you select **Last month
 end**, run the command every month.
 
-|ClDateYear|
+|image1521153992979430|
 
 Sometimes you might need to specify different change closing dates for
 different users. For example, it will be required to set a change
@@ -7546,7 +7546,7 @@ a list will appear on the form. You can add application users (user
 groups) (using corresponding commands) and set their own change closing
 dates for every user in the list.
 
-|ClDateByUsers|
+|image1521153992931923|
 
 There is always the **<All users>** item by default in the list. You
 cannot delete or change the item. Settings of the change closing date
@@ -7571,7 +7571,7 @@ method** field.
 **Common date** – if you use this method, the same change closing date
 is specified for all infobase data items.
 
-|ClDateCommon|
+|image1521153992954994|
 
 **<Common date>** is always in the list by default. Value of change
 closing date for this item will be a default value for all sections,
@@ -7630,7 +7630,7 @@ ignores the message, they can open the backup setup wizard in the
 **Settings** section, in the **Support and service** panel, click the
 corresponding command.
 
-|image739.png|
+|image1521154001309418|
 
 On the first page of the wizard, you can perform the following:
 
@@ -7781,7 +7781,7 @@ information kinds** catalog. To access the catalog, in the **Settings**
 section, in the **General settings** panel, click **Contact information
 kinds**.
 
-|Image 15|
+|image1521153994555722|
 
 The catalog contains predefined items divided by groups depending on
 purpose. Each group contains contact information kinds for populating
@@ -7814,7 +7814,7 @@ required versioning option:
 -  **Default**. Set recommended settings (Do not version for catalogs,
    Version on posting for documents).
 
-|image743|
+|image1521154001333511|
 
 Versioning of a large number of objects can increase the size of
 information stored in the application. It might slow down the
@@ -7928,7 +7928,7 @@ information on configuration objects: catalogs **Counterparties**,
 **Products and services**, **Companies**, and other. Properties and
 value types are defined for every set.
 
-|image745|
+|image1521154001359044|
 
 One of the predefined objects is a group containing property sets for
 the **Products and services characteristics** catalog items. Each set
@@ -8038,7 +8038,7 @@ is **Additional value**. The following attribute values are available:
 In the tabular section of the form, specify values available for the
 **Manufacturer** attribute.
 
-|image747.png|
+|image1521154001387620|
 
 To create the **Design options** information, perform the following
 steps:
@@ -8062,7 +8062,7 @@ contains the **Manufacturer** selection field. In the field, you can
 specify one of the values entered before in the **Object property
 values** catalog.
 
-|Image 16|
+|image1521153994578733|
 
 To open the window containing a list of additional product information,
 click **More**, click **Product cards**, and then click **Additional
@@ -8078,13 +8078,13 @@ properties to an indicator list, set a filter by additional information
 generate the report (for example, **Customer order analysis**). You can
 set an hierarchy for additional information.
 
-|1521139826897244|
+|image1521153991195902|
 
 After saving the settings, create a new customer order using products
 with the specified values of additional attribute and property. Then
 generate a report with a filter by this order.
 
-|image753.png|
+|image1521154001414002|
 
 The report shows only the products with the value of the **Design
 option** additional information equal to 3 and 6, as these values are
@@ -8111,7 +8111,7 @@ You can access a list form of the **Users** catalog by clicking the
 corresponding command in the **User and rights settings** panel in the
 **Settings** section. The catalog item form looks like this:
 
-|image755.png|
+|image1521154001440763|
 
 To register a new infobase user:
 
@@ -8154,7 +8154,7 @@ application displays an authentication window to specify a login (select
 it from a list of infobase users) and a password corresponding to the
 login.
 
-|image757.png|
+|image1521154001466450|
 
 Tooltip
 
@@ -8175,7 +8175,7 @@ Access rights are grouped by user profiles. To grant user rights, on the
 list form or in the **Users** catalog item, click **Access rights** and
 assign the rights.
 
-|Image 25|
+|image1521153994757694|
 
 Access restriction to configuration sections
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -8196,25 +8196,25 @@ Use this option to restrict access of sales representatives only to
 their "own" counterparties. Counterparties of other sales
 representatives and documents related to them will be unavailable.
 
-|Image 18|
+|image1521153994604802|
 
 To enable this functionality, in the **Settings** section, in the **User
 and rights settings** panel, select check boxes **Limit access on the
 record level**, **Counterparty access groups** and create required
 groups.
 
-|Image 19|
+|image1521153994630971|
 
 The **Access group** field appears on counterparty forms. The field is
 required.
 
-|Image 20|
+|image1521153994685429|
 
 To populate access groups of several counterparties at once, use the
 **Change selected items** form. To open the form, click **More**, and
 then click **Change selected**.
 
-|Image 26|
+|image1521153994787882|
 
 After allocating the counterparties, specify access groups to operate
 with for every user.
@@ -8231,7 +8231,7 @@ This option is available for the **Funds** profile. You can restrict
 access to documents and reports only by those cash funds which are
 defined in the user settings.
 
-|FundsRights|
+|image1521153993978391|
 
 To enable the option, in the **User and rights settings** panel, set the
 **Limit access on the record level** option and specify the required
@@ -8263,7 +8263,7 @@ catalogs and documents which this user will use. You can access the
 setting form from the user card by clicking the hyperlink in the **User
 settings** navigation panel.
 
-|image771|
+|image1521154001494697|
 
 Every infobase user can correspond to several employees who will be
 allowed to utilize this user account. You can access a list of such
@@ -8285,7 +8285,7 @@ Report panel
 If multilingual values are filled out in the **Reports** catalog, then a
 report form for each section is generated in the user language.
 
-|MandS|
+|image1521153995727137|
 
 Organizer
 ~~~~~~~~~
@@ -8354,12 +8354,12 @@ Use the console to change scheduled jobs and control their execution.
 Simple control includes analysis of columns **State** and **End date**
 and a value of the **User messages** and error details field.
 
-|image774|
+|image1521154001521181|
 
 Detailed control includes analysis of a background job list on the
 **Background jobs** tab.
 
-|image776.png|
+|image1521154001548273|
 
 Detailed control is carried out using background job filter by a
 scheduled job and analysis of background job attributes. Information
@@ -8382,7 +8382,7 @@ Use this function to:
 
 -  Mark duplicate items for deletion in the list
 
-|11111|
+|image1521153990687627|
 
 Click **Delete duplicates** to replace all duplicate items in documents
 with the selected original.
@@ -8393,7 +8393,7 @@ Configuring data synchronization
 Select the **Data synchronization** check box (constant) and the
 infobase prefix before you start using the functionality.
 
-|image780.png|
+|image1521154001574411|
 
 On the **Data synchronization** form, you can configure exchange. To
 open the form, in the **Settings** section, in the navigation panel,
@@ -8487,7 +8487,7 @@ with websites** check box.
 To configure exchange, click **Set up exchange with websites**, and use
 the **Nodes of exchange with sites** form.
 
-|image782.png|
+|image1521154001600653|
 
 To create a new exchange with a website, on the **Nodes of exchange with
 sites** form, click **Create**, and then use the **Wizard of data
@@ -8502,7 +8502,7 @@ Configure the following exchange parameters:
 -  Website connection settings. You can perform exchange with a website
    via the Internet or using directories on disk.
 
-|image784.png|
+|image1521154001626050|
 
 -  Settings for products and services export if the **Export goods**
    mode is set. Specify price kinds that determine the prices exported
@@ -8511,7 +8511,7 @@ Configure the following exchange parameters:
    attached to products and services to the website, select the **Export
    products and services images** check box.
 
-|image786.png|
+|image1521154001649337|
 
 -  Order exchange settings if the **Exchange orders** mode is set.
    Specify the **method of importing counterparties** from the website
@@ -8593,7 +8593,7 @@ Data on peripherals at user work places is stored in the **Peripherals**
 catalog. To access the catalog, in the **Settings** section, click
 **Peripherals**.
 
-|image790.png|
+|image1521154001675731|
 
 To install a new device, click **Create**. On the opened form, specify
 the following:
@@ -8627,7 +8627,7 @@ the following:
    peripheral, by default it includes computer and user names. You can
    select a value from the **Work places** catalog.
 
-|image792|
+|image1521154001698751|
 
 After being set and configured, peripherals will be displayed in the
 list. To display all peripherals, group them by work places, or display
@@ -8635,13 +8635,13 @@ a list of devices only of the specified type and specified work place,
 use the **All types of equipment**, **All work places**, and **Group by
 work place** check boxes.
 
-|image794|
+|image1521154001724688|
 
 To open forms for viewing and editing a work place list and to connect a
 new device to a particular work place, use commands of the **Work place
 management** menu.
 
-|image796|
+|image1521154001751527|
 
 On the form of new peripheral creation, the **Work place** field will be
 populated and unavailable for editing.
@@ -8656,17 +8656,17 @@ Here you can edit information about current session user, install file
 operation extensions for web client, update the application parameters
 and set up Internet access parameters for proxy server.
 
-|image798.png|
+|image1521154001777261|
 
 You can customize personal settings of file operation parameters in the
 **File operation interface** panel.
 
-|FileOperationInterface|
+|image1521153993814635|
 
 On the **Print** tab, you can set parameters of printing and print form
 templates.
 
-|PrintOptions|
+|image1521153996443526|
 
 File operation interface
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -8676,7 +8676,7 @@ in 1C:Document Management application.
 
 By clicking **Files**, users can access the file storage.
 
-|Files|
+|image1521153993844334|
 
 In the left side of the form, you can see a directory tree where files
 are located. Using commands of the **Create** menu, you can add
@@ -8754,20 +8754,20 @@ Setting up exchange
 To access the ClientBank data processor, click **Funds**, and then click
 **Exchange with bank**.
 
-|Image 1|
+|image1521153994659951|
 
 If the link is missing in the section panel, add it to the panel by
 enabling the corresponding settings.
 
-|image411|
+|image1521153999774011|
 
 When you click **Exchange with bank**, the ClientBank data processor
 home page appears:
 
-|Image 2|
+|image1521153994814790|
 
-To set up import/export, click |image413|, select the required account,
-and then click |image414|.
+To set up import/export, click |image1521153999799750|, select the required account,
+and then click |image1521153999825769|.
 
 In the opened window, select the exchange file encoding, additional
 import/export data processor name to exchange with the bank of the
@@ -8778,7 +8778,7 @@ imported documents, export and import file names.
 If export and import file names are not filled in, you will be prompted
 to select them during import or export.
 
-|Image 3|
+|image1521153994838502|
 
 Exporting bank payment orders
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -8788,7 +8788,7 @@ showing payment orders for export for the selected account.
 
 Operator can select check boxes for the exported documents.
 
-|Image 5|
+|image1521153994894041|
 
 Click **Export** to export data.
 
@@ -8818,7 +8818,7 @@ to create items corresponding to new counterparties in the
 **Counterparties** catalog. Once the counterparties are created, repeat
 the file data reading and import data.
 
-|image417|
+|image1521153999877746|
 
 When you click **Import**, data of selected rows is imported. The
 following document types are created during import: **Payment receipt**
@@ -9057,7 +9057,7 @@ system functions: a calendar, a calculator and other.
 To open a form, find an appropriate command in the interface (to open a
 list, enter a document and other) and run it (click or press Enter).
 
-|image806|
+|image1521154001799857|
 
 The window design allows you to easily navigate through the application,
 between areas, switch between opened windows and forms.
@@ -9069,10 +9069,10 @@ Customizing workspace
 
 With the Taxi interface, you can customize your workspace and locate
 panels in the screen areas. To open the panel settings, in the **Main
-menu** |image808.png|,
+menu** |image1521154001823198|,
 click **View**, and then click **Panel settings**.
 
-|image810.png|
+|image1521154001849227|
 
 Drag panels to change their location in the screen areas.
 
@@ -9105,7 +9105,7 @@ depend on a user profile. For instance, if you are a user with full
 rights, you will see the **Manager dashboard** form and a list of
 current to-dos on the home page.
 
-|image812.png|
+|image1521154001871946|
 
 Press **F6** to switch between home page forms.
 
@@ -9120,7 +9120,7 @@ column groups **Left column**, **Right column**. In the **Available
 forms** list, you can see forms used neither in the left nor in the
 right column.
 
-|image814.png|
+|image1521154001898099|
 
 You can drag forms from one list to another by clicking **Add >** and
 **Add all >>**. You also can move them between columns by clicking **>**
@@ -9129,7 +9129,7 @@ available forms), select it in the list, and then click **< Remove** or
 double-click the form name in the list. To remove all forms from the
 home page, click **<< Remove all**. You can also change the form
 sequence in the columns using buttons. The forms are displayed on the
-home page in the sequence set in the |image816.png| settings.
+home page in the sequence set in the |image1521154001922573| settings.
 
 During customization you can cancel changes made in this session or
 earlier and restore the default settings. To restore the default
@@ -9144,7 +9144,7 @@ Customizing panels
 To configure or hide panels, use corresponding commands of the **View**
 main menu.
 
-|image818|
+|image1521154001947033|
 
 From this submenu, you can control panel visibility and content of
 sections panel, form navigation panels, and start page. With this
@@ -9161,7 +9161,7 @@ navigate to sections.
 To open a dialog box of the sections panel, in the main menu, click
 **View** – **Sections panel setup...**
 
-|image820.png|
+|image1521154001976154|
 
 To add a section to the panel, select it in a list of available sections
 and then click **Add >**. In the dialog box, you can drag the list items
@@ -9194,13 +9194,13 @@ Area of system commands of main and secondary window
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To add or remove standard command bar buttons of main or secondary
-window, click a button |image822.png|
+window, click a button |image1521154002003522|
 (**Other buttons**) in the upper right side of the screen. A menu
 appears. In this menu, hover the mouse pointer over the **Add or delete
 buttons** item. A menu opens. In this menu, select or clear a check box
 for the required command.
 
-|image824|
+|image1521154002029975|
 
 Command for which the check box is selected will be displayed in the
 system command area of the window. Command for which the check box is
@@ -9213,7 +9213,7 @@ Customizing form
 In the application, you can customize forms. To open the form editor, in
 the form command bar, click **More**, and then click **Change form**.
 
-|image826.png|
+|image1521154002054088|
 
 In the left side of the window, you can see the form items as a tree. In
 the right side, you can see a list of properties of the selected form
@@ -9277,7 +9277,7 @@ to customize the application and configure a debugging mode.
 To call a dialog box to configure parameter settings, in the main menu,
 click **Tools**, and then click **Options**.
 
-|image828.png|
+|image1521154002079741|
 
 In the dialog box, you can set up the following parameters:
 
@@ -9378,7 +9378,7 @@ To register a new customer, in the **Sales** section, in the actions
 panel, click **Counterparty**. A customer information input form
 appears.
 
-|Counter|
+|image1521153993199687|
 
 If a customer is an individual, enter their last name and name in the
 **Name** field.
@@ -9390,11 +9390,11 @@ To register a customer order, generate the corresponding document. You
 can generate this document from a counterparty card just after
 registration.
 
-|CO10|
+|image1521153992486731|
 
 Specify a contract in the document, then fill in payment period fields.
 
-|Contract|
+|image1521153993128863|
 
 Registering air conditioner release
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -9410,9 +9410,9 @@ You can generate the **Production order** document on the basis of the
 **Customer order** document with the **Sales order** operation kind. The
 new document is addressed to the **Assembly shop** department.
 
-|COPO|
+|image1521153992522009|
 
-|PrO|
+|image1521153996342099|
 
 Air conditioner assembly is registered with the **Manufacturing**
 document. You can generate it on the basis of the **production order**
@@ -9423,7 +9423,7 @@ Specify a storage location which is a warehouse to move the air
 conditioner to in the **Recipient** field. Or you can specify target and
 source warehouses on the **Manufacturing** document form.
 
-|IM|
+|image1521153994425361|
 
 Proforma invoice
 ~~~~~~~~~~~~~~~~
@@ -9431,7 +9431,7 @@ Proforma invoice
 You can create the **Proforma invoice** document on the basis of a
 customer order.
 
-|ProformaInvoice|
+|image1521153996522431|
 
 Registering installation works
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -9444,14 +9444,14 @@ order (in this case, it contains all works and services ordered by the
 customer and not related to air conditioner assembly including
 installation and mounting) or on the basis of **Proforma invoice**.
 
-|AcceptCert2|
+|image1521153991675061|
 
 The **Job order** document is entered independently. It is used as a
 customer order, a proforma invoice, an acceptance certificate, and a
 goods issue for the services sector with writing off direct material and
 labor costs to it.
 
-|JobOrder|
+|image1521153995548272|
 
 Receiving payment
 ~~~~~~~~~~~~~~~~~
@@ -9462,13 +9462,13 @@ order** with the **Job order** operation kind. You can populate the
 table field of the document form which displays payment details using
 selection.
 
-|CreditSlipCust|
+|image1521153993252185|
 
 To register payment for service in non-cash, use the **Receipt to
 account** document. You can enter it based on a customer order, an
 invoice issued to a customer, or an acceptance certificate.
 
-|REceiptToAccount|
+|image1521153996753191|
 
 Using reports
 ~~~~~~~~~~~~~
@@ -9480,1312 +9480,1312 @@ shown in the **Settlements with customers** report.
 Summary data on work performance and product manufacturing is shown in
 the **Product release** report.
 
-.. |image001| image:: media/image1.png
+.. |image1521153997883264| image:: media/image1.png
    :width: 4.38542in
    :height: 2.91667in
-.. |Companies| image:: media/image2.png
+.. |image1521153993051115| image:: media/image2.png
    :width: 4.63542in
    :height: 4.375in
-.. |Catalog| image:: media/image3.png
+.. |image1521153992855473| image:: media/image3.png
    :width: 4.63542in
    :height: 1.36458in
-.. |BaseChoice| image:: media/image4.png
+.. |image1521153992043999| image:: media/image4.png
    :width: 4.625in
    :height: 4.36458in
-.. |Addresses| image:: media/image5.png
+.. |image1521153991920416| image:: media/image5.png
    :width: 4.63542in
    :height: 4.375in
-.. |1521139814407240| image:: media/image6.png
+.. |image1521153990835985| image:: media/image6.png
    :width: 4.63542in
    :height: 2.52083in
-.. |image013.png| image:: media/image7.png
+.. |image1521153997908714| image:: media/image7.png
    :width: 0.125in
-.. |image015| image:: media/image8.png
+.. |image1521153997932054| image:: media/image8.png
    :width: 4.40625in
    :height: 2.91667in
-.. |image017| image:: media/image9.png
+.. |image1521153997958530| image:: media/image9.png
    :width: 4.53125in
    :height: 3.26042in
-.. |image080| image:: media/image10.png
+.. |image1521153998283790| image:: media/image10.png
    :width: 3.69792in
    :height: 3.53125in
-.. |image021 (2)| image:: media/image11.png
+.. |image1521153997987965| image:: media/image11.png
    :width: 3.78125in
    :height: 2.80208in
-.. |image023.png| image:: media/image12.png
+.. |image1521153998014657| image:: media/image12.png
    :width: 3.875in
    :height: 2.04167in
-.. |image025.png| image:: media/image13.png
+.. |image1521153998039265| image:: media/image13.png
    :width: 3.9375in
    :height: 3.20833in
-.. |Individual| image:: media/image14.png
+.. |image1521153995193513| image:: media/image14.png
    :width: 4.63542in
    :height: 5.28125in
-.. |image030.png| image:: media/image15.png
+.. |image1521153998065539| image:: media/image15.png
    :width: 3.9375in
    :height: 3.01042in
-.. |image036| image:: media/image16.png
+.. |image1521153998091969| image:: media/image16.png
    :width: 3.96875in
    :height: 2.04167in
-.. |image038| image:: media/image17.png
+.. |image1521153998117928| image:: media/image17.png
    :width: 4.33333in
    :height: 2.75in
-.. |Inv| image:: media/image18.png
+.. |image1521153995444332| image:: media/image18.png
    :width: 4.63542in
    :height: 2.79167in
-.. |1521139815007577| image:: media/image19.png
+.. |image1521153990886820| image:: media/image19.png
    :width: 4.44792in
    :height: 3.08333in
-.. |image044| image:: media/image20.png
+.. |image1521153998143192| image:: media/image20.png
    :width: 4.34375in
    :height: 2.66667in
-.. |CompanyResources| image:: media/image21.png
+.. |image1521153993075966| image:: media/image21.png
    :width: 4.625in
    :height: 1.53125in
-.. |Sales| image:: media/image22.png
+.. |image1521153996985613| image:: media/image22.png
    :width: 4.63542in
    :height: 4.47917in
-.. |image050| image:: media/image23.png
+.. |image1521153998168296| image:: media/image23.png
    :width: 4.48958in
    :height: 2.88542in
-.. |COstates| image:: media/image24.png
+.. |image1521153992551014| image:: media/image24.png
    :width: 4.63542in
    :height: 1.67708in
-.. |Purchases| image:: media/image25.png
+.. |image1521153996726666| image:: media/image25.png
    :width: 4.63542in
    :height: 3.96875in
-.. |Warehouses| image:: media/image26.png
+.. |image1521153997804620| image:: media/image26.png
    :width: 4.63542in
    :height: 1.34375in
-.. |MainWarehouse| image:: media/image27.png
+.. |image1521153995624780| image:: media/image27.png
    :width: 4.63542in
    :height: 3.4375in
-.. |WarehouseBins| image:: media/image28.png
+.. |image1521153997754466| image:: media/image28.png
    :width: 4.63542in
    :height: 1.9375in
-.. |POStates| image:: media/image29.png
+.. |image1521153996024849| image:: media/image29.png
    :width: 4.63542in
    :height: 1.94792in
-.. |ServiceSettings| image:: media/image30.png
+.. |image1521153997141759| image:: media/image30.png
    :width: 4.59375in
    :height: 1.89583in
-.. |Manuf| image:: media/image31.png
+.. |image1521153995751392| image:: media/image31.png
    :width: 4.67708in
    :height: 2.75in
-.. |PrOStates| image:: media/image32.png
+.. |image1521153996315875| image:: media/image32.png
    :width: 4.63542in
    :height: 1.73958in
-.. |Funds| image:: media/image33.png
+.. |image1521153994034030| image:: media/image33.png
    :width: 4.625in
    :height: 2.15625in
-.. |image074| image:: media/image34.png
+.. |image1521153998192592| image:: media/image34.png
    :width: 3.89583in
    :height: 1.67708in
-.. |image076| image:: media/image35.png
+.. |image1521153998220490| image:: media/image35.png
    :width: 3.94792in
    :height: 1.36458in
-.. |Payroll| image:: media/image36.png
+.. |image1521153996185544| image:: media/image36.png
    :width: 4.63542in
    :height: 2.27083in
-.. |image080.png| image:: media/image10.png
+.. |image1521153998256992| image:: media/image10.png
    :width: 3.66667in
    :height: 3.75in
-.. |WTK| image:: media/image37.png
+.. |image1521153997727675| image:: media/image37.png
    :width: 4.63542in
    :height: 2.5in
-.. |IndDK| image:: media/image38.png
+.. |image1521153995163977| image:: media/image38.png
    :width: 4.63542in
    :height: 3.76042in
-.. |Helix| image:: media/image39.png
+.. |image1521153994269502| image:: media/image39.png
    :width: 4.625in
    :height: 4.98958in
-.. |Helix2| image:: media/image40.png
+.. |image1521153994246824| image:: media/image40.png
    :width: 4.63542in
    :height: 5.07292in
-.. |image094.png| image:: media/image41.png
+.. |image1521153998320793| image:: media/image41.png
    :width: 3.13542in
    :height: 2.4375in
-.. |image096.png| image:: media/image42.png
+.. |image1521153998343897| image:: media/image42.png
    :width: 3.10417in
    :height: 1.26042in
-.. |image098.png| image:: media/image43.png
+.. |image1521153998373116| image:: media/image43.png
    :width: 3.9375in
    :height: 1.47917in
-.. |image100| image:: media/image44.png
+.. |image1521153998404609| image:: media/image44.png
    :width: 3.69792in
    :height: 2.82292in
-.. |CountList| image:: media/image45.png
+.. |image1521153993175676| image:: media/image45.png
    :width: 4.63542in
    :height: 2.15625in
-.. |ContPerson4| image:: media/image46.png
+.. |image1521153993102397| image:: media/image46.png
    :width: 4.63542in
    :height: 3.16667in
-.. |Events| image:: media/image47.png
+.. |image1521153993582692| image:: media/image47.png
    :width: 4.63542in
    :height: 1.5in
-.. |Documents| image:: media/image48.png
+.. |image1521153993434994| image:: media/image48.png
    :width: 4.61458in
    :height: 1.92708in
-.. |SendEmail0| image:: media/image49.png
+.. |image1521153997063387| image:: media/image49.png
    :width: 4.65625in
    :height: 4.39583in
-.. |image112.png| image:: media/image50.png
+.. |image1521153998432516| image:: media/image50.png
    :width: 3.9375in
    :height: 2.26042in
-.. |SendEmail3| image:: media/image51.png
+.. |image1521153997088535| image:: media/image51.png
    :width: 4.625in
    :height: 2.5625in
-.. |image116| image:: media/image52.png
+.. |image1521153998458675| image:: media/image52.png
    :width: 4.46875in
    :height: 2.90625in
-.. |EmplCal| image:: media/image53.png
+.. |image1521153993458581| image:: media/image53.png
    :width: 4.63542in
    :height: 2.01042in
-.. |image120.png| image:: media/image54.png
+.. |image1521153998482105| image:: media/image54.png
    :width: 3.9375in
    :height: 3.3125in
-.. |CPL| image:: media/image55.png
+.. |image1521153992636490| image:: media/image55.png
    :width: 4.625in
    :height: 3.22917in
-.. |CPLFilter| image:: media/image56.png
+.. |image1521153992603037| image:: media/image56.png
    :width: 4.625in
    :height: 3.21875in
-.. |1521139814713789| image:: media/image57.png
+.. |image1521153990863844| image:: media/image57.png
    :width: 4.11458in
    :height: 3.02083in
-.. |image128.png| image:: media/image58.png
+.. |image1521153998506419| image:: media/image58.png
    :width: 4.20833in
    :height: 3.27083in
-.. |image130.png| image:: media/image59.png
+.. |image1521153998533209| image:: media/image59.png
    :width: 3.9375in
    :height: 2.09375in
-.. |Image 22| image:: media/image60.png
+.. |image1521153994708720| image:: media/image60.png
    :width: 3.82292in
    :height: 4.04167in
-.. |image134.png| image:: media/image61.png
+.. |image1521153998559080| image:: media/image61.png
    :width: 3.9375in
    :height: 2.89583in
-.. |image136.png| image:: media/image62.png
+.. |image1521153998583846| image:: media/image62.png
    :width: 3.9375in
    :height: 2.52083in
-.. |GI10| image:: media/image63.png
+.. |image1521153994058378| image:: media/image63.png
    :width: 4.625in
    :height: 3.6875in
-.. |image140.png| image:: media/image64.png
+.. |image1521153998605820| image:: media/image64.png
    :width: 2.3125in
    :height: 2.22917in
-.. |Pricing| image:: media/image65.png
+.. |image1521153996418013| image:: media/image65.png
    :width: 4.67708in
    :height: 4.38542in
-.. |CO| image:: media/image66.png
+.. |image1521153992576630| image:: media/image66.png
    :width: 4.61458in
    :height: 3.02083in
-.. |1521139813831970| image:: media/image67.png
+.. |image1521153990787434| image:: media/image67.png
    :width: 4.63542in
    :height: 3.17708in
-.. |Image 24| image:: media/image68.png
+.. |image1521153994733975| image:: media/image68.png
    :width: 3.77083in
    :height: 3.375in
-.. |image150.png| image:: media/image69.png
+.. |image1521153998633033| image:: media/image69.png
    :width: 3.9375in
    :height: 1.3125in
-.. |1521148459740613| image:: media/image70.png
+.. |image1521153991220792| image:: media/image70.png
    :width: 4.41667in
    :height: 3.33333in
-.. |3| image:: media/image71.png
+.. |image1521153991356267| image:: media/image71.png
    :width: 4.35417in
    :height: 3.05208in
-.. |DocSetup| image:: media/image72.png
+.. |image1521153993409422| image:: media/image72.png
    :width: 3.77083in
    :height: 1.55208in
-.. |image158.png| image:: media/image73.png
+.. |image1521153998658620| image:: media/image73.png
    :width: 3.9375in
    :height: 1.33333in
-.. |image160.png| image:: media/image74.png
+.. |image1521153998685652| image:: media/image74.png
    :width: 3.9375in
    :height: 1.70833in
-.. |CC3| image:: media/image75.png
+.. |image1521153992351230| image:: media/image75.png
    :width: 4.63542in
    :height: 2.15625in
-.. |image164.png| image:: media/image76.png
+.. |image1521153998711361| image:: media/image76.png
    :width: 3.9375in
    :height: 2.375in
-.. |PI| image:: media/image77.png
+.. |image1521153995944377| image:: media/image77.png
    :width: 4.625in
    :height: 3.3125in
-.. |Inventory| image:: media/image78.png
+.. |image1521153995394295| image:: media/image78.png
    :width: 4.625in
    :height: 2.59375in
-.. |GI2| image:: media/image79.png
+.. |image1521153994105817| image:: media/image79.png
    :width: 4.63542in
    :height: 3.01042in
-.. |Invoice| image:: media/image80.png
+.. |image1521153995419410| image:: media/image80.png
    :width: 4.63542in
    :height: 3.28125in
-.. |GoodsReceipt| image:: media/image81.png
+.. |image1521153994198685| image:: media/image81.png
    :width: 4.625in
    :height: 3.17708in
-.. |AcceptCert2| image:: media/image82.png
+.. |image1521153991675061| image:: media/image82.png
    :width: 4.63542in
    :height: 3.28125in
-.. |AcceptCert| image:: media/image83.png
+.. |image1521153991698297| image:: media/image83.png
    :width: 4.63542in
    :height: 1.8125in
-.. |GI| image:: media/image84.png
+.. |image1521153994128972| image:: media/image84.png
    :width: 4.63542in
    :height: 4.6875in
-.. |AR| image:: media/image85.png
+.. |image1521153991599692| image:: media/image85.png
    :width: 4.63542in
    :height: 4.14583in
-.. |AgentReport2| image:: media/image86.png
+.. |image1521153991943311| image:: media/image86.png
    :width: 4.63542in
    :height: 3.84375in
-.. |AcceptanceForC| image:: media/image87.png
+.. |image1521153991724322| image:: media/image87.png
    :width: 4.63542in
    :height: 3.41667in
-.. |ReportToPrincipal| image:: media/image88.png
+.. |image1521153996855649| image:: media/image88.png
    :width: 4.625in
    :height: 2.92708in
-.. |4| image:: media/image89.png
+.. |image1521153991377197| image:: media/image89.png
    :width: 4.51042in
    :height: 2.85417in
-.. |IM| image:: media/image90.png
+.. |image1521153994425361| image:: media/image90.png
    :width: 4.625in
    :height: 3.21875in
-.. |GRRetail| image:: media/image91.png
+.. |image1521153994152388| image:: media/image91.png
    :width: 4.63542in
    :height: 3.79167in
-.. |image205.png| image:: media/image92.png
+.. |image1521153999000250| image:: media/image92.png
    :width: 3.90625in
    :height: 1.94792in
-.. |1521148460040858| image:: media/image93.png
+.. |image1521153991247757| image:: media/image93.png
    :width: 4.53125in
    :height: 2.45833in
-.. |image209.png| image:: media/image94.png
+.. |image1521153999024342| image:: media/image94.png
    :width: 3.9375in
    :height: 2.60417in
-.. |image211| image:: media/image95.png
+.. |image1521153999048725| image:: media/image95.png
    :width: 4.61458in
    :height: 2.59375in
-.. |1521148460328715| image:: media/image96.png
+.. |image1521153991274908| image:: media/image96.png
    :width: 4.30208in
    :height: 3.125in
-.. |RetailSales| image:: media/image97.png
+.. |image1521153996934493| image:: media/image97.png
    :width: 4.63542in
    :height: 3.02083in
-.. |CreditSlipAcc| image:: media/image98.png
+.. |image1521153993225753| image:: media/image98.png
    :width: 4.63542in
    :height: 3.16667in
-.. |image219.png| image:: media/image99.png
+.. |image1521153999071666| image:: media/image99.png
    :width: 3.9375in
    :height: 2.53125in
-.. |7| image:: media/image100.png
+.. |image1521153991497810| image:: media/image100.png
    :width: 4.47917in
    :height: 3.30208in
-.. |RetailRevaluation| image:: media/image101.png
+.. |image1521153996908472| image:: media/image101.png
    :width: 4.63542in
    :height: 3.29167in
-.. |image227.png| image:: media/image102.png
+.. |image1521153999097424| image:: media/image102.png
    :width: 3.59375in
    :height: 1.75in
-.. |image229.png| image:: media/image103.png
+.. |image1521153999120124| image:: media/image103.png
    :width: 3.59375in
    :height: 0.95833in
-.. |1521139816203457| image:: media/image104.png
+.. |image1521153990992417| image:: media/image104.png
    :width: 4.63542in
    :height: 4.36458in
-.. |Reports| image:: media/image105.png
+.. |image1521153996884743| image:: media/image105.png
    :width: 4.63542in
    :height: 4.52083in
-.. |image235.png| image:: media/image106.png
+.. |image1521153999144093| image:: media/image106.png
    :width: 3.90625in
    :height: 2.83333in
-.. |image237.png| image:: media/image107.png
+.. |image1521153999171179| image:: media/image107.png
    :width: 4.25in
    :height: 2.52083in
-.. |image239.png| image:: media/image108.png
+.. |image1521153999195658| image:: media/image108.png
    :width: 3.9375in
    :height: 2.86458in
-.. |image241.png| image:: media/image109.png
+.. |image1521153999219773| image:: media/image109.png
    :width: 3.9375in
    :height: 2.23958in
-.. |1| image:: media/image110.png
+.. |image1521153991304568| image:: media/image110.png
    :width: 4.5in
    :height: 2.44792in
-.. |2| image:: media/image111.png
+.. |image1521153991327653| image:: media/image111.png
    :width: 4.5in
    :height: 3.08333in
-.. |MutualSettlements| image:: media/image112.png
+.. |image1521153995797996| image:: media/image112.png
    :width: 4.625in
    :height: 2.73958in
-.. |image249.png| image:: media/image113.png
+.. |image1521153999247570| image:: media/image113.png
    :width: 3.9375in
    :height: 3.375in
-.. |CashInCashRegisters| image:: media/image114.png
+.. |image1521153992716220| image:: media/image114.png
    :width: 4.63542in
    :height: 2.40625in
-.. |ValAccInRetail| image:: media/image115.png
+.. |image1521153997650336| image:: media/image115.png
    :width: 4.63542in
    :height: 2.41667in
-.. |PandS| image:: media/image116.png
+.. |image1521153996160768| image:: media/image116.png
    :width: 4.63542in
    :height: 2.20833in
-.. |image259.png| image:: media/image117.png
+.. |image1521153999271902| image:: media/image117.png
    :width: 3.97917in
    :height: 2.42708in
-.. |PandSCard| image:: media/image118.png
+.. |image1521153996135234| image:: media/image118.png
    :width: 4.67708in
    :height: 3.10417in
-.. |Warehouses4| image:: media/image119.png
+.. |image1521153997779131| image:: media/image119.png
    :width: 4.63542in
    :height: 3.92708in
-.. |InvMan| image:: media/image120.png
+.. |image1521153995306393| image:: media/image120.png
    :width: 2.72917in
    :height: 2in
-.. |Service| image:: media/image121.png
+.. |image1521153997192403| image:: media/image121.png
    :width: 4.63542in
    :height: 3.67708in
-.. |Inst| image:: media/image122.png
+.. |image1521153995219167| image:: media/image122.png
    :width: 4.63542in
    :height: 3.66667in
-.. |Operation| image:: media/image123.png
+.. |image1521153995865740| image:: media/image123.png
    :width: 4.63542in
    :height: 2.5625in
-.. |ActivityKind| image:: media/image124.png
+.. |image1521153991779407| image:: media/image124.png
    :width: 4.63542in
    :height: 2.77083in
-.. |image275.png| image:: media/image125.png
+.. |image1521153999296681| image:: media/image125.png
    :width: 3.9375in
    :height: 1.875in
-.. |image277.png| image:: media/image126.png
+.. |image1521153999320901| image:: media/image126.png
    :width: 3.9375in
    :height: 1.25in
-.. |PO| image:: media/image127.png
+.. |image1521153996079112| image:: media/image127.png
    :width: 4.63542in
    :height: 3.42708in
-.. |POcard| image:: media/image128.png
+.. |image1521153996050015| image:: media/image128.png
    :width: 4.63542in
    :height: 4.125in
-.. |5| image:: media/image129.png
+.. |image1521153991401826| image:: media/image129.png
    :width: 4.55208in
    :height: 2.4375in
-.. |6| image:: media/image130.png
+.. |image1521153991473933| image:: media/image130.png
    :width: 4.55208in
    :height: 2.39583in
-.. |SupplierInvoice| image:: media/image131.png
+.. |image1521153997365381| image:: media/image131.png
    :width: 4.63542in
    :height: 4.54167in
-.. |Additionally| image:: media/image132.png
+.. |image1521153991891976| image:: media/image132.png
    :width: 4.67708in
    :height: 2.3125in
-.. |GR| image:: media/image133.png
+.. |image1521153994174842| image:: media/image133.png
    :width: 4.67708in
    :height: 3.76042in
-.. |GI11| image:: media/image134.png
+.. |image1521153994080099| image:: media/image134.png
    :width: 4.65625in
    :height: 3.71875in
-.. |ReceivedInvoice| image:: media/image135.png
+.. |image1521153996830180| image:: media/image135.png
    :width: 4.63542in
    :height: 3.82292in
-.. |Movement| image:: media/image136.png
+.. |image1521153995774855| image:: media/image136.png
    :width: 4.63542in
    :height: 3.85417in
-.. |AddExpenses| image:: media/image137.png
+.. |image1521153991865782| image:: media/image137.png
    :width: 4.63542in
    :height: 3.78125in
-.. |image305.png| image:: media/image138.png
+.. |image1521153999343250| image:: media/image138.png
    :width: 3.9375in
    :height: 2.84375in
-.. |image307| image:: media/image139.png
+.. |image1521153999366967| image:: media/image139.png
    :width: 4.63542in
    :height: 2.34375in
-.. |PhysicalInventory| image:: media/image140.png
+.. |image1521153996211389| image:: media/image140.png
    :width: 4.63542in
    :height: 3.78125in
-.. |InvCap| image:: media/image141.png
+.. |image1521153995277895| image:: media/image141.png
    :width: 4.625in
    :height: 3.15625in
-.. |InvWriteOff| image:: media/image142.png
+.. |image1521153995368688| image:: media/image142.png
    :width: 4.63542in
    :height: 3.16667in
-.. |ProcessorReport| image:: media/image143.png
+.. |image1521153996470975| image:: media/image143.png
    :width: 4.63542in
    :height: 3.59375in
-.. |Waste| image:: media/image144.png
+.. |image1521153997831582| image:: media/image144.png
    :width: 4.63542in
    :height: 2.16667in
-.. |Services| image:: media/image145.png
+.. |image1521153997166775| image:: media/image145.png
    :width: 4.63542in
    :height: 2.16667in
-.. |Retail| image:: media/image146.png
+.. |image1521153996957699| image:: media/image146.png
    :width: 4.66667in
    :height: 3.77083in
-.. |Prepayment| image:: media/image147.png
+.. |image1521153996394318| image:: media/image147.png
    :width: 4.625in
    :height: 1.52083in
-.. |PrepaymentSetoff| image:: media/image148.png
+.. |image1521153996369693| image:: media/image148.png
    :width: 4.63542in
    :height: 3.34375in
-.. |image331.png| image:: media/image149.png
+.. |image1521153999395768| image:: media/image149.png
    :width: 3.9375in
    :height: 1.96875in
-.. |image335.png| image:: media/image150.png
+.. |image1521153999424586| image:: media/image150.png
    :width: 3.9375in
    :height: 2.02083in
-.. |IDC| image:: media/image151.png
+.. |image1521153994376777| image:: media/image151.png
    :width: 4.63542in
    :height: 2.15625in
-.. |IDC2| image:: media/image152.png
+.. |image1521153994318091| image:: media/image152.png
    :width: 4.63542in
    :height: 2.15625in
-.. |IDC3| image:: media/image153.png
+.. |image1521153994345522| image:: media/image153.png
    :width: 4.63542in
    :height: 2.16667in
-.. |image343.png| image:: media/image154.png
+.. |image1521153999451719| image:: media/image154.png
    :width: 0.27083in
    :height: 0.125in
-.. |image347.png| image:: media/image155.png
+.. |image1521153999482254| image:: media/image155.png
    :width: 2.39583in
    :height: 2.39583in
-.. |image349| image:: media/image156.png
+.. |image1521153999508105| image:: media/image156.png
    :width: 4.58333in
    :height: 5.52083in
-.. |image351.png| image:: media/image157.png
+.. |image1521153999537960| image:: media/image157.png
    :width: 3.9375in
    :height: 2.84375in
-.. |IMS| image:: media/image158.png
+.. |image1521153994401706| image:: media/image158.png
    :width: 4.63542in
    :height: 2.71875in
-.. |OrderPlacement| image:: media/image159.png
+.. |image1521153995918406| image:: media/image159.png
    :width: 4.63542in
    :height: 2.5in
-.. |InvTurnover| image:: media/image160.png
+.. |image1521153995336788| image:: media/image160.png
    :width: 4.63542in
    :height: 3.3125in
-.. |POReport| image:: media/image161.png
+.. |image1521153995999190| image:: media/image161.png
    :width: 4.63542in
    :height: 3.26042in
-.. |image363.png| image:: media/image162.png
+.. |image1521153999568736| image:: media/image162.png
    :width: 3.9375in
    :height: 2.13542in
-.. |image365.png| image:: media/image163.png
+.. |image1521153999619982| image:: media/image163.png
    :width: 3.9375in
    :height: 2.13542in
-.. |image367.png| image:: media/image164.png
+.. |image1521153999650401| image:: media/image164.png
    :width: 3.9375in
    :height: 1.97917in
-.. |Purchases1| image:: media/image165.png
+.. |image1521153996700052| image:: media/image165.png
    :width: 4.63542in
    :height: 3.29167in
-.. |SettlSup| image:: media/image166.png
+.. |image1521153997240449| image:: media/image166.png
    :width: 4.63542in
    :height: 2.41667in
-.. |image373| image:: media/image167.png
+.. |image1521153999687314| image:: media/image167.png
    :width: 4.40625in
    :height: 2.86458in
-.. |8| image:: media/image168.png
+.. |image1521153991521726| image:: media/image168.png
    :width: 4.4375in
    :height: 3.08333in
-.. |InvByCCD| image:: media/image169.png
+.. |image1521153995247214| image:: media/image169.png
    :width: 4.625in
    :height: 2.36458in
-.. |9| image:: media/image170.png
+.. |image1521153991548254| image:: media/image170.png
    :width: 4.53125in
    :height: 1.92708in
-.. |ReceivedInventory| image:: media/image171.png
+.. |image1521153996802677| image:: media/image171.png
    :width: 4.63542in
    :height: 2.0625in
-.. |10| image:: media/image172.png
+.. |image1521153990642854| image:: media/image172.png
    :width: 4.46875in
    :height: 2.90625in
-.. |TranferredInv| image:: media/image173.png
+.. |image1521153997624896| image:: media/image173.png
    :width: 4.63542in
    :height: 2.375in
-.. |image387.png| image:: media/image174.png
+.. |image1521153999721803| image:: media/image174.png
    :width: 4.21875in
    :height: 2.39583in
-.. |11| image:: media/image175.png
+.. |image1521153990711559| image:: media/image175.png
    :width: 4.39583in
    :height: 2.76042in
-.. |image391.png| image:: media/image176.png
+.. |image1521153999746388| image:: media/image176.png
    :width: 4.25in
    :height: 2.16667in
-.. |C:DesktopImage 1.png| image:: media/image177.png
+.. |image1521153992248347| image:: media/image177.png
    :width: 4.60417in
    :height: 2.66667in
-.. |image178| image:: media/image178.png
+.. |image1521153998736716| image:: media/image178.png
    :width: 4.65625in
    :height: 2.67708in
-.. |image179| image:: media/image179.png
+.. |image1521153998763782| image:: media/image179.png
    :width: 4.65625in
    :height: 0.89583in
-.. |image180| image:: media/image180.png
+.. |image1521153998789657| image:: media/image180.png
    :width: 4.73958in
    :height: 1.89583in
-.. |https://its.1c.ru/db/content/updinfo/src/smallbusiness/1.6.6/40.png?_=1496991668| image:: media/image181.png
+.. |image1521153990761449| image:: media/image181.png
    :width: 0.41667in
    :height: 0.33333in
-.. |image182| image:: media/image182.png
+.. |image1521153998814440| image:: media/image182.png
    :width: 0.875in
    :height: 0.30208in
-.. |image183| image:: media/image183.png
+.. |image1521153998843359| image:: media/image183.png
    :width: 0.96875in
    :height: 0.29167in
-.. |image184| image:: media/image184.png
+.. |image1521153998868936| image:: media/image184.png
    :width: 1.28125in
    :height: 0.28125in
-.. |image185| image:: media/image185.png
+.. |image1521153998898333| image:: media/image185.png
    :width: 1.05208in
    :height: 0.28125in
-.. |image186| image:: media/image186.png
+.. |image1521153998920003| image:: media/image186.png
    :width: 4.53125in
    :height: 2.88542in
-.. |image187| image:: media/image187.png
+.. |image1521153998947179| image:: media/image187.png
    :width: 4.41667in
    :height: 1.65625in
-.. |image188| image:: media/image188.png
+.. |image1521153998973849| image:: media/image188.png
    :width: 4.38542in
    :height: 2.27083in
-.. |JOList| image:: media/image189.png
+.. |image1521153995469389| image:: media/image189.png
    :width: 4.625in
    :height: 2.55208in
-.. |JobOrder| image:: media/image190.png
+.. |image1521153995548272| image:: media/image190.png
    :width: 4.63542in
    :height: 3.29167in
-.. |Team1| image:: media/image191.png
+.. |image1521153997442337| image:: media/image191.png
    :width: 4.63542in
    :height: 3.20833in
-.. |Scheduler| image:: media/image192.png
+.. |image1521153997010401| image:: media/image192.png
    :width: 4.625in
    :height: 1.75in
-.. |JOScheduler| image:: media/image193.png
+.. |image1521153995520119| image:: media/image193.png
    :width: 4.63542in
    :height: 3.66667in
-.. |JOPaymCal| image:: media/image194.png
+.. |image1521153995496055| image:: media/image194.png
    :width: 4.625in
    :height: 3.01042in
-.. |ServiceReports| image:: media/image195.png
+.. |image1521153997112419| image:: media/image195.png
    :width: 4.63542in
    :height: 3.90625in
-.. |12| image:: media/image196.png
+.. |image1521153990736930| image:: media/image196.png
    :width: 4.53125in
    :height: 2.46875in
-.. |image417.png| image:: media/image197.png
+.. |image1521153999850499| image:: media/image197.png
    :width: 3.9375in
    :height: 2.80208in
-.. |image419.png| image:: media/image198.png
+.. |image1521153999906156| image:: media/image198.png
    :width: 3.9375in
    :height: 2.875in
-.. |ProductionDocuments| image:: media/image199.png
+.. |image1521153996495607| image:: media/image199.png
    :width: 4.63542in
    :height: 3.60417in
-.. |image423.png| image:: media/image200.png
+.. |image1521153999935030| image:: media/image200.png
    :width: 3.9375in
    :height: 1.63542in
-.. |image425.png| image:: media/image201.png
+.. |image1521153999964821| image:: media/image201.png
    :width: 3.92708in
    :height: 1.71875in
-.. |BOM| image:: media/image202.png
+.. |image1521153992018636| image:: media/image202.png
    :width: 4.625in
    :height: 1.80208in
-.. |PrO| image:: media/image203.png
+.. |image1521153996342099| image:: media/image203.png
    :width: 4.63542in
    :height: 2.92708in
-.. |image431.png| image:: media/image204.png
+.. |image1521153999990228| image:: media/image204.png
    :width: 0.14583in
    :height: 0.125in
-.. |POLoading| image:: media/image205.png
+.. |image1521153995973930| image:: media/image205.png
    :width: 4.63542in
    :height: 2.625in
-.. |1521139821080274| image:: media/image206.png
+.. |image1521153991043879| image:: media/image206.png
    :width: 4.63542in
    :height: 2.8125in
-.. |1521139821376955| image:: media/image207.png
+.. |image1521153991071634| image:: media/image207.png
    :width: 4.63542in
    :height: 3.07292in
-.. |1521139815340252| image:: media/image208.png
+.. |image1521153990916516| image:: media/image208.png
    :width: 4.59375in
    :height: 3.15625in
-.. |1521139815635011| image:: media/image209.png
+.. |image1521153990943777| image:: media/image209.png
    :width: 4.63542in
    :height: 3.19792in
-.. |WorkOrder| image:: media/image210.png
+.. |image1521153997855922| image:: media/image210.png
    :width: 4.63542in
    :height: 3.6875in
-.. |WOInternal| image:: media/image211.png
+.. |image1521153997674069| image:: media/image211.png
    :width: 4.63542in
    :height: 3.66667in
-.. |TK| image:: media/image212.png
+.. |image1521153997393917| image:: media/image212.png
    :width: 4.63542in
    :height: 3.34375in
-.. |ManDoc| image:: media/image213.png
+.. |image1521153995679561| image:: media/image213.png
    :width: 4.625in
    :height: 2.73958in
-.. |PrOMan| image:: media/image214.png
+.. |image1521153996289076| image:: media/image214.png
    :width: 4.63542in
    :height: 2.73958in
-.. |Man2| image:: media/image215.png
+.. |image1521153995650657| image:: media/image215.png
    :width: 4.625in
    :height: 2.70833in
-.. |CA| image:: media/image216.png
+.. |image1521153992323650| image:: media/image216.png
    :width: 4.63542in
    :height: 2.73958in
-.. |CA2| image:: media/image217.png
+.. |image1521153992273042| image:: media/image217.png
    :width: 4.63542in
    :height: 2.94792in
-.. |CA3| image:: media/image218.png
+.. |image1521153992298578| image:: media/image218.png
    :width: 4.63542in
    :height: 2.92708in
-.. |ProsReport| image:: media/image219.png
+.. |image1521153996675394| image:: media/image219.png
    :width: 4.63542in
    :height: 2.92708in
-.. |ProsReport2| image:: media/image220.png
+.. |image1521153996626922| image:: media/image220.png
    :width: 4.63542in
    :height: 2.90625in
-.. |ProsReport3| image:: media/image221.png
+.. |image1521153996650222| image:: media/image221.png
    :width: 4.63542in
    :height: 2.9375in
-.. |ManReports| image:: media/image222.png
+.. |image1521153995703773| image:: media/image222.png
    :width: 4.625in
    :height: 3.59375in
-.. |image477| image:: media/image223.png
+.. |image1521154000017274| image:: media/image223.png
    :width: 4.42708in
    :height: 3.11458in
-.. |image479.png| image:: media/image224.png
+.. |image1521154000053397| image:: media/image224.png
    :width: 4.33333in
    :height: 3.33333in
-.. |StBOM| image:: media/image225.png
+.. |image1521153997287572| image:: media/image225.png
    :width: 4.625in
    :height: 2.10417in
-.. |image483.png| image:: media/image226.png
+.. |image1521154000089602| image:: media/image226.png
    :width: 4.32292in
    :height: 2.96875in
-.. |JobSheets| image:: media/image227.png
+.. |image1521153995573505| image:: media/image227.png
    :width: 4.63542in
    :height: 2.30208in
-.. |image487.png| image:: media/image228.png
+.. |image1521154000126316| image:: media/image228.png
    :width: 4.33333in
    :height: 2.95833in
-.. |image489| image:: media/image229.png
+.. |image1521154000152773| image:: media/image229.png
    :width: 4.54167in
    :height: 1.59375in
-.. |image491.png| image:: media/image230.png
+.. |image1521154000180893| image:: media/image230.png
    :width: 4.22917in
    :height: 2.85417in
-.. |image495.png| image:: media/image231.png
+.. |image1521154000206587| image:: media/image231.png
    :width: 4.33333in
    :height: 1.19792in
-.. |image497| image:: media/image232.png
+.. |image1521154000232633| image:: media/image232.png
    :width: 4.4375in
    :height: 3.03125in
-.. |image499.png| image:: media/image233.png
+.. |image1521154000257960| image:: media/image233.png
    :width: 4.25in
    :height: 3.21875in
-.. |CustDebtSelectForm| image:: media/image234.png
+.. |image1521153993323792| image:: media/image234.png
    :width: 4.63542in
    :height: 2.75in
-.. |CreditSlip| image:: media/image235.png
+.. |image1521153993299686| image:: media/image235.png
    :width: 4.63542in
    :height: 3.0625in
-.. |CreditSlipOther| image:: media/image236.png
+.. |image1521153993274960| image:: media/image236.png
    :width: 4.63542in
    :height: 3.0625in
-.. |CashPaymentSupplier| image:: media/image237.png
+.. |image1521153992796528| image:: media/image237.png
    :width: 4.625in
    :height: 3.08333in
-.. |SupDebtSelForm| image:: media/image238.png
+.. |image1521153997338483| image:: media/image238.png
    :width: 4.63542in
    :height: 2.75in
-.. |image511.png| image:: media/image239.png
+.. |image1521154000289065| image:: media/image239.png
    :width: 4.33333in
    :height: 2.90625in
-.. |CashPaymentSalary| image:: media/image240.png
+.. |image1521153992769880| image:: media/image240.png
    :width: 4.625in
    :height: 3.07292in
-.. |CashPaymentOther| image:: media/image241.png
+.. |image1521153992740679| image:: media/image241.png
    :width: 4.625in
    :height: 3.16667in
-.. |CashPaymentTaxes| image:: media/image242.png
+.. |image1521153992821991| image:: media/image242.png
    :width: 4.63542in
    :height: 3.20833in
-.. |image519.png| image:: media/image243.png
+.. |image1521154000314759| image:: media/image243.png
    :width: 4.33333in
    :height: 2.90625in
-.. |FundsMov| image:: media/image244.png
+.. |image1521153993926902| image:: media/image244.png
    :width: 4.63542in
    :height: 2.28125in
-.. |1521139816507009| image:: media/image245.png
+.. |image1521153991019950| image:: media/image245.png
    :width: 4.63542in
    :height: 3.02083in
-.. |ExpFrAc| image:: media/image246.png
+.. |image1521153993614566| image:: media/image246.png
    :width: 4.63542in
    :height: 3.375in
-.. |ExpReport| image:: media/image247.png
+.. |image1521153993700596| image:: media/image247.png
    :width: 4.63542in
    :height: 3.01042in
-.. |ExpReport2| image:: media/image248.png
+.. |image1521153993642213| image:: media/image248.png
    :width: 4.63542in
    :height: 3.01042in
-.. |ExpReport3| image:: media/image249.png
+.. |image1521153993670627| image:: media/image249.png
    :width: 4.63542in
    :height: 3.03125in
-.. |image537.png| image:: media/image250.png
+.. |image1521154000337741| image:: media/image250.png
    :width: 4.33333in
    :height: 2.54167in
-.. |ExpReq| image:: media/image251.png
+.. |image1521153993733291| image:: media/image251.png
    :width: 4.625in
    :height: 2.33333in
-.. |FundsReceipt| image:: media/image252.png
+.. |image1521153993951590| image:: media/image252.png
    :width: 4.63542in
    :height: 1.95833in
-.. |FundsMov-t| image:: media/image253.png
+.. |image1521153993904054| image:: media/image253.png
    :width: 4.63542in
    :height: 2in
-.. |image545.png| image:: media/image254.png
+.. |image1521154000363421| image:: media/image254.png
    :width: 4.33333in
    :height: 2.38542in
-.. |image547.png| image:: media/image255.png
+.. |image1521154000387521| image:: media/image255.png
    :width: 3.95833in
    :height: 3.76042in
-.. |image549.png| image:: media/image256.png
+.. |image1521154000411889| image:: media/image256.png
    :width: 4.33333in
    :height: 3.41667in
-.. |image551.png| image:: media/image257.png
+.. |image1521154000439791| image:: media/image257.png
    :width: 4.33333in
    :height: 2.38542in
-.. |image553.png| image:: media/image258.png
+.. |image1521154000465687| image:: media/image258.png
    :width: 4.33333in
    :height: 2.38542in
-.. |SettlWithAdvHolder| image:: media/image259.png
+.. |image1521153997264050| image:: media/image259.png
    :width: 4.63542in
    :height: 2.0625in
-.. |image557| image:: media/image260.png
+.. |image1521154000493399| image:: media/image260.png
    :width: 4.42708in
    :height: 2.29167in
-.. |image559.png| image:: media/image261.png
+.. |image1521154000529175| image:: media/image261.png
    :width: 0.13542in
    :height: 0.11458in
-.. |image561| image:: media/image262.png
+.. |image1521154000554072| image:: media/image262.png
    :width: 2.92708in
    :height: 3.51042in
-.. |StaffList| image:: media/image263.png
+.. |image1521153997311029| image:: media/image263.png
    :width: 4.63542in
    :height: 3.47917in
-.. |image565| image:: media/image264.png
+.. |image1521154000577047| image:: media/image264.png
    :width: 4.29167in
    :height: 2.78125in
-.. |image567.png| image:: media/image265.png
+.. |image1521154000602258| image:: media/image265.png
    :width: 4.33333in
    :height: 2.55208in
-.. |600| image:: media/image266.png
+.. |image1521153991448385| image:: media/image266.png
    :width: 4.41667in
    :height: 3.16667in
-.. |EmplOccupChange| image:: media/image267.png
+.. |image1521153993533522| image:: media/image267.png
    :width: 4.63542in
    :height: 2.77083in
-.. |EmplOccupChange2| image:: media/image268.png
+.. |image1521153993508177| image:: media/image268.png
    :width: 4.63542in
    :height: 2.80208in
-.. |6001| image:: media/image269.png
+.. |image1521153991425114| image:: media/image269.png
    :width: 4.51042in
    :height: 3.21875in
-.. |kartinka1| image:: media/image270.png
+.. |image1521154002103400| image:: media/image270.png
    :width: 4.625in
    :height: 4.0625in
-.. |Timesheet| image:: media/image271.png
+.. |image1521153997600524| image:: media/image271.png
    :width: 4.63542in
    :height: 3.02083in
-.. |image581.png| image:: media/image272.png
+.. |image1521154000623452| image:: media/image272.png
    :width: 4.33333in
    :height: 2.70833in
-.. |CalculationParameter| image:: media/image273.png
+.. |image1521153992661603| image:: media/image273.png
    :width: 4.63542in
    :height: 2.85417in
-.. |image585| image:: media/image274.png
+.. |image1521154000647991| image:: media/image274.png
    :width: 4.4375in
    :height: 2.0625in
-.. |image587| image:: media/image275.png
+.. |image1521154000670043| image:: media/image275.png
    :width: 4.34375in
    :height: 2.02083in
-.. |image589| image:: media/image276.png
+.. |image1521154000693930| image:: media/image276.png
    :width: 4.63542in
    :height: 2.15625in
-.. |WS| image:: media/image277.png
+.. |image1521153997700116| image:: media/image277.png
    :width: 4.625in
    :height: 3.94792in
-.. |image593.png| image:: media/image278.png
+.. |image1521154000718028| image:: media/image278.png
    :width: 4.33333in
    :height: 2.32292in
-.. |PR| image:: media/image279.png
+.. |image1521153996106484| image:: media/image279.png
    :width: 4.63542in
    :height: 3.39583in
-.. |EmplList| image:: media/image280.png
+.. |image1521153993485805| image:: media/image280.png
    :width: 4.63542in
    :height: 2.38542in
-.. |image599| image:: media/image281.png
+.. |image1521154000742856| image:: media/image281.png
    :width: 4.44792in
    :height: 3.64583in
-.. |image601| image:: media/image282.png
+.. |image1521154000766125| image:: media/image282.png
    :width: 4.46875in
    :height: 3.67708in
-.. |HoursWorkedByDays| image:: media/image283.png
+.. |image1521153994294939| image:: media/image283.png
    :width: 4.63542in
    :height: 3.3125in
-.. |image605| image:: media/image284.png
+.. |image1521154000792858| image:: media/image284.png
    :width: 4.63542in
    :height: 2.875in
-.. |image607| image:: media/image285.png
+.. |image1521154000817466| image:: media/image285.png
    :width: 3.30208in
    :height: 2in
-.. |Oper| image:: media/image286.png
+.. |image1521153995892210| image:: media/image286.png
    :width: 4.63542in
    :height: 3.625in
-.. |Chart| image:: media/image287.png
+.. |image1521153992881187| image:: media/image287.png
    :width: 4.63542in
    :height: 3.14583in
-.. |MSR| image:: media/image288.png
+.. |image1521153995600044| image:: media/image288.png
    :width: 4.59375in
    :height: 3.33333in
-.. |DA| image:: media/image289.png
+.. |image1521153993352736| image:: media/image289.png
    :width: 4.59375in
    :height: 3.3125in
-.. |image617.png| image:: media/image290.png
+.. |image1521154000840023| image:: media/image290.png
    :width: 4.33333in
    :height: 2.5625in
-.. |image619.png| image:: media/image291.png
+.. |image1521154000864335| image:: media/image291.png
    :width: 4.33333in
    :height: 2.5625in
-.. |image621.png| image:: media/image292.png
+.. |image1521154000892579| image:: media/image292.png
    :width: 4.25in
    :height: 2.20833in
-.. |image623.png| image:: media/image293.png
+.. |image1521154000922465| image:: media/image293.png
    :width: 4.21875in
    :height: 3.08333in
-.. |AccAn| image:: media/image294.png
+.. |image1521153991651839| image:: media/image294.png
    :width: 4.625in
    :height: 2.92708in
-.. |Property| image:: media/image295.png
+.. |image1521153996599653| image:: media/image295.png
    :width: 4.63542in
    :height: 2.09375in
-.. |PropertyMenu| image:: media/image296.png
+.. |image1521153996574529| image:: media/image296.png
    :width: 4.63542in
    :height: 2.08333in
-.. |1521139815909707| image:: media/image297.png
+.. |image1521153990967966| image:: media/image297.png
    :width: 4.20833in
    :height: 2.98958in
-.. |image633.png| image:: media/image298.png
+.. |image1521154000947397| image:: media/image298.png
    :width: 3.85417in
    :height: 2.51042in
-.. |Image 8| image:: media/image299.png
+.. |image1521153994971019| image:: media/image299.png
    :width: 4.63542in
    :height: 3.17708in
-.. |Image 6| image:: media/image300.png
+.. |image1521153994922717| image:: media/image300.png
    :width: 4.625in
    :height: 2.79167in
-.. |PropDeprec| image:: media/image301.png
+.. |image1521153996547666| image:: media/image301.png
    :width: 4.625in
    :height: 1.38542in
-.. |1521139821986881| image:: media/image302.png
+.. |image1521153991123230| image:: media/image302.png
    :width: 4.67708in
    :height: 2.86458in
-.. |Image8| image:: media/image303.png
+.. |image1521153995080831| image:: media/image303.png
    :width: 4.63542in
    :height: 2.79167in
-.. |Image9| image:: media/image304.png
+.. |image1521153995108744| image:: media/image304.png
    :width: 4.625in
    :height: 2.80208in
-.. |Budget1| image:: media/image305.png
+.. |image1521153992069303| image:: media/image305.png
    :width: 4.63542in
    :height: 3.44792in
-.. |Budget2| image:: media/image306.png
+.. |image1521153992092577| image:: media/image306.png
    :width: 4.63542in
    :height: 3.42708in
-.. |Budget5| image:: media/image307.png
+.. |image1521153992171503| image:: media/image307.png
    :width: 4.63542in
    :height: 3.3125in
-.. |Budget3| image:: media/image308.png
+.. |image1521153992118269| image:: media/image308.png
    :width: 4.63542in
    :height: 3.42708in
-.. |Budget4| image:: media/image309.png
+.. |image1521153992144107| image:: media/image309.png
    :width: 4.63542in
    :height: 3.40625in
-.. |1521139814125656| image:: media/image310.png
+.. |image1521153990810418| image:: media/image310.png
    :width: 4.63542in
    :height: 3.01042in
-.. |image661| image:: media/image311.png
+.. |image1521154000973273| image:: media/image311.png
    :width: 4.44792in
    :height: 2.95833in
-.. |image663.png| image:: media/image312.png
+.. |image1521154000999923| image:: media/image312.png
    :width: 4.04167in
    :height: 2.60417in
-.. |image665| image:: media/image313.png
+.. |image1521154001025963| image:: media/image313.png
    :width: 4.15625in
    :height: 2.91667in
-.. |Image11| image:: media/image314.png
+.. |image1521153994999015| image:: media/image314.png
    :width: 4.63542in
    :height: 2.98958in
-.. |image669.png| image:: media/image315.png
+.. |image1521154001052561| image:: media/image315.png
    :width: 4.29167in
    :height: 3.25in
-.. |Image12| image:: media/image316.png
+.. |image1521153995025849| image:: media/image316.png
    :width: 4.63542in
    :height: 3.29167in
-.. |image673.png| image:: media/image317.png
+.. |image1521154001076874| image:: media/image317.png
    :width: 4.33333in
    :height: 3.86458in
-.. |FundsWidget| image:: media/image318.png
+.. |image1521153994010887| image:: media/image318.png
    :width: 4.67708in
    :height: 3.66667in
-.. |Receivable| image:: media/image319.png
+.. |image1521153996778032| image:: media/image319.png
    :width: 4.65625in
    :height: 3.67708in
-.. |CompDebt| image:: media/image320.png
+.. |image1521153993027966| image:: media/image320.png
    :width: 4.66667in
    :height: 3.64583in
-.. |image681.png| image:: media/image321.png
+.. |image1521154001101628| image:: media/image321.png
    :width: 4.33333in
    :height: 3.21875in
-.. |Image13| image:: media/image322.png
+.. |image1521153995055905| image:: media/image322.png
    :width: 4.63542in
    :height: 2.98958in
-.. |image685.png| image:: media/image323.png
+.. |image1521154001127771| image:: media/image323.png
    :width: 3.9375in
    :height: 3.21875in
-.. |1521139824501474| image:: media/image324.png
+.. |image1521153991148112| image:: media/image324.png
    :width: 4.63542in
    :height: 2.90625in
-.. |GrossProfit| image:: media/image325.png
+.. |image1521153994220831| image:: media/image325.png
    :width: 4.63542in
    :height: 3.47917in
-.. |1521139824794133| image:: media/image326.png
+.. |image1521153991172040| image:: media/image326.png
    :width: 4.625in
    :height: 3.15625in
-.. |Image 4| image:: media/image327.png
+.. |image1521153994867896| image:: media/image327.png
    :width: 4.625in
    :height: 3.25in
-.. |image695.png| image:: media/image328.png
+.. |image1521154001156599| image:: media/image328.png
    :width: 4.33333in
    :height: 3.33333in
-.. |1521139821698417| image:: media/image329.png
+.. |image1521153991097938| image:: media/image329.png
    :width: 4.63542in
    :height: 3.26042in
-.. |image699.png| image:: media/image330.png
+.. |image1521154001183743| image:: media/image330.png
    :width: 4.33333in
    :height: 2.11458in
-.. |image701.png| image:: media/image331.png
+.. |image1521154001205276| image:: media/image331.png
    :width: 4.33333in
    :height: 3.28125in
-.. |image703.png| image:: media/image328.png
+.. |image1521154001231412| image:: media/image328.png
    :width: 3.9375in
    :height: 3.58333in
-.. |image705.png| image:: media/image332.png
+.. |image1521154001256202| image:: media/image332.png
    :width: 4.30208in
    :height: 3.38542in
-.. |1111111111111| image:: media/image333.png
+.. |image1521153990663902| image:: media/image333.png
    :width: 4.67708in
    :height: 3.3125in
-.. |CashFlowBudget| image:: media/image334.png
+.. |image1521153992692369| image:: media/image334.png
    :width: 4.63542in
    :height: 2.25in
-.. |Image 7| image:: media/image335.png
+.. |image1521153994945394| image:: media/image335.png
    :width: 4.63542in
    :height: 3.17708in
-.. |Image 10| image:: media/image336.png
+.. |image1521153994450947| image:: media/image336.png
    :width: 4.63542in
    :height: 3.17708in
-.. |image719.png| image:: media/image337.png
+.. |image1521154001283908| image:: media/image337.png
    :width: 4.25in
    :height: 3.05208in
-.. |EnableSection.png| image:: media/image338.png
+.. |image1521153993558513| image:: media/image338.png
    :width: 4.59375in
    :height: 0.95833in
-.. |PrForms.png| image:: media/image339.png
+.. |image1521153996263204| image:: media/image339.png
    :width: 4.5625in
    :height: 1.88542in
-.. |ADR2.png| image:: media/image340.png
+.. |image1521153991572091| image:: media/image340.png
    :width: 4.25in
    :height: 1.79167in
-.. |AdDataPr.png| image:: media/image341.png
+.. |image1521153991804484| image:: media/image341.png
    :width: 4.58333in
    :height: 2.51042in
-.. |CHA.png| image:: media/image342.png
+.. |image1521153992388089| image:: media/image342.png
    :width: 2.90625in
    :height: 1.26042in
-.. |CHA2.png| image:: media/image343.png
+.. |image1521153992422971| image:: media/image343.png
    :width: 3.90625in
    :height: 3.10417in
-.. |ImpFromFiel.png| image:: media/image344.png
+.. |image1521153995137380| image:: media/image344.png
    :width: 4.5in
    :height: 2.73958in
-.. |CHA3.png| image:: media/image345.png
+.. |image1521153992456882| image:: media/image345.png
    :width: 4.29167in
    :height: 2.36458in
-.. |NewAccount.png| image:: media/image346.png
+.. |image1521153995825318| image:: media/image346.png
    :width: 1.95833in
    :height: 1.05208in
-.. |AccountNew.png| image:: media/image347.png
+.. |image1521153991750264| image:: media/image347.png
    :width: 3.60417in
    :height: 2.6875in
-.. |Count.png| image:: media/image348.png
+.. |image1521153993151998| image:: media/image348.png
    :width: 4.39583in
    :height: 2.98958in
-.. |FCG.png| image:: media/image349.png
+.. |image1521153993762232| image:: media/image349.png
    :width: 3.34375in
    :height: 1.51042in
-.. |Button.png| image:: media/image350.png
+.. |image1521153992196054| image:: media/image350.png
    :width: 0.27083in
    :height: 0.25in
-.. |Acc.png| image:: media/image351.png
+.. |image1521153991625847| image:: media/image351.png
    :width: 4.54167in
    :height: 3.375in
-.. |PrAndServ.png| image:: media/image352.png
+.. |image1521153996237857| image:: media/image352.png
    :width: 4.52083in
    :height: 2.95833in
-.. |FPS.png| image:: media/image353.png
+.. |image1521153993786759| image:: media/image353.png
    :width: 3.3125in
    :height: 1.04167in
-.. |BK.png| image:: media/image354.png
+.. |image1521153991967271| image:: media/image354.png
    :width: 3.80208in
    :height: 2.59375in
-.. |Template1.png| image:: media/image355.png
+.. |image1521153997467310| image:: media/image355.png
    :width: 4.5in
    :height: 3.60417in
-.. |Filter.png| image:: media/image356.png
+.. |image1521153993879648| image:: media/image356.png
    :width: 4.39583in
    :height: 1.65625in
-.. |Template2.png| image:: media/image357.png
+.. |image1521153997494832| image:: media/image357.png
    :width: 4.4375in
    :height: 3.54167in
-.. |Add.png| image:: media/image358.png
+.. |image1521153991835086| image:: media/image358.png
    :width: 0.27083in
    :height: 0.26042in
-.. |TableChoosing.png| image:: media/image359.png
+.. |image1521153997416090| image:: media/image359.png
    :width: 2.1875in
    :height: 2.80208in
-.. |Template3.png| image:: media/image360.png
+.. |image1521153997518461| image:: media/image360.png
    :width: 2.38542in
    :height: 1.4375in
-.. |Button1.png| image:: media/image361.png
+.. |image1521153992220983| image:: media/image361.png
    :width: 0.22917in
    :height: 0.26042in
-.. |Template4.png| image:: media/image362.png
+.. |image1521153997544077| image:: media/image362.png
    :width: 2.66667in
    :height: 2.44792in
-.. |Template5.png| image:: media/image363.png
+.. |image1521153997571061| image:: media/image363.png
    :width: 4.41667in
    :height: 3.79167in
-.. |Settings.png| image:: media/image364.png
+.. |image1521153997216706| image:: media/image364.png
    :width: 3.54167in
    :height: 0.94792in
-.. |DK.png| image:: media/image365.png
+.. |image1521153993378510| image:: media/image365.png
    :width: 0.27083in
    :height: 0.25in
-.. |BKOperation.png| image:: media/image366.png
+.. |image1521153991994133| image:: media/image366.png
    :width: 4.44792in
    :height: 2.66667in
-.. |Image 11| image:: media/image367.png
+.. |image1521153994477096| image:: media/image367.png
    :width: 4.63542in
    :height: 3.26042in
-.. |Image 12| image:: media/image368.png
+.. |image1521153994503634| image:: media/image368.png
    :width: 4.27083in
    :height: 2.94792in
-.. |SearchAndInstall| image:: media/image369.png
+.. |image1521153997037542| image:: media/image369.png
    :width: 4.63542in
    :height: 1.36458in
-.. |Image 14| image:: media/image370.png
+.. |image1521153994530742| image:: media/image370.png
    :width: 4.5in
    :height: 2.47917in
-.. |ClDate| image:: media/image371.png
+.. |image1521153993004798| image:: media/image371.png
    :width: 4.29167in
    :height: 1.6875in
-.. |ClDateAll| image:: media/image372.png
+.. |image1521153992903020| image:: media/image372.png
    :width: 4.29167in
    :height: 1.80208in
-.. |ClDateYear| image:: media/image373.png
+.. |image1521153992979430| image:: media/image373.png
    :width: 4.29167in
    :height: 2.4375in
-.. |ClDateByUsers| image:: media/image374.png
+.. |image1521153992931923| image:: media/image374.png
    :width: 4.34375in
    :height: 3.86458in
-.. |ClDateCommon| image:: media/image375.png
+.. |image1521153992954994| image:: media/image375.png
    :width: 4.34375in
    :height: 3.6875in
-.. |image739.png| image:: media/image376.png
+.. |image1521154001309418| image:: media/image376.png
    :width: 3.46875in
    :height: 2.47917in
-.. |Image 15| image:: media/image377.png
+.. |image1521153994555722| image:: media/image377.png
    :width: 4.63542in
    :height: 3.23958in
-.. |image743| image:: media/image378.png
+.. |image1521154001333511| image:: media/image378.png
    :width: 4.3125in
    :height: 3.09375in
-.. |image745| image:: media/image379.png
+.. |image1521154001359044| image:: media/image379.png
    :width: 4.52083in
    :height: 2.94792in
-.. |image747.png| image:: media/image380.png
+.. |image1521154001387620| image:: media/image380.png
    :width: 4.33333in
    :height: 3.28125in
-.. |Image 16| image:: media/image381.png
+.. |image1521153994578733| image:: media/image381.png
    :width: 4.63542in
    :height: 3.33333in
-.. |1521139826897244| image:: media/image382.png
+.. |image1521153991195902| image:: media/image382.png
    :width: 4.48958in
    :height: 3.5in
-.. |image753.png| image:: media/image383.png
+.. |image1521154001414002| image:: media/image383.png
    :width: 4.33333in
    :height: 2.94792in
-.. |image755.png| image:: media/image384.png
+.. |image1521154001440763| image:: media/image384.png
    :width: 4.33333in
    :height: 4.01042in
-.. |image757.png| image:: media/image385.png
+.. |image1521154001466450| image:: media/image385.png
    :width: 2.8125in
    :height: 1.11458in
-.. |Image 25| image:: media/image386.png
+.. |image1521153994757694| image:: media/image386.png
    :width: 4.63542in
    :height: 3.32292in
-.. |Image 18| image:: media/image387.png
+.. |image1521153994604802| image:: media/image387.png
    :width: 4.625in
    :height: 3.3125in
-.. |Image 19| image:: media/image388.png
+.. |image1521153994630971| image:: media/image388.png
    :width: 4.63542in
    :height: 3.51042in
-.. |Image 20| image:: media/image389.png
+.. |image1521153994685429| image:: media/image389.png
    :width: 4.63542in
    :height: 3.3125in
-.. |Image 26| image:: media/image390.png
+.. |image1521153994787882| image:: media/image390.png
    :width: 4.63542in
    :height: 3.3125in
-.. |FundsRights| image:: media/image391.png
+.. |image1521153993978391| image:: media/image391.png
    :width: 4.63542in
    :height: 3.17708in
-.. |image771| image:: media/image392.png
+.. |image1521154001494697| image:: media/image392.png
    :width: 4.45833in
    :height: 2.65625in
-.. |MandS| image:: media/image393.png
+.. |image1521153995727137| image:: media/image393.png
    :width: 4.63542in
    :height: 4in
-.. |image774| image:: media/image394.png
+.. |image1521154001521181| image:: media/image394.png
    :width: 4.45833in
    :height: 2.54167in
-.. |image776.png| image:: media/image395.png
+.. |image1521154001548273| image:: media/image395.png
    :width: 4.33333in
    :height: 2.83333in
-.. |11111| image:: media/image396.png
+.. |image1521153990687627| image:: media/image396.png
    :width: 4.51042in
    :height: 2.98958in
-.. |image780.png| image:: media/image397.png
+.. |image1521154001574411| image:: media/image397.png
    :width: 4.33333in
    :height: 2.97917in
-.. |image782.png| image:: media/image398.png
+.. |image1521154001600653| image:: media/image398.png
    :width: 4.33333in
    :height: 2.875in
-.. |image784.png| image:: media/image399.png
+.. |image1521154001626050| image:: media/image399.png
    :width: 4.33333in
    :height: 3.20833in
-.. |image786.png| image:: media/image400.png
+.. |image1521154001649337| image:: media/image400.png
    :width: 4.33333in
    :height: 3.5in
-.. |image790.png| image:: media/image401.png
+.. |image1521154001675731| image:: media/image401.png
    :width: 4.33333in
    :height: 3.17708in
-.. |image792| image:: media/image402.png
+.. |image1521154001698751| image:: media/image402.png
    :width: 4.29167in
    :height: 2.41667in
-.. |image794| image:: media/image403.png
+.. |image1521154001724688| image:: media/image403.png
    :width: 3.44792in
    :height: 1.48958in
-.. |image796| image:: media/image404.png
+.. |image1521154001751527| image:: media/image404.png
    :width: 4.07292in
    :height: 3.41667in
-.. |image798.png| image:: media/image405.png
+.. |image1521154001777261| image:: media/image405.png
    :width: 4.33333in
    :height: 2.94792in
-.. |FileOperationInterface| image:: media/image406.png
+.. |image1521153993814635| image:: media/image406.png
    :width: 4.63542in
    :height: 3.51042in
-.. |PrintOptions| image:: media/image407.png
+.. |image1521153996443526| image:: media/image407.png
    :width: 4.63542in
    :height: 1.10417in
-.. |Files| image:: media/image408.png
+.. |image1521153993844334| image:: media/image408.png
    :width: 4.63542in
    :height: 1.44792in
-.. |Image 1| image:: media/image409.png
+.. |image1521153994659951| image:: media/image409.png
    :width: 4.42708in
    :height: 2.89583in
-.. |image411| image:: media/image410.png
+.. |image1521153999774011| image:: media/image410.png
    :width: 4.44792in
    :height: 2.30208in
-.. |Image 2| image:: media/image411.png
+.. |image1521153994814790| image:: media/image411.png
    :width: 4.42708in
    :height: 2.16667in
-.. |image413| image:: media/image412.png
+.. |image1521153999799750| image:: media/image412.png
    :width: 1.125in
    :height: 0.20833in
-.. |image414| image:: media/image413.png
+.. |image1521153999825769| image:: media/image413.png
    :width: 0.27083in
    :height: 0.21875in
-.. |Image 3| image:: media/image414.png
+.. |image1521153994838502| image:: media/image414.png
    :width: 3.70833in
    :height: 2.95833in
-.. |Image 5| image:: media/image415.png
+.. |image1521153994894041| image:: media/image415.png
    :width: 4.47917in
    :height: 2.23958in
-.. |image417| image:: media/image416.png
+.. |image1521153999877746| image:: media/image416.png
    :width: 4.40625in
    :height: 2.35417in
-.. |image806| image:: media/image417.png
+.. |image1521154001799857| image:: media/image417.png
    :width: 4.30208in
    :height: 2.61458in
-.. |image808.png| image:: media/image418.png
+.. |image1521154001823198| image:: media/image418.png
    :width: 0.10417in
    :height: 0.125in
-.. |image810.png| image:: media/image419.png
+.. |image1521154001849227| image:: media/image419.png
    :width: 3.46875in
    :height: 2.44792in
-.. |image812.png| image:: media/image420.png
+.. |image1521154001871946| image:: media/image420.png
    :width: 4.25in
    :height: 2.75in
-.. |image814.png| image:: media/image421.png
+.. |image1521154001898099| image:: media/image421.png
    :width: 4.33333in
    :height: 2.8125in
-.. |image816.png| image:: media/image422.png
+.. |image1521154001922573| image:: media/image422.png
    :width: 0.25in
    :height: 0.125in
-.. |image818| image:: media/image423.png
+.. |image1521154001947033| image:: media/image423.png
    :width: 4.0625in
    :height: 2.89583in
-.. |image820.png| image:: media/image424.png
+.. |image1521154001976154| image:: media/image424.png
    :width: 4.25in
    :height: 2.98958in
-.. |image822.png| image:: media/image425.png
+.. |image1521154002003522| image:: media/image425.png
    :height: 0.11458in
-.. |image824| image:: media/image426.png
+.. |image1521154002029975| image:: media/image426.png
    :width: 4.04167in
    :height: 3.89583in
-.. |image826.png| image:: media/image427.png
+.. |image1521154002054088| image:: media/image427.png
    :width: 4.22917in
    :height: 3.80208in
-.. |image828.png| image:: media/image428.png
+.. |image1521154002079741| image:: media/image428.png
    :width: 2.66667in
    :height: 3.01042in
-.. |Counter| image:: media/image429.png
+.. |image1521153993199687| image:: media/image429.png
    :width: 4.63542in
    :height: 3.875in
-.. |CO10| image:: media/image430.png
+.. |image1521153992486731| image:: media/image430.png
    :width: 4.63542in
    :height: 3.17708in
-.. |Contract| image:: media/image431.png
+.. |image1521153993128863| image:: media/image431.png
    :width: 4.625in
    :height: 3.91667in
-.. |COPO| image:: media/image432.png
+.. |image1521153992522009| image:: media/image432.png
    :width: 4.63542in
    :height: 4.4375in
-.. |ProformaInvoice| image:: media/image433.png
+.. |image1521153996522431| image:: media/image433.png
    :width: 4.64583in
    :height: 3.88542in
-.. |CreditSlipCust| image:: media/image434.png
+.. |image1521153993252185| image:: media/image434.png
    :width: 4.63542in
    :height: 3.46875in
-.. |REceiptToAccount| image:: media/image435.png
+.. |image1521153996753191| image:: media/image435.png
    :width: 4.63542in
    :height: 3.46875in
