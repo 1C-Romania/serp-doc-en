@@ -826,8 +826,7 @@ catalog subordinate to the **Companies** catalog. You can access the
 catalog by clicking the corresponding link in the navigation panel of
 the catalog. In the **Bank account** field of the **Attributes** tab,
 specify a bank account that will be used by default for the company. To
-do it, click the |C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_raschetnyie_scheta_organizatsii\image013.png|
+do it, click the |image013.png|
 button and select **Show all**. A dialog box appears showing a list of
 available bank accounts. You can add a bank account to it by clicking
 **Create**.
@@ -896,8 +895,7 @@ information register is an item of the **Employees** catalog. Use the
 Information related to individual's labor activity is specified in the
 catalog.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_sotrudniki\image023.png|
+|image023.png|
 
 The list of individuals is stored in the **Individuals** catalog. Every
 employee corresponds to an individual. You can specify an employment
@@ -917,8 +915,7 @@ example, last name, name, date of birth and other. To access the
 catalog, in the **Payroll** section, in the navigation panel, click the
 corresponding link.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_fizicheskie_litsa\image025.png|
+|image025.png|
 
 The catalog items can be divided into arbitrary groups and subgroups
 with unlimited nesting levels. You can also divide individuals by
@@ -931,8 +928,7 @@ Information on identity documents can be populated on a separate form.
 
 You can also use a separate form to fill in an individual's full name.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_fizicheskie_litsa\image030.png|
+|image030.png|
 
 If additional attributes or additional information are specified for an
 individual, the corresponding tab or button for opening additional
@@ -1314,8 +1310,7 @@ You can use the **Positions** catalog to store a list of employee
 positions. To access the catalog, in the **Payroll** section, in the
 **See also** group, click **Positions**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3270027021_dolzhnosti\image080.png|
+|image080.png|
 
 Working time kinds
 ~~~~~~~~~~~~~~~~~~
@@ -1384,11 +1379,9 @@ mutual settlements with counterparties by corresponding sections.
 To quickly enter addresses, use the address classifier. Enter addresses
 and phones using a special dialog box.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyi\image094.png|
+|image094.png|
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyi\image096.png|
+|image096.png|
 
 Counterparty contact persons
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1399,8 +1392,7 @@ representatives or vice versa addressed to them) in the infobase. A list
 of such representatives is stored in the infobase, in the **Counterparty
 contact persons** catalog subordinate to the **Counterparties** catalog.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentov\image098.png|
+|image098.png|
 
 Specify a full name and a role for each counterparty. You can edit
 information on contact persons of a counterparty in a separate window.
@@ -1447,7 +1439,7 @@ separate area.
 
 Events such as a phone call, sending email to a contact person of a
 counterparty or personal meeting with them are registered and planned
-with the **Event** document.\ |ContPerson4|
+with the **Event** document. |ContPerson4|
 
 Each event has one of the following states: **Planned**, **Completed**,
 **Canceled**. Specify start and end dates (planned and actual) for an
@@ -1491,8 +1483,7 @@ To send an email to a counterparty, in the counterparty card, click
 To email a generated print document to a counterparty from the document
 form, click **Send**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otpravka_yelektronnyikh_pisem\image112.png|
+|image112.png|
 
 The sent email is recorded automatically by the application by
 generating the **Event** document.
@@ -1530,8 +1521,7 @@ order**.
 You can also view events in the **Month** presentation. To view it,
 сlick **Month**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kalendar_sotrudnika\image120.png|
+|image120.png|
 
 PRICING
 ~~~~~~~
@@ -1573,8 +1563,7 @@ in the **Prices** group. There are the following predefined items in the
 catalog: **Wholesale price** and **Accounting price**. Users can edit
 them and add other price kinds to the catalog.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_vidyi_tsen\image128.png|
+|image128.png|
 
 In the document, specify the following for every price kind: a name, a
 currency, and set whether this price kind will be rounded off.
@@ -1594,8 +1583,7 @@ If you select the **Calculated** or **Calculated dynamically** price
 calculation method, required attribute **Basic price kind** appears on
 the form. To calculate the price, you can specify a markup percent.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_vidyi_tsen\image130.png|
+|image130.png|
 
 On the **Price format** tab, specify a format for the selected price
 kind using a special dialog box available by clicking **Change**.
@@ -1613,8 +1601,7 @@ type on the **Main parameters** tab. You can access a price group list
 in the **Price groups** catalog by clicking **Price groups** on the
 price list form.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_tsenovyie_gruppyi\image134.png|
+|image134.png|
 
 Discounts and markups
 ~~~~~~~~~~~~~~~~~~~~~
@@ -1624,8 +1611,7 @@ and terms are stored in the **Markup and discount kinds** catalog. You
 can access the catalog by clicking the corresponding link of the
 **Prices** group.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_skidki_i_natsenki\image136.png|
+|image136.png|
 
 Specify a discount name and its percent (specify a markup percent with
 minus sign) for every item of the catalog. You can add an arbitrary
@@ -1647,8 +1633,7 @@ the corresponding hyperlink shown in the picture. Select a price kind.
 Select a discount kind from the **Discounts and markups** catalog, then
 select the **Refill prices** check box and click **OK**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_ispolzovanie_vidov_tsen__skidok_i_natsenok\image140.png|
+|image140.png|
 
 .. _pricing-1:
 
@@ -1774,8 +1759,7 @@ Possible values depend on the **Customer order states** catalog. To
 access the catalog, in the **Settings** section, in the **Sales**
 accounting settings, click **Customer order states** catalog.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelya\image150.png|
+|image150.png|
 
 Users can create any required state values. Assign a status for every
 state: **Open**, **In progress**, or **Completed**. The document
@@ -1834,14 +1818,12 @@ specify a contract when entering the **Customer order** document. You
 can store data on contracts in the **Counterparty contracts** catalog
 subordinate to the **Counterparties** catalog.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_dogovor_s_pokupatelem\image158.png|
+|image158.png|
 
 You can enter a new contract both from counterparty card and when
 populating the **Customer order** document.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_dogovor_s_pokupatelem\image160.png|
+|image160.png|
 
 Specify a counterparty, a contract number, a date, and a settlements
 currency in the catalog item form. The **Name** field is auto populated
@@ -1900,8 +1882,7 @@ to pay for the ordered goods. You can find a list of proforma invoices
 in a journal. To access the journal, in the **Sales** navigation panel,
 click **Proforma invoices**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_scheta_na_oplatu\image164.png|
+|image164.png|
 
 You can register the document based on an order, a goods issue, or an
 acceptance certificate. In the proforma invoice, you can see information
@@ -2285,8 +2266,7 @@ access it, in the **Settings** section in accounting parameter setting,
 click **Cash registers**. To add a cash fund with the **Fiscal data
 recorder** type, click **Create**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sisteme\image205.png|
+|image205.png|
 
 Also specify business unit, company department, and GL account for the
 cash register. If the **Without connection** check box is not selected,
@@ -2315,8 +2295,7 @@ To open the shift:
 Then it registers the **Cash receipt** documents in the accounting
 system during the shift.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sisteme\image209.png|
+|image209.png|
 
 The products are sold from the sales outlet area (the products are on
 shelves) at retail prices with quantity discounts if appropriate.
@@ -2417,8 +2396,7 @@ As previously, to register revenue in the accounting system, use the
 report** document based on data of physical inventory made in the sales
 outlet (product number decrease due to the sales).
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3502864441_uchet_s_periodicheskoy_inventarizatsiey\image219.png|
+|image219.png|
 
 Sales outlets with value accounting
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2501,8 +2479,7 @@ dashboards, use the command bar of cash receipt register.
 On the **POS terminal management** dashboard, there are the following
 button groups: **Main operations** and **Additional operations**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_paneli_upravleniya_vneshnim_oborudovaniem\image227.png|
+|image227.png|
 
 Using the buttons, a cashier can perform different operations related to
 payment for products with payment card. In the right part of the
@@ -2513,8 +2490,7 @@ On the fiscal data recorder dashboard, there are only two buttons. They
 are intended to print fiscal data recorder reports with or without
 clearance.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_paneli_upravleniya_vneshnim_oborudovaniem\image229.png|
+|image229.png|
 
 Sales reports
 ~~~~~~~~~~~~~
@@ -2568,8 +2544,7 @@ Customer order fulfillment
 Use the **Customer order** **fulfillment** report to analyze content and
 progress of customer orders.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_vyipolnenie_zakazov_pokupateley\image235.png|
+|image235.png|
 
 The report is grouped by orders. Missing (not provided with sources)
 quantity of products and services items is calculated for each order.
@@ -2597,16 +2572,14 @@ unrestricted stock of products by warehouses. In the report, you can
 also see summary data on balance, reserves, and unrestricted stock for
 the company as a whole.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_svobodnyie_ostatki\image237.png|
+|image237.png|
 
 Customer order payment
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Using the report, you can analyze customer order payment.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_oplata_zakazov_pokupateley\image239.png|
+|image239.png|
 
 The report data is grouped by counterparties, companies, and contracts.
 
@@ -2616,8 +2589,7 @@ Invoice payment
 In the report, you can see information on invoices paid by
 counterparties.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_oplata_schetov\image241.png|
+|image241.png|
 
 The report data is grouped by customers and contracts.
 
@@ -2671,8 +2643,7 @@ settlements list**, **Mutual settlements list in foreign currency
 settlements balance** mode, you can see only information about mutual
 settlements balance on the specified date.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_vzaimoraschetyi\image249.png|
+|image249.png|
 
 Cash in cash registers
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -2748,8 +2719,7 @@ All items in the **Products and services** catalog are classified by
 groups. You can find the list of groups in the **Products and services
 groups** catalog.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_nomenklatura\image259.png|
+|image259.png|
 
 Entering information on products and services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2926,8 +2896,7 @@ catalog has one-level structure. You can edit and enter new items
 directly in the catalog list form. You can use All-Russian Classifier of
 Measurement Units (OKEI) for filling in.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_klassifikator_edinits_izmereniya\image275.png|
+|image275.png|
 
 The catalog contains two predefined values of unit of measure: **Piece**
 and **Hour**.
@@ -2950,8 +2919,7 @@ the catalog.
 
 Each catalog item contains data on a warehouse bin.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_yacheyki_sklada\image277.png|
+|image277.png|
 
 If accounting by companies is set in the accounting policy settings,
 warehouse inventory of a small or middle company is managed in terms of
@@ -3228,8 +3196,7 @@ You can use the **Power of attorney** document to register powers of
 attorney for receipt of goods. To access the document, in the **See
 also** group, in the navigation panel, click **Powers of attorney**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_doverennost\image305.png|
+|image305.png|
 
 In the document, specify a goods supplier and an individual to whom
 their receipt is trusted. You can specify a document for receiving goods
@@ -3530,8 +3497,7 @@ from the left side (items which you can add to the navigation panel) to
 the right side (items which you can see in the navigation panel) by
 clicking **Add**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_57109892_raskhodnyiy_order\image331.png|
+|image331.png|
 
 In the form table field, enter a list of products and services items
 shipped from a two-phase warehouse. For each item, specify a name, a
@@ -3577,8 +3543,7 @@ Move the **Receipt slips** link from the left side (items which you can
 add to the navigation panel) to the right side (items which you can see
 in the navigation panel) by clicking **Add**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1501241422_prikhodnyiy_order\image335.png|
+|image335.png|
 
 In the document table field, enter a list of products and services items
 received to a two-phase warehouse. For each item, specify a name, a
@@ -3661,8 +3626,7 @@ Orders are generated according to the following rules:
    button is set in the accounting parameter settings) are grouped into
    a single order.
 
-Use buttons of the command bar |C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakh\image343.png|
+Use buttons of the command bar |image343.png|
 to post the order selected in the list or cancel the order posting. You
 can mark for deletion orders generated by mistake.
 
@@ -3680,8 +3644,7 @@ receipt** document with the counterparty price kind and the selected
 **Counterparty price lists** data processor. You can change the data
 using the **Counterparty products and services price** dialog box.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_prays_listyi_kontragentov\image347.png|
+|image347.png|
 
 The application saves information about all users who changed the price
 of products and services or counterparty products and services.
@@ -3722,8 +3685,7 @@ With the **Inventory demand** report, you can identify demands for raw
 materials and materials required for production (both from own and
 supplier's raw materials) and for transferring for processing.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_potrebnost_v_zapasakh\image351.png|
+|image351.png|
 
 The report shows demand for products and services and how to satisfy the
 demand by displaying unsatisfied demand.
@@ -3815,8 +3777,7 @@ In the **Balance** mode, the report contains information about
 allocation of order balance for purchase on the specified date. Data is
 grouped by suppliers.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zakazyi_postavschikam\image363.png|
+|image363.png|
 
 Order payment
 ~~~~~~~~~~~~~
@@ -3825,8 +3786,7 @@ With the report, you can analyze purchase order payment. To access the
 report, in the **Mutual settlements** report group, click **Order
 payment**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_oplata_zakazov\image365.png|
+|image365.png|
 
 The report data is grouped by suppliers, companies and contracts.
 
@@ -3839,8 +3799,7 @@ In the report, you can see data on supplier invoice payment. To access
 the report, in the **Mutual settlements** report group, click **Invoice
 payment**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_oplata_schetov\image367.png|
+|image367.png|
 
 The report data is grouped by suppliers and contracts.
 
@@ -3978,8 +3937,7 @@ then click **All reports**.
 The report does not display information about receipt and consumption.
 It shows only closing balance in storage locations.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_ostatki_po_skladu\image387.png|
+|image387.png|
 
 Receipt and payment under orders
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4013,8 +3971,7 @@ and products and services. In the report, you can see information about
 opening and closing balance in warehouses and counterparty-processors.
 The report data is presented in quantitative and value terms.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_dvizhenie_tovarov_po_skladam\image391.png|
+|image391.png|
 
 If a two-phase scheme is used for corresponding warehouses, you can see
 information about inventory quantity to be written off with issue slips
@@ -4046,7 +4003,7 @@ To make serial numbers and guarantee period available, in the
 **Settings** section, click **Purchases**, and then select the **Use
 serial numbers** check box.
 
-|C:\Desktop\Image 1.png|
+|C:DesktopImage 1.png|
 
 You can specify serial numbers for reference and also control balance
 considering these numbers.
@@ -4327,8 +4284,7 @@ Order payment
 You can use the report to analyze customer order fulfillment concerning
 payment.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2267718557_oplata_zakazov\image417.png|
+|image417.png|
 
 Report to customer
 ~~~~~~~~~~~~~~~~~~
@@ -4336,8 +4292,7 @@ Report to customer
 In the report, you can see information on works performed under a job
 order or a customer order.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2267718557_otchet_zakazchiku\image419.png|
+|image419.png|
 
 CHAPTER 6
 =========
@@ -4371,8 +4326,7 @@ materials are stored in the **Bills of materials** catalog subordinate
 to the **Products and services** catalog. To access the catalog, use a
 product card of the **Inventory** or **Work** type.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_sostav_produktsii_i_tekhnologiya_ee_vyipuska\image423.png|
+|image423.png|
 
 The **Bills of materials** catalog item form includes the following tabs
 – **Content** (to enter the list of materials and semi-finished products
@@ -4384,8 +4338,7 @@ services of the **Inventory** or **Expense** type. In the **Cost share**
 column, specify the cost share of initial products and services for
 products received due to assembly, breaking.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_sostav_produktsii_i_tekhnologiya_ee_vyipuska\image425.png|
+|image425.png|
 
 Fill in the **Operations** tab with products and services of the
 **Operation** type.
@@ -4452,8 +4405,7 @@ it in the **Manufacturing** settings of the **Settings** section.
 If a production order is created based on a customer order or another
 production order, you can specify a basis document in the **Customer
 order** field or the **Basis** field and automatically populate the
-document fields by\ |C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_uchet_vyipuska_produktsii\image431.png|
+document fields by |image431.png|
 clicking the button to the right from the attribute.
 
 To auto populate by the released product BOM, on the **Materials** tab,
@@ -4676,8 +4628,7 @@ It is optional to specify this data for each release (but not
 dismantling). You can allocate materials to release later using the
 **Cost allocation** document, for example, over the day or shift. If you
 create a document based on the production order, you can auto populate
-it by clicking the button |C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_uchet_vyipuska_produktsii\image431.png| to
+it by clicking the button |image431.png| to
 the right from the **Basis** field.
 
 Released (dismantled) product BOM can also be used for auto population
@@ -4912,8 +4863,7 @@ received over the specified period. Orders are grouped by departments.
 Specify products and services and their turnovers, such as opening and
 closing balance, receipt and outflow for every order.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3647657549_zakazyi_na_proizvodstvo\image479.png|
+|image479.png|
 
 Standard bill of materials
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4941,8 +4891,7 @@ Production variance analysis
 The report contains data on planned and actual product release, work
 performance, provision of services over the specified period.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3647657549_plan_faktnyiy_analiz_proizvodstva\image483.png|
+|image483.png|
 
 Production cost variance analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4974,8 +4923,7 @@ In the **Funds** section, you can keep records of funds and manage them.
 You can access general document journals of the section by clicking
 **Cash fund documents** or **Bank documents** in the navigation panel.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_dengi\image487.png|
+|image487.png|
 
 .. _currencies-1:
 
@@ -4991,8 +4939,7 @@ select the **Keep records in foreign currency** check box in the
 
 |image489|
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_valyutyi\image491.png|
+|image491.png|
 
 Exchange rates
 ~~~~~~~~~~~~~~
@@ -5014,8 +4961,7 @@ To import currencies, in the currency list form, specify currencies and
 the period for which you need to fill in new exchange rates, and then
 click **Import**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1417130559_kursyi_valyut\image495.png|
+|image495.png|
 
 BANKS
 ~~~~~
@@ -5043,8 +4989,7 @@ following predefined items – **Negative exchange rate difference**,
 **Positive exchange rate difference**, **Customer payment**, **Payment
 to suppliers**, and **Other**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_stati_dvizheniya_denezhnyikh_sredstv\image499.png|
+|image499.png|
 
 You can add your cash items of receipt and expense of funds, for
 example, **Loan receipt**, **Credit receipt**, **Stationery purchase**,
@@ -5209,8 +5154,7 @@ amount is overspent by the employee according to the expense report,
 specify the expense report. Table field to enter several payments is not
 available on this form.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_podotchetniku\image511.png|
+|image511.png|
 
 Salary against pay sheet
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -5261,8 +5205,7 @@ Cash fund documents
 You can find cash accounting documents in the **Cash fund documents**
 journal.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_dokumentyi_po_kasse\image519.png|
+|image519.png|
 
 FUNDS MOVEMENT
 ~~~~~~~~~~~~~~
@@ -5340,8 +5283,7 @@ Bank documents
 You can find non-cash accounting documents in the **Bank documents**
 journal.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_4143743452_dokumentyi_po_banku\image537.png|
+|image537.png|
 
 PAYMENT CALENDAR
 ~~~~~~~~~~~~~~~~
@@ -5411,8 +5353,7 @@ Funds planning documents
 The **Funds planning documents** journal contains documents of real-time
 planning of funds.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3651895756_dokumentyi_planirovaniya_deneg\image545.png|
+|image545.png|
 
 FUNDS SECTION REPORTS
 ~~~~~~~~~~~~~~~~~~~~~
@@ -5420,8 +5361,7 @@ FUNDS SECTION REPORTS
 You can analyze data of the **Funds** section using reports. You can
 access them in the report panel of the section.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_otchetyi_razdela__dengi_\image547.png|
+|image547.png|
 
 .. _funds-2:
 
@@ -5431,8 +5371,7 @@ Funds
 The **Funds** report displays cash and non-cash flow. To access the
 report, in the actions panel, click the corresponding link.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1486783024_denezhnyie_sredstva\image549.png|
+|image549.png|
 
 You can generate the report in the following modes: **Statement** and
 **Balance**. In the **Statement** mode, the report allows you to display
@@ -5448,8 +5387,7 @@ The report displays information on planned cash flow over the specified
 period for the selected company. The report is generated based on data
 of the **Budget** documents.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1486783024_prognoz_po_denezhnyim_sredstvam\image551.png|
+|image551.png|
 
 It can be generated in the following modes: **Main**, **In currency**,
 **Variance analysis**, and **Variance analysis (cur.)**. **In Main** and
@@ -5459,8 +5397,7 @@ Variance analysis allows you to display data on planned and actual
 movements, an absolute value and variance percent in the management
 accounting currency and in currency.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1486783024_prognoz_po_denezhnyim_sredstvam\image553.png|
+|image553.png|
 
 CHAPTER 8
 =========
@@ -5519,8 +5456,7 @@ panel in the **See also** group.
 
 By selecting a radio button, you can set a type for each catalog item:
 **Accrual**, **Deduction** or **Tax**. Specify a cost account for
-accruals and deductions. Click icon |C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_402781231_vidyi_nachisleniy_i_uderzhaniy\image559.png|
+accruals and deductions. Click icon |image559.png|
 to open a dialog box for editing a calculation formula of accruals and
 deductions.
 
@@ -5575,8 +5511,7 @@ Using the **Hiring** document, you can register employee hiring and
 whether it is required to calculate accruals and deductions for these
 employees.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2002997309_priem_na_rabotu\image567.png|
+|image567.png|
 
 In the document title, specify an employer. On the **Employees** tab,
 specify a list of employees from the **Employees** catalog. Unique
@@ -5683,8 +5618,7 @@ Employee salary accounting
 Use the **Salary accounting** document to accrue labor compensation (at
 the month end) and allocate it to costs.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_nachislenie_zarplatyi_sotrudnikam\image581.png|
+|image581.png|
 
 In the document, specify a registration period (a month date for which
 the labor compensation is accrued), a company, and a department. Fill in
@@ -5834,8 +5768,7 @@ Pay sheet
 Use the document to generate a print form of the pay sheet for salary
 (advance) payment to company employees.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_platezhnaya_vedomost\image593.png|
+|image593.png|
 
 You can fill in the document automatically by clicking **Fill in by
 balance** in the command bar.
@@ -6049,8 +5982,7 @@ Use the **Other costs (expenses)** document to record intangible
 expenses of the company business activities in accounting. Using the
 document, you can capitalize intangible costs for further allocation.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_prochie_zatratyi__raskhodyi_\image617.png|
+|image617.png|
 
 In the document, specify own company, a department, and an offsetting
 account with the **Other income**, **Other current assets**, **Credits
@@ -6068,8 +6000,7 @@ use the **Tax accrual** document. To access the document, in the
 navigation panel of the **Financial transactions** group, click **Tax
 accrual**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_uchet_nalogov\image619.png|
+|image619.png|
 
 In the document, specify operation type **Accrual** or **Compensation**.
 Enter a tax list from the **Tax kinds** catalog into the table field.
@@ -6081,8 +6012,7 @@ operation kind records tax payment to budget.
 
 Tax accruals and payments are shown in the **Tax settlements** report.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_uchet_nalogov\image621.png|
+|image621.png|
 
 MONTH-END CLOSING
 ~~~~~~~~~~~~~~~~~
@@ -6092,8 +6022,7 @@ operations of period-end closing in management accounting. To access it,
 in the **Financial transactions** group, in the navigation panel, click
 **Month-end closing**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_zakryitie_mesyatsa\image623.png|
+|image623.png|
 
 The data processor automatically performs the following regulatory
 operations:
@@ -6172,8 +6101,7 @@ Actions with property starting from new asset registration are
 registered with documents grouped into the **Property documents**
 journal.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestve\image633.png|
+|image633.png|
 
 Registering a new asset
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -6385,8 +6313,7 @@ You can generate the report in two modes – **Statement** and
 **Balance**. Data on funds receipts and expenses is not shown in the
 **Balance** mode.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_943187146_neraspredelennyie_zatratyi\image663.png|
+|image663.png|
 
 Trial balance
 ~~~~~~~~~~~~~
@@ -6423,8 +6350,7 @@ products and services grouped by departments. For all products and
 services planned for sale, the report shows quantity, amount, and total
 for each department and for all departments.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_943187146_planyi_prodazh\image669.png|
+|image669.png|
 
 CHAPTER 10
 ==========
@@ -6527,8 +6453,7 @@ change the widget position and prevent some indicators from being
 displayed, click **All actions**, click **Change form**, and then enable
 the required options.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1890283369_obschie_pokazateli\image673.png|
+|image673.png|
 
 .. _funds-5:
 
@@ -6674,8 +6599,7 @@ register to generate the following reports: **Balance**, **Profits and
 losses**, **Balance budget**, **Profit and loss budget**, and **Trial
 balance**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_1890283369_otchetyi_razdela__analiz_\image681.png|
+|image681.png|
 
 Sales variance analysis
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -6695,8 +6619,7 @@ Cost
 In the report, you can see data on cost of released products, works and
 services with explanation of the expenses.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_sebestoimost\image685.png|
+|image685.png|
 
 .. _sales-3:
 
@@ -6738,8 +6661,7 @@ The report contains data on financial result of company activities
 calculated during month-end closing. The report data is grouped by
 business areas.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_finansovyiy_rezultat\image695.png|
+|image695.png|
 
 Financial result (forecast)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -6753,8 +6675,7 @@ based on data of the **Budget** documents.
 The report can be generated in the **Main** and **Variance analysis**
 modes.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_finansovyiy_rezultat__prognoz_\image699.png|
+|image699.png|
 
 Profits and losses
 ~~~~~~~~~~~~~~~~~~
@@ -6762,8 +6683,7 @@ Profits and losses
 In the report, you can see information about company profits and losses
 over the specified period.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_pribyili_i_ubyitki\image701.png|
+|image701.png|
 
 The report data is grouped by common and other activity kinds. At the
 bottom of the report, you can see information about income and expenses
@@ -6776,8 +6696,7 @@ The report displays summary information about company cash flow over the
 specified period: cash as of the period start and end, inflow and
 outflow grouped by cash flow items, and total inflow (outflow) of funds.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_dvizhenie_denezhnyikh_sredstv\image703.png|
+|image703.png|
 
 Income and expenses (cash method)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -6787,8 +6706,7 @@ cash method (acc. to payment). You can access it if you select the **Use
 cash method of income and expenses accounting** check box in accounting
 settings.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_dokhodyi_i_raskhodyi_kassovyim_metodom\image705.png|
+|image705.png|
 
 The report data is grouped by business areas.
 
@@ -6849,8 +6767,7 @@ You can generate the report in the following modes: **Main** and
 report shows data on planned and actual budgeted balance sheet, an
 absolute value, and variance percent.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prognoznyiy_balans\image719.png|
+|image719.png|
 
 CHAPTER 11
 ==========
@@ -7340,7 +7257,7 @@ This feature is useful to perform administrative actions and make sure
 no users are connected.
 
 The data processor allows you to lock/unlock connections to the infobase
-in the «\ **1C:Enterprise»** mode for the specified period.
+in the « **1C:Enterprise»** mode for the specified period.
 
 |Image 12|
 
@@ -7437,7 +7354,7 @@ On the first update from the user website, specify a user code and a
 password. Only «1C:Enterprise» registered users have access to updates.
 For more information about a user code and a password, see instructions
 at
-`v8.1c.ru. <file:///\\rise-izh.local\..\..\Users\shestakova\AppData\Roaming\Users\Solovyeva_L\Documents%20and%20Settings\Documents%20and%20Settings\Shestakova\AppData\Roaming\Microsoft\www.v8.1c.ru>`__
+`v8.1c.ru. <file:///rise-izh.local....UsersshestakovaAppDataRoamingUsersSolovyeva_LDocuments%20and%20SettingsDocuments%20and%20SettingsShestakovaAppDataRoamingMicrosoftwww.v8.1c.ru>`__
 
 You can remember a user code and a password. Not to enter it every time,
 select the **Remember password** check box.
@@ -7691,7 +7608,7 @@ loss risks. The more data is entered into the infobase, the more
 frequently the infobase is backed up.
 
 The system allows you to create infobase backups in the
-«\ **1C:Enterprise»** mode. Data can be backed up both automatically and
+« **1C:Enterprise»** mode. Data can be backed up both automatically and
 manually. To use auto mode, configure the settings. You can restore the
 infobase data any time from the previously created backup.
 
@@ -7713,8 +7630,7 @@ ignores the message, they can open the backup setup wizard in the
 **Settings** section, in the **Support and service** panel, click the
 corresponding command.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_nastroyka_avtomaticheskogo_rezervnogo_kopirovaniya\image739.png|
+|image739.png|
 
 On the first page of the wizard, you can perform the following:
 
@@ -7820,7 +7736,7 @@ will be missing in the restored infobase.
 
 To restore data from backup, use the **Restore from backup** wizard. To
 open the wizard, in the **Support and service** panel in the
-**Settings** section, click the corresponding command\ **.**
+**Settings** section, click the corresponding command **.**
 
 In the wizard, specify a path to the backup file. After that, the
 application sets lock to the infobase, ends all user sessions, and
@@ -8122,8 +8038,7 @@ is **Additional value**. The following attribute values are available:
 In the tabular section of the form, specify values available for the
 **Manufacturer** attribute.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniy\image747.png|
+|image747.png|
 
 To create the **Design options** information, perform the following
 steps:
@@ -8169,8 +8084,7 @@ After saving the settings, create a new customer order using products
 with the specified values of additional attribute and property. Then
 generate a report with a filter by this order.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniy\image753.png|
+|image753.png|
 
 The report shows only the products with the value of the **Design
 option** additional information equal to 3 and 6, as these values are
@@ -8197,8 +8111,7 @@ You can access a list form of the **Users** catalog by clicking the
 corresponding command in the **User and rights settings** panel in the
 **Settings** section. The catalog item form looks like this:
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_registratsiya_polzovatelya\image755.png|
+|image755.png|
 
 To register a new infobase user:
 
@@ -8241,8 +8154,7 @@ application displays an authentication window to specify a login (select
 it from a list of infobase users) and a password corresponding to the
 login.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_autentifikatsiya_polzovatelya\image757.png|
+|image757.png|
 
 Tooltip
 
@@ -8447,8 +8359,7 @@ and a value of the **User messages** and error details field.
 Detailed control includes analysis of a background job list on the
 **Background jobs** tab.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3686875335_reglamentnyie_i_fonovyie_zadaniya\image776.png|
+|image776.png|
 
 Detailed control is carried out using background job filter by a
 scheduled job and analysis of background job attributes. Information
@@ -8482,8 +8393,7 @@ Configuring data synchronization
 Select the **Data synchronization** check box (constant) and the
 infobase prefix before you start using the functionality.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2057013087_nastroyki_sinkhronizatsii_dannyikh\image780.png|
+|image780.png|
 
 On the **Data synchronization** form, you can configure exchange. To
 open the form, in the **Settings** section, in the navigation panel,
@@ -8577,8 +8487,7 @@ with websites** check box.
 To configure exchange, click **Set up exchange with websites**, and use
 the **Nodes of exchange with sites** form.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytom\image782.png|
+|image782.png|
 
 To create a new exchange with a website, on the **Nodes of exchange with
 sites** form, click **Create**, and then use the **Wizard of data
@@ -8593,8 +8502,7 @@ Configure the following exchange parameters:
 -  Website connection settings. You can perform exchange with a website
    via the Internet or using directories on disk.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytom\image784.png|
+|image784.png|
 
 -  Settings for products and services export if the **Export goods**
    mode is set. Specify price kinds that determine the prices exported
@@ -8603,8 +8511,7 @@ Configure the following exchange parameters:
    attached to products and services to the website, select the **Export
    products and services images** check box.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytom\image786.png|
+|image786.png|
 
 -  Order exchange settings if the **Exchange orders** mode is set.
    Specify the **method of importing counterparties** from the website
@@ -8686,8 +8593,7 @@ Data on peripherals at user work places is stored in the **Peripherals**
 catalog. To access the catalog, in the **Settings** section, click
 **Peripherals**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanie\image790.png|
+|image790.png|
 
 To install a new device, click **Create**. On the opened form, specify
 the following:
@@ -8750,8 +8656,7 @@ Here you can edit information about current session user, install file
 operation extensions for web client, update the application parameters
 and set up Internet access parameters for proxy server.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_519374254_personalnyie_nastroyki\image798.png|
+|image798.png|
 
 You can customize personal settings of file operation parameters in the
 **File operation interface** panel.
@@ -8794,7 +8699,7 @@ ADDITIONAL REPORTS AND DATA PROCESSORS
 
 Use the **Additional reports and data processors** tool to connect and
 use additional (external) reports and data processors to the infobase in
-the «\ **1C:Enterprise»** mode.
+the « **1C:Enterprise»** mode.
 
 Depending on the purpose, additional reports and data processors can be
 global, if you use them for the configuration as a whole, or assigned,
@@ -9164,12 +9069,10 @@ Customizing workspace
 
 With the Taxi interface, you can customize your workspace and locate
 panels in the screen areas. To open the panel settings, in the **Main
-menu** |C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_konstruirovanie_rabochego_prostranstva\image808.png|,
+menu** |image808.png|,
 click **View**, and then click **Panel settings**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_konstruirovanie_rabochego_prostranstva\image810.png|
+|image810.png|
 
 Drag panels to change their location in the screen areas.
 
@@ -9202,8 +9105,7 @@ depend on a user profile. For instance, if you are a user with full
 rights, you will see the **Manager dashboard** form and a list of
 current to-dos on the home page.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsa\image812.png|
+|image812.png|
 
 Press **F6** to switch between home page forms.
 
@@ -9218,8 +9120,7 @@ column groups **Left column**, **Right column**. In the **Available
 forms** list, you can see forms used neither in the left nor in the
 right column.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsa\image814.png|
+|image814.png|
 
 You can drag forms from one list to another by clicking **Add >** and
 **Add all >>**. You also can move them between columns by clicking **>**
@@ -9228,8 +9129,7 @@ available forms), select it in the list, and then click **< Remove** or
 double-click the form name in the list. To remove all forms from the
 home page, click **<< Remove all**. You can also change the form
 sequence in the columns using buttons. The forms are displayed on the
-home page in the sequence set in the |C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsa\image816.png|\ settings.
+home page in the sequence set in the |image816.png| settings.
 
 During customization you can cancel changes made in this session or
 earlier and restore the default settings. To restore the default
@@ -9250,7 +9150,7 @@ From this submenu, you can control panel visibility and content of
 sections panel, form navigation panels, and start page. With this
 submenu, you can enlarge the form space. To hide all panels, in the main
 menu, click **View**, and then click **Hide all panels** or press **Ctrl
-+ Shift + \`**.
++ Shift + `**.
 
 Sections panel
 ~~~~~~~~~~~~~~
@@ -9261,8 +9161,7 @@ navigate to sections.
 To open a dialog box of the sections panel, in the main menu, click
 **View** – **Sections panel setup...**
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_panel_razdelov\image820.png|
+|image820.png|
 
 To add a section to the panel, select it in a list of available sections
 and then click **Add >**. In the dialog box, you can drag the list items
@@ -9295,8 +9194,7 @@ Area of system commands of main and secondary window
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To add or remove standard command bar buttons of main or secondary
-window, click a button |C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_oblast_sistemnyikh_komand_osnovnogo_i_vspomogatelnogo_okna\image822.png|
+window, click a button |image822.png|
 (**Other buttons**) in the upper right side of the screen. A menu
 appears. In this menu, hover the mouse pointer over the **Add or delete
 buttons** item. A menu opens. In this menu, select or clear a check box
@@ -9315,8 +9213,7 @@ Customizing form
 In the application, you can customize forms. To open the form editor, in
 the form command bar, click **More**, and then click **Change form**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nastroyka_formyi\image826.png|
+|image826.png|
 
 In the left side of the window, you can see the form items as a tree. In
 the right side, you can see a list of properties of the selected form
@@ -9380,8 +9277,7 @@ to customize the application and configure a debugging mode.
 To call a dialog box to configure parameter settings, in the main menu,
 click **Tools**, and then click **Options**.
 
-|C:\Users\pushkareva\Desktop\Новая
-папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_sistemnyie_parametryi\image828.png|
+|image828.png|
 
 In the dialog box, you can set up the following parameters:
 
@@ -9602,7 +9498,7 @@ the **Product release** report.
 .. |Image 1| image:: media/image6.png
    :width: 4.63542in
    :height: 2.52083in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_raschetnyie_scheta_organizatsii\image013.png| image:: media/image7.png
+.. |image013.png| image:: media/image7.png
    :width: 0.125in
 .. |image015| image:: media/image8.png
    :width: 4.40625in
@@ -9616,16 +9512,16 @@ the **Product release** report.
 .. |image021 (2)| image:: media/image11.png
    :width: 3.78125in
    :height: 2.80208in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_sotrudniki\image023.png| image:: media/image12.png
+.. |image023.png| image:: media/image12.png
    :width: 3.875in
    :height: 2.04167in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_fizicheskie_litsa\image025.png| image:: media/image13.png
+.. |image025.png| image:: media/image13.png
    :width: 3.9375in
    :height: 3.20833in
 .. |Individual| image:: media/image14.png
    :width: 4.63542in
    :height: 5.28125in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_170891170_fizicheskie_litsa\image030.png| image:: media/image15.png
+.. |image030.png| image:: media/image15.png
    :width: 3.9375in
    :height: 3.01042in
 .. |image036| image:: media/image16.png
@@ -9691,7 +9587,7 @@ the **Product release** report.
 .. |Payroll| image:: media/image36.png
    :width: 4.63542in
    :height: 2.27083in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3270027021_dolzhnosti\image080.png| image:: media/image10.png
+.. |image080.png| image:: media/image10.png
    :width: 3.66667in
    :height: 3.75in
 .. |WTK| image:: media/image37.png
@@ -9706,13 +9602,13 @@ the **Product release** report.
 .. |Helix2| image:: media/image40.png
    :width: 4.63542in
    :height: 5.07292in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyi\image094.png| image:: media/image41.png
+.. |image094.png| image:: media/image41.png
    :width: 3.13542in
    :height: 2.4375in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontragentyi\image096.png| image:: media/image42.png
+.. |image096.png| image:: media/image42.png
    :width: 3.10417in
    :height: 1.26042in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kontaktnyie_litsa_kontragentov\image098.png| image:: media/image43.png
+.. |image098.png| image:: media/image43.png
    :width: 3.9375in
    :height: 1.47917in
 .. |image100| image:: media/image44.png
@@ -9733,7 +9629,7 @@ the **Product release** report.
 .. |SendEmail0| image:: media/image49.png
    :width: 4.65625in
    :height: 4.39583in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_otpravka_yelektronnyikh_pisem\image112.png| image:: media/image50.png
+.. |image112.png| image:: media/image50.png
    :width: 3.9375in
    :height: 2.26042in
 .. |SendEmail3| image:: media/image51.png
@@ -9745,7 +9641,7 @@ the **Product release** report.
 .. |EmplCal| image:: media/image53.png
    :width: 4.63542in
    :height: 2.01042in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1558639461_kalendar_sotrudnika\image120.png| image:: media/image54.png
+.. |image120.png| image:: media/image54.png
    :width: 3.9375in
    :height: 3.3125in
 .. |CPL| image:: media/image55.png
@@ -9757,25 +9653,25 @@ the **Product release** report.
 .. |Image 2| image:: media/image57.png
    :width: 4.11458in
    :height: 3.02083in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_vidyi_tsen\image128.png| image:: media/image58.png
+.. |image128.png| image:: media/image58.png
    :width: 4.20833in
    :height: 3.27083in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_vidyi_tsen\image130.png| image:: media/image59.png
+.. |image130.png| image:: media/image59.png
    :width: 3.9375in
    :height: 2.09375in
 .. |Image 22| image:: media/image60.png
    :width: 3.82292in
    :height: 4.04167in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_tsenovyie_gruppyi\image134.png| image:: media/image61.png
+.. |image134.png| image:: media/image61.png
    :width: 3.9375in
    :height: 2.89583in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_skidki_i_natsenki\image136.png| image:: media/image62.png
+.. |image136.png| image:: media/image62.png
    :width: 3.9375in
    :height: 2.52083in
 .. |GI10| image:: media/image63.png
    :width: 4.625in
    :height: 3.6875in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2311648529_ispolzovanie_vidov_tsen__skidok_i_natsenok\image140.png| image:: media/image64.png
+.. |image140.png| image:: media/image64.png
    :width: 2.3125in
    :height: 2.22917in
 .. |Pricing| image:: media/image65.png
@@ -9790,7 +9686,7 @@ the **Product release** report.
 .. |Image 24| image:: media/image68.png
    :width: 3.77083in
    :height: 3.375in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_zakaz_pokupatelya\image150.png| image:: media/image69.png
+.. |image150.png| image:: media/image69.png
    :width: 3.9375in
    :height: 1.3125in
 .. |2| image:: media/image70.png
@@ -9802,16 +9698,16 @@ the **Product release** report.
 .. |DocSetup| image:: media/image72.png
    :width: 3.77083in
    :height: 1.55208in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_dogovor_s_pokupatelem\image158.png| image:: media/image73.png
+.. |image158.png| image:: media/image73.png
    :width: 3.9375in
    :height: 1.33333in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_dogovor_s_pokupatelem\image160.png| image:: media/image74.png
+.. |image160.png| image:: media/image74.png
    :width: 3.9375in
    :height: 1.70833in
 .. |CC3| image:: media/image75.png
    :width: 4.63542in
    :height: 2.15625in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1417697458_scheta_na_oplatu\image164.png| image:: media/image76.png
+.. |image164.png| image:: media/image76.png
    :width: 3.9375in
    :height: 2.375in
 .. |PI| image:: media/image77.png
@@ -9859,13 +9755,13 @@ the **Product release** report.
 .. |GRRetail| image:: media/image91.png
    :width: 4.63542in
    :height: 3.79167in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sisteme\image205.png| image:: media/image92.png
+.. |image205.png| image:: media/image92.png
    :width: 3.90625in
    :height: 1.94792in
 .. |5| image:: media/image93.png
    :width: 4.53125in
    :height: 2.45833in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_713584678_torgovaya_tochka_s_fiskalnyim_registratorom__podklyuchennyim_k_uchetnoy_sisteme\image209.png| image:: media/image94.png
+.. |image209.png| image:: media/image94.png
    :width: 3.9375in
    :height: 2.60417in
 .. |image211| image:: media/image95.png
@@ -9880,7 +9776,7 @@ the **Product release** report.
 .. |CreditSlipAcc| image:: media/image98.png
    :width: 4.63542in
    :height: 3.16667in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3502864441_uchet_s_periodicheskoy_inventarizatsiey\image219.png| image:: media/image99.png
+.. |image219.png| image:: media/image99.png
    :width: 3.9375in
    :height: 2.53125in
 .. |7| image:: media/image100.png
@@ -9889,10 +9785,10 @@ the **Product release** report.
 .. |RetailRevaluation| image:: media/image101.png
    :width: 4.63542in
    :height: 3.29167in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_paneli_upravleniya_vneshnim_oborudovaniem\image227.png| image:: media/image102.png
+.. |image227.png| image:: media/image102.png
    :width: 3.59375in
    :height: 1.75in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2072992492_paneli_upravleniya_vneshnim_oborudovaniem\image229.png| image:: media/image103.png
+.. |image229.png| image:: media/image103.png
    :width: 3.59375in
    :height: 0.95833in
 .. |MandS| image:: media/image104.png
@@ -9901,16 +9797,16 @@ the **Product release** report.
 .. |Reports| image:: media/image105.png
    :width: 4.63542in
    :height: 4.52083in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_vyipolnenie_zakazov_pokupateley\image235.png| image:: media/image106.png
+.. |image235.png| image:: media/image106.png
    :width: 3.90625in
    :height: 2.83333in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_svobodnyie_ostatki\image237.png| image:: media/image107.png
+.. |image237.png| image:: media/image107.png
    :width: 4.25in
    :height: 2.52083in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_oplata_zakazov_pokupateley\image239.png| image:: media/image108.png
+.. |image239.png| image:: media/image108.png
    :width: 3.9375in
    :height: 2.86458in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_oplata_schetov\image241.png| image:: media/image109.png
+.. |image241.png| image:: media/image109.png
    :width: 3.9375in
    :height: 2.23958in
 .. |1| image:: media/image110.png
@@ -9922,7 +9818,7 @@ the **Product release** report.
 .. |MutualSettlements| image:: media/image112.png
    :width: 4.625in
    :height: 2.73958in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_585350365_vzaimoraschetyi\image249.png| image:: media/image113.png
+.. |image249.png| image:: media/image113.png
    :width: 3.9375in
    :height: 3.375in
 .. |CashInCashRegisters| image:: media/image114.png
@@ -9934,7 +9830,7 @@ the **Product release** report.
 .. |PandS| image:: media/image116.png
    :width: 4.63542in
    :height: 2.20833in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_nomenklatura\image259.png| image:: media/image117.png
+.. |image259.png| image:: media/image117.png
    :width: 3.97917in
    :height: 2.42708in
 .. |PandSCard| image:: media/image118.png
@@ -9958,10 +9854,10 @@ the **Product release** report.
 .. |ActivityKind| image:: media/image124.png
    :width: 4.63542in
    :height: 2.77083in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_klassifikator_edinits_izmereniya\image275.png| image:: media/image125.png
+.. |image275.png| image:: media/image125.png
    :width: 3.9375in
    :height: 1.875in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_yacheyki_sklada\image277.png| image:: media/image126.png
+.. |image277.png| image:: media/image126.png
    :width: 3.9375in
    :height: 1.25in
 .. |PO| image:: media/image127.png
@@ -9997,7 +9893,7 @@ the **Product release** report.
 .. |AddExpenses| image:: media/image137.png
    :width: 4.63542in
    :height: 3.78125in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_doverennost\image305.png| image:: media/image138.png
+.. |image305.png| image:: media/image138.png
    :width: 3.9375in
    :height: 2.84375in
 .. |image307| image:: media/image139.png
@@ -10030,10 +9926,10 @@ the **Product release** report.
 .. |PrepaymentSetoff| image:: media/image148.png
    :width: 4.63542in
    :height: 3.34375in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_57109892_raskhodnyiy_order\image331.png| image:: media/image149.png
+.. |image331.png| image:: media/image149.png
    :width: 3.9375in
    :height: 1.96875in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1501241422_prikhodnyiy_order\image335.png| image:: media/image150.png
+.. |image335.png| image:: media/image150.png
    :width: 3.9375in
    :height: 2.02083in
 .. |IDC| image:: media/image151.png
@@ -10045,16 +9941,16 @@ the **Product release** report.
 .. |IDC3| image:: media/image153.png
    :width: 4.63542in
    :height: 2.16667in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_raschet_potrebnostey_v_zapasakh\image343.png| image:: media/image154.png
+.. |image343.png| image:: media/image154.png
    :width: 0.27083in
    :height: 0.125in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1022853550_prays_listyi_kontragentov\image347.png| image:: media/image155.png
+.. |image347.png| image:: media/image155.png
    :width: 2.39583in
    :height: 2.39583in
 .. |image349| image:: media/image156.png
    :width: 4.58333in
    :height: 5.52083in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_potrebnost_v_zapasakh\image351.png| image:: media/image157.png
+.. |image351.png| image:: media/image157.png
    :width: 3.9375in
    :height: 2.84375in
 .. |IMS| image:: media/image158.png
@@ -10069,13 +9965,13 @@ the **Product release** report.
 .. |POReport| image:: media/image161.png
    :width: 4.63542in
    :height: 3.26042in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_zakazyi_postavschikam\image363.png| image:: media/image162.png
+.. |image363.png| image:: media/image162.png
    :width: 3.9375in
    :height: 2.13542in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_oplata_zakazov\image365.png| image:: media/image163.png
+.. |image365.png| image:: media/image163.png
    :width: 3.9375in
    :height: 2.13542in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_oplata_schetov\image367.png| image:: media/image164.png
+.. |image367.png| image:: media/image164.png
    :width: 3.9375in
    :height: 1.97917in
 .. |Purchases1| image:: media/image165.png
@@ -10105,16 +10001,16 @@ the **Product release** report.
 .. |TranferredInv| image:: media/image173.png
    :width: 4.63542in
    :height: 2.375in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_ostatki_po_skladu\image387.png| image:: media/image174.png
+.. |image387.png| image:: media/image174.png
    :width: 4.21875in
    :height: 2.39583in
 .. |11| image:: media/image175.png
    :width: 4.39583in
    :height: 2.76042in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3010645395_dvizhenie_tovarov_po_skladam\image391.png| image:: media/image176.png
+.. |image391.png| image:: media/image176.png
    :width: 4.25in
    :height: 2.16667in
-.. |C:\Desktop\Image 1.png| image:: media/image177.png
+.. |C:DesktopImage 1.png| image:: media/image177.png
    :width: 4.60417in
    :height: 2.66667in
 .. |image178| image:: media/image178.png
@@ -10174,19 +10070,19 @@ the **Product release** report.
 .. |12| image:: media/image196.png
    :width: 4.53125in
    :height: 2.46875in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2267718557_oplata_zakazov\image417.png| image:: media/image197.png
+.. |image417.png| image:: media/image197.png
    :width: 3.9375in
    :height: 2.80208in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2267718557_otchet_zakazchiku\image419.png| image:: media/image198.png
+.. |image419.png| image:: media/image198.png
    :width: 3.9375in
    :height: 2.875in
 .. |ProductionDocuments| image:: media/image199.png
    :width: 4.63542in
    :height: 3.60417in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_sostav_produktsii_i_tekhnologiya_ee_vyipuska\image423.png| image:: media/image200.png
+.. |image423.png| image:: media/image200.png
    :width: 3.9375in
    :height: 1.63542in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_sostav_produktsii_i_tekhnologiya_ee_vyipuska\image425.png| image:: media/image201.png
+.. |image425.png| image:: media/image201.png
    :width: 3.92708in
    :height: 1.71875in
 .. |BOM| image:: media/image202.png
@@ -10195,7 +10091,7 @@ the **Product release** report.
 .. |PrO| image:: media/image203.png
    :width: 4.63542in
    :height: 2.92708in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2731615108_uchet_vyipuska_produktsii\image431.png| image:: media/image204.png
+.. |image431.png| image:: media/image204.png
    :width: 0.14583in
    :height: 0.125in
 .. |POLoading| image:: media/image205.png
@@ -10255,34 +10151,34 @@ the **Product release** report.
 .. |image477| image:: media/image223.png
    :width: 4.42708in
    :height: 3.11458in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3647657549_zakazyi_na_proizvodstvo\image479.png| image:: media/image224.png
+.. |image479.png| image:: media/image224.png
    :width: 4.33333in
    :height: 3.33333in
 .. |StBOM| image:: media/image225.png
    :width: 4.625in
    :height: 2.10417in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3647657549_plan_faktnyiy_analiz_proizvodstva\image483.png| image:: media/image226.png
+.. |image483.png| image:: media/image226.png
    :width: 4.32292in
    :height: 2.96875in
 .. |JobSheets| image:: media/image227.png
    :width: 4.63542in
    :height: 2.30208in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_dengi\image487.png| image:: media/image228.png
+.. |image487.png| image:: media/image228.png
    :width: 4.33333in
    :height: 2.95833in
 .. |image489| image:: media/image229.png
    :width: 4.54167in
    :height: 1.59375in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_valyutyi\image491.png| image:: media/image230.png
+.. |image491.png| image:: media/image230.png
    :width: 4.22917in
    :height: 2.85417in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1417130559_kursyi_valyut\image495.png| image:: media/image231.png
+.. |image495.png| image:: media/image231.png
    :width: 4.33333in
    :height: 1.19792in
 .. |image497| image:: media/image232.png
    :width: 4.4375in
    :height: 3.03125in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_stati_dvizheniya_denezhnyikh_sredstv\image499.png| image:: media/image233.png
+.. |image499.png| image:: media/image233.png
    :width: 4.25in
    :height: 3.21875in
 .. |CustDebtSelectForm| image:: media/image234.png
@@ -10300,7 +10196,7 @@ the **Product release** report.
 .. |SupDebtSelForm| image:: media/image238.png
    :width: 4.63542in
    :height: 2.75in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_podotchetniku\image511.png| image:: media/image239.png
+.. |image511.png| image:: media/image239.png
    :width: 4.33333in
    :height: 2.90625in
 .. |CashPaymentSalary| image:: media/image240.png
@@ -10312,7 +10208,7 @@ the **Product release** report.
 .. |CashPaymentTaxes| image:: media/image242.png
    :width: 4.63542in
    :height: 3.20833in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_762700623_dokumentyi_po_kasse\image519.png| image:: media/image243.png
+.. |image519.png| image:: media/image243.png
    :width: 4.33333in
    :height: 2.90625in
 .. |FundsMov| image:: media/image244.png
@@ -10333,7 +10229,7 @@ the **Product release** report.
 .. |ExpReport3| image:: media/image249.png
    :width: 4.63542in
    :height: 3.03125in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_4143743452_dokumentyi_po_banku\image537.png| image:: media/image250.png
+.. |image537.png| image:: media/image250.png
    :width: 4.33333in
    :height: 2.54167in
 .. |ExpReq| image:: media/image251.png
@@ -10345,19 +10241,19 @@ the **Product release** report.
 .. |FundsMov-t| image:: media/image253.png
    :width: 4.63542in
    :height: 2in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3651895756_dokumentyi_planirovaniya_deneg\image545.png| image:: media/image254.png
+.. |image545.png| image:: media/image254.png
    :width: 4.33333in
    :height: 2.38542in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2527283824_otchetyi_razdela__dengi_\image547.png| image:: media/image255.png
+.. |image547.png| image:: media/image255.png
    :width: 3.95833in
    :height: 3.76042in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1486783024_denezhnyie_sredstva\image549.png| image:: media/image256.png
+.. |image549.png| image:: media/image256.png
    :width: 4.33333in
    :height: 3.41667in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1486783024_prognoz_po_denezhnyim_sredstvam\image551.png| image:: media/image257.png
+.. |image551.png| image:: media/image257.png
    :width: 4.33333in
    :height: 2.38542in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1486783024_prognoz_po_denezhnyim_sredstvam\image553.png| image:: media/image258.png
+.. |image553.png| image:: media/image258.png
    :width: 4.33333in
    :height: 2.38542in
 .. |SettlWithAdvHolder| image:: media/image259.png
@@ -10366,7 +10262,7 @@ the **Product release** report.
 .. |image557| image:: media/image260.png
    :width: 4.42708in
    :height: 2.29167in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_402781231_vidyi_nachisleniy_i_uderzhaniy\image559.png| image:: media/image261.png
+.. |image559.png| image:: media/image261.png
    :width: 0.13542in
    :height: 0.11458in
 .. |image561| image:: media/image262.png
@@ -10378,7 +10274,7 @@ the **Product release** report.
 .. |image565| image:: media/image264.png
    :width: 4.29167in
    :height: 2.78125in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2002997309_priem_na_rabotu\image567.png| image:: media/image265.png
+.. |image567.png| image:: media/image265.png
    :width: 4.33333in
    :height: 2.55208in
 .. |600| image:: media/image266.png
@@ -10399,7 +10295,7 @@ the **Product release** report.
 .. |Timesheet| image:: media/image271.png
    :width: 4.63542in
    :height: 3.02083in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_nachislenie_zarplatyi_sotrudnikam\image581.png| image:: media/image272.png
+.. |image581.png| image:: media/image272.png
    :width: 4.33333in
    :height: 2.70833in
 .. |CalculationParameter| image:: media/image273.png
@@ -10417,7 +10313,7 @@ the **Product release** report.
 .. |WS| image:: media/image277.png
    :width: 4.625in
    :height: 3.94792in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_331584693_platezhnaya_vedomost\image593.png| image:: media/image278.png
+.. |image593.png| image:: media/image278.png
    :width: 4.33333in
    :height: 2.32292in
 .. |PR| image:: media/image279.png
@@ -10453,16 +10349,16 @@ the **Product release** report.
 .. |DA| image:: media/image289.png
    :width: 4.59375in
    :height: 3.3125in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_prochie_zatratyi__raskhodyi_\image617.png| image:: media/image290.png
+.. |image617.png| image:: media/image290.png
    :width: 4.33333in
    :height: 2.5625in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_uchet_nalogov\image619.png| image:: media/image291.png
+.. |image619.png| image:: media/image291.png
    :width: 4.33333in
    :height: 2.5625in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_uchet_nalogov\image621.png| image:: media/image292.png
+.. |image621.png| image:: media/image292.png
    :width: 4.25in
    :height: 2.20833in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3139127642_zakryitie_mesyatsa\image623.png| image:: media/image293.png
+.. |image623.png| image:: media/image293.png
    :width: 4.21875in
    :height: 3.08333in
 .. |AccAn| image:: media/image294.png
@@ -10477,7 +10373,7 @@ the **Product release** report.
 .. |Image 7| image:: media/image297.png
    :width: 4.20833in
    :height: 2.98958in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_4112364289_svedeniya_ob_imuschestve\image633.png| image:: media/image298.png
+.. |image633.png| image:: media/image298.png
    :width: 3.85417in
    :height: 2.51042in
 .. |Image 8| image:: media/image299.png
@@ -10519,7 +10415,7 @@ the **Product release** report.
 .. |image661| image:: media/image311.png
    :width: 4.44792in
    :height: 2.95833in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_943187146_neraspredelennyie_zatratyi\image663.png| image:: media/image312.png
+.. |image663.png| image:: media/image312.png
    :width: 4.04167in
    :height: 2.60417in
 .. |image665| image:: media/image313.png
@@ -10528,13 +10424,13 @@ the **Product release** report.
 .. |Image11| image:: media/image314.png
    :width: 4.63542in
    :height: 2.98958in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_943187146_planyi_prodazh\image669.png| image:: media/image315.png
+.. |image669.png| image:: media/image315.png
    :width: 4.29167in
    :height: 3.25in
 .. |Image12| image:: media/image316.png
    :width: 4.63542in
    :height: 3.29167in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1890283369_obschie_pokazateli\image673.png| image:: media/image317.png
+.. |image673.png| image:: media/image317.png
    :width: 4.33333in
    :height: 3.86458in
 .. |FundsWidget| image:: media/image318.png
@@ -10546,13 +10442,13 @@ the **Product release** report.
 .. |CompDebt| image:: media/image320.png
    :width: 4.66667in
    :height: 3.64583in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_1890283369_otchetyi_razdela__analiz_\image681.png| image:: media/image321.png
+.. |image681.png| image:: media/image321.png
    :width: 4.33333in
    :height: 3.21875in
 .. |Image13| image:: media/image322.png
    :width: 4.63542in
    :height: 2.98958in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_sebestoimost\image685.png| image:: media/image323.png
+.. |image685.png| image:: media/image323.png
    :width: 3.9375in
    :height: 3.21875in
 .. |Image 1| image:: media/image324.png
@@ -10567,22 +10463,22 @@ the **Product release** report.
 .. |Image 4| image:: media/image327.png
    :width: 4.625in
    :height: 3.25in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_finansovyiy_rezultat\image695.png| image:: media/image328.png
+.. |image695.png| image:: media/image328.png
    :width: 4.33333in
    :height: 3.33333in
 .. |Image 5| image:: media/image329.png
    :width: 4.63542in
    :height: 3.26042in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_finansovyiy_rezultat__prognoz_\image699.png| image:: media/image330.png
+.. |image699.png| image:: media/image330.png
    :width: 4.33333in
    :height: 2.11458in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_pribyili_i_ubyitki\image701.png| image:: media/image331.png
+.. |image701.png| image:: media/image331.png
    :width: 4.33333in
    :height: 3.28125in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_dvizhenie_denezhnyikh_sredstv\image703.png| image:: media/image328.png
+.. |image703.png| image:: media/image328.png
    :width: 3.9375in
    :height: 3.58333in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_dokhodyi_i_raskhodyi_kassovyim_metodom\image705.png| image:: media/image332.png
+.. |image705.png| image:: media/image332.png
    :width: 4.30208in
    :height: 3.38542in
 .. |1111111111111| image:: media/image333.png
@@ -10597,7 +10493,7 @@ the **Product release** report.
 .. |Image 10| image:: media/image336.png
    :width: 4.63542in
    :height: 3.17708in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2808776488_prognoznyiy_balans\image719.png| image:: media/image337.png
+.. |image719.png| image:: media/image337.png
    :width: 4.25in
    :height: 3.05208in
 .. |EnableSection.png| image:: media/image338.png
@@ -10714,7 +10610,7 @@ the **Product release** report.
 .. |ClDateCommon| image:: media/image375.png
    :width: 4.34375in
    :height: 3.6875in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3751951237_nastroyka_avtomaticheskogo_rezervnogo_kopirovaniya\image739.png| image:: media/image376.png
+.. |image739.png| image:: media/image376.png
    :width: 3.46875in
    :height: 2.47917in
 .. |Image 15| image:: media/image377.png
@@ -10726,7 +10622,7 @@ the **Product release** report.
 .. |image745| image:: media/image379.png
    :width: 4.52083in
    :height: 2.94792in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniy\image747.png| image:: media/image380.png
+.. |image747.png| image:: media/image380.png
    :width: 4.33333in
    :height: 3.28125in
 .. |Image 16| image:: media/image381.png
@@ -10735,13 +10631,13 @@ the **Product release** report.
 .. |Image 1| image:: media/image382.png
    :width: 4.48958in
    :height: 3.5in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_826652919_primer_naznacheniya_i_ispolzovaniya_dopolnitelnyikh_rekvizitov_i_svedeniy\image753.png| image:: media/image383.png
+.. |image753.png| image:: media/image383.png
    :width: 4.33333in
    :height: 2.94792in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_registratsiya_polzovatelya\image755.png| image:: media/image384.png
+.. |image755.png| image:: media/image384.png
    :width: 4.33333in
    :height: 4.01042in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2285745015_autentifikatsiya_polzovatelya\image757.png| image:: media/image385.png
+.. |image757.png| image:: media/image385.png
    :width: 2.8125in
    :height: 1.11458in
 .. |Image 25| image:: media/image386.png
@@ -10771,25 +10667,25 @@ the **Product release** report.
 .. |image774| image:: media/image394.png
    :width: 4.45833in
    :height: 2.54167in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3686875335_reglamentnyie_i_fonovyie_zadaniya\image776.png| image:: media/image395.png
+.. |image776.png| image:: media/image395.png
    :width: 4.33333in
    :height: 2.83333in
 .. |11111| image:: media/image396.png
    :width: 4.51042in
    :height: 2.98958in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2057013087_nastroyki_sinkhronizatsii_dannyikh\image780.png| image:: media/image397.png
+.. |image780.png| image:: media/image397.png
    :width: 4.33333in
    :height: 2.97917in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytom\image782.png| image:: media/image398.png
+.. |image782.png| image:: media/image398.png
    :width: 4.33333in
    :height: 2.875in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytom\image784.png| image:: media/image399.png
+.. |image784.png| image:: media/image399.png
    :width: 4.33333in
    :height: 3.20833in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_3111027094_nastroyka_obmena_s_saytom\image786.png| image:: media/image400.png
+.. |image786.png| image:: media/image400.png
    :width: 4.33333in
    :height: 3.5in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_2057013087_podklyuchaemoe_oborudovanie\image790.png| image:: media/image401.png
+.. |image790.png| image:: media/image401.png
    :width: 4.33333in
    :height: 3.17708in
 .. |image792| image:: media/image402.png
@@ -10801,7 +10697,7 @@ the **Product release** report.
 .. |image796| image:: media/image404.png
    :width: 4.07292in
    :height: 3.41667in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_519374254_personalnyie_nastroyki\image798.png| image:: media/image405.png
+.. |image798.png| image:: media/image405.png
    :width: 4.33333in
    :height: 2.94792in
 .. |FileOperationInterface| image:: media/image406.png
@@ -10840,36 +10736,36 @@ the **Product release** report.
 .. |image806| image:: media/image417.png
    :width: 4.30208in
    :height: 2.61458in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_konstruirovanie_rabochego_prostranstva\image808.png| image:: media/image418.png
+.. |image808.png| image:: media/image418.png
    :width: 0.10417in
    :height: 0.125in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_konstruirovanie_rabochego_prostranstva\image810.png| image:: media/image419.png
+.. |image810.png| image:: media/image419.png
    :width: 3.46875in
    :height: 2.44792in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsa\image812.png| image:: media/image420.png
+.. |image812.png| image:: media/image420.png
    :width: 4.25in
    :height: 2.75in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsa\image814.png| image:: media/image421.png
+.. |image814.png| image:: media/image421.png
    :width: 4.33333in
    :height: 2.8125in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nachalnaya_stranitsa\image816.png| image:: media/image422.png
+.. |image816.png| image:: media/image422.png
    :width: 0.25in
    :height: 0.125in
 .. |image818| image:: media/image423.png
    :width: 4.0625in
    :height: 2.89583in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_panel_razdelov\image820.png| image:: media/image424.png
+.. |image820.png| image:: media/image424.png
    :width: 4.25in
    :height: 2.98958in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_oblast_sistemnyikh_komand_osnovnogo_i_vspomogatelnogo_okna\image822.png| image:: media/image425.png
+.. |image822.png| image:: media/image425.png
    :height: 0.11458in
 .. |image824| image:: media/image426.png
    :width: 4.04167in
    :height: 3.89583in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_nastroyka_formyi\image826.png| image:: media/image427.png
+.. |image826.png| image:: media/image427.png
    :width: 4.22917in
    :height: 3.80208in
-.. |C:\Users\pushkareva\Desktop\Новая папка\унф_1-5_manual_ru-v001_для_картинок_v2_307726112_sistemnyie_parametryi\image828.png| image:: media/image428.png
+.. |image828.png| image:: media/image428.png
    :width: 2.66667in
    :height: 3.01042in
 .. |Counter| image:: media/image429.png
