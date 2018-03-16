@@ -10,6 +10,20 @@ Welcome to serp-doc-en's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   1CSimpleERP.rst
+   CHAPTER_1.rst
+   CHAPTER_2.rst
+   CHAPTER_3.rst
+   CHAPTER_4.rst
+   CHAPTER_5.rst
+   CHAPTER_6.rst
+   CHAPTER_7.rst
+   CHAPTER_8.rst
+   CHAPTER_9.rst
+   CHAPTER_10.rst
+   CHAPTER_11.rst
+   CHAPTER_12.rst
+   CHAPTER_13.rst
 
 
 Indices and tables
